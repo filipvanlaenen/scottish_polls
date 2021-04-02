@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the Scottish Parliament</title>
+    <link>https://filipvanlaenen.github.io/scottish_polls</link>
+    <description>All Registered Polls for the Scottish Parliament</description>
+    <pubDate>Fri, 2 Apr 2021 21:08:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinium for Sky News, 11–16 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.html</link>
+      <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Opinium for Sky News, 11–16 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.png" length="13831" type="image/png"/>
+      <pubDate>Fri, 2 Apr 2021 21:08:10 +0200</pubDate>
+      <dc:date>2021-04-02T21:08:10.889481+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Scotland in Union, 9–12 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-12-Survation.html</link>
+      <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Survation for Scotland in Union, 9–12 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-12-Survation.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-12-Survation.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-12-Survation.png" length="14315" type="image/png"/>
+      <pubDate>Fri, 2 Apr 2021 21:12:39 +0200</pubDate>
+      <dc:date>2021-04-02T21:12:39.405338+02:00</dc:date>
+    </item>
+  </channel>
+</rss>
