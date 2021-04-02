@@ -10,20 +10,20 @@ Last result: **0.0%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.3–9.2% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.4–10.3% | 5.2–10.9% | 4.9–11.3% | 4.5–12.1% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 11.0% | N/A | N/A | N/A | N/A |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 11.2% | N/A | N/A | N/A | N/A |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 8.0% | N/A | N/A | N/A | N/A |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 11.1% | N/A | N/A | N/A | N/A |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.2–9.3% |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
-| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10.0% | N/A | N/A | N/A | N/A |
-| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 6.0% | N/A | N/A | N/A | N/A |
-| [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 6.0% | N/A | N/A | N/A | N/A |
-| [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 11.0% | N/A | N/A | N/A | N/A |
-| [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 8.0% | N/A | N/A | N/A | N/A |
-| [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10.0% | N/A | N/A | N/A | N/A |
-| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 8.1% | N/A | N/A | N/A | N/A |
+| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
+| [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
+| [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
+| [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10.0% | 8.9–11.3% | 8.5–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 8.1% | 7.1–9.3% | 6.9–9.6% | 6.6–9.9% | 6.2–10.5% |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 11.0% | N/A | N/A | N/A | N/A |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 11.0% | N/A | N/A | N/A | N/A |
 | [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 12.0% | N/A | N/A | N/A | N/A |
@@ -88,14 +88,17 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 23% | 98% |  |
-| 6.5–7.5% | 48% | 76% | Median |
-| 7.5–8.5% | 24% | 28% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 11% | 99.4% |  |
+| 5.5–6.5% | 31% | 88% |  |
+| 6.5–7.5% | 23% | 57% | Median |
+| 7.5–8.5% | 9% | 33% |  |
+| 8.5–9.5% | 7% | 25% |  |
+| 9.5–10.5% | 10% | 18% |  |
+| 10.5–11.5% | 6% | 8% |  |
+| 11.5–12.5% | 1.5% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -106,20 +109,20 @@ Last result: **0** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–10 | 3–10 | 3–10 | 3–10 |
+| N/A | [Poll Average](average.html) | 5 | 3–11 | 3–11 | 3–12 | 2–13 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express |  |  |  |  |  |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland |  |  |  |  |  |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 6 | 4–10 | 3–10 | 3–10 | 3–10 |
-| [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 10 | 10–11 | 10–12 | 9–12 | 8–13 |
-| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
-| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record |  |  |  |  |  |
-| [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
-| [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
-| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
+| [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 10 | 10–12 | 10–12 | 10–13 | 8–13 |
+| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10 | 10–12 | 10–12 | 9–13 | 7–13 |
+| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 4 | 3–8 | 3–9 | 3–10 | 2–10 |
+| [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 4 | 3–7 | 2–9 | 2–10 | 2–10 |
+| [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
+| [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 10 | 6–10 | 5–10 | 4–10 | 3–11 |
+| [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10 | 10–12 | 10–12 | 10–12 | 8–13 |
+| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 10 | 7–10 | 5–10 | 5–11 | 4–11 |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop |  |  |  |  |  |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
 | [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
@@ -184,15 +187,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 5% | 99.8% |  |
-| 4 | 19% | 95% |  |
-| 5 | 19% | 75% |  |
-| 6 | 7% | 56% | Median |
-| 7 | 3% | 49% |  |
-| 8 | 2% | 46% |  |
-| 9 | 3% | 44% |  |
-| 10 | 41% | 41% |  |
-| 11 | 0% | 0% |  |
+| 2 | 2% | 100% |  |
+| 3 | 20% | 98% |  |
+| 4 | 16% | 78% |  |
+| 5 | 14% | 62% | Median |
+| 6 | 5% | 49% |  |
+| 7 | 2% | 44% |  |
+| 8 | 2% | 42% |  |
+| 9 | 3% | 40% |  |
+| 10 | 25% | 37% |  |
+| 11 | 9% | 12% |  |
+| 12 | 2% | 3% |  |
+| 13 | 0.5% | 0.6% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
