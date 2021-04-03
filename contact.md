@@ -12,9 +12,8 @@ If you
 
 you can contact me through any of the following channels:
 
-+ Create a [GitHub issue](https://github.com/filipvanlaenen/british_polls/issues)
++ Create a [GitHub issue](https://github.com/filipvanlaenen/scottish_polls/issues)
   on this site's GitHub project
-+ Send me a notification on Twitter at [@gbrpolls](https://twitter.com/gbrpolls)
 + Send me an e-mail at [f.a.vanlaenen@ieee.org](mailto:f.a.vanlaenen@ieee.org)
 
 You can also check out my [backlog](backlog.html) to see whether your suggestion
