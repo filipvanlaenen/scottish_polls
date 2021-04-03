@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Sat, 03 Apr 2021 19:13:17 +0200</pubDate>
+    <pubDate>Sat, 03 Apr 2021 20:08:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 58–67 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 19–25 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 21–27 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 10–15 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6–12 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation-seats.png"
+        length="174088"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 19:45:56 +0200</pubDate>
+      <dc:date>2021-04-03T19:45:56.094055+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation-coalitions-seats.png"
+        length="266499"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 19:45:56 +0200</pubDate>
+      <dc:date>2021-04-03T19:45:56.094055+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.png"
         length="222006"
         type="image/png"/>
-      <pubDate>Sat, 03 Apr 2021 17:11:45 +0200</pubDate>
-      <dc:date>2021-04-03T17:11:45.671736+02:00</dc:date>
+      <pubDate>Sat, 03 Apr 2021 19:45:56 +0200</pubDate>
+      <dc:date>2021-04-03T19:45:56.094055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Find Out Now for Daily Express, 23–26 March 2021 – Voting Intentions</title>
@@ -119,6 +139,46 @@
       <pubDate>Sat, 03 Apr 2021 19:13:17 +0200</pubDate>
       <dc:date>2021-04-03T19:13:17.845653+02:00</dc:date>
     </item>
-    <dc:date>2021-04-03T19:13:17.845653+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 4–9 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-02-09-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 40.0–46.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.5–23.6%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.7–20.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-02-09-SavantaComRes.png"
+        length="205319"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 19:31:17 +0200</pubDate>
+      <dc:date>2021-04-03T19:31:17.436874+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 19–22 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-01-22-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 43.5–49.5%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 17.9–22.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 14.1–18.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 6.6–9.9%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.8–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-01-22-Panelbase.png"
+        length="199858"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 19:46:56 +0200</pubDate>
+      <dc:date>2021-04-03T19:46:56.203938+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Scot Goes Pop, 11–13 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-01-13-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 37.0–43.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 14.8–19.4%&lt;/li&gt;&lt;li&gt;Scottish Labour: 16.7–21.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7.4–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-01-13-Survation.png"
+        length="205213"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 19:59:55 +0200</pubDate>
+      <dc:date>2021-04-03T19:59:55.111308+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 8–13 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-01-13-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 41.0–47.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.8–20.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6.5–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-01-13-SavantaComRes.png"
+        length="204524"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 20:08:30 +0200</pubDate>
+      <dc:date>2021-04-03T20:08:30.094295+02:00</dc:date>
+    </item>
+    <dc:date>2021-04-03T20:08:30.094295+02:00</dc:date>
   </channel>
 </rss>
