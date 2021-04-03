@@ -111,7 +111,7 @@ Last result: **31** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 23–32 | 21–32 | 20–33 | 19–34 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 22 | 20–24 | 19–25 | 18–25 | 17–27 |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 22 | 20–24 | 19–25 | 19–25 | 18–27 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 27 | 24–30 | 23–31 | 23–31 | 21–32 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 27 | 25–31 | 24–32 | 23–32 | 22–33 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 21 | 19–24 | 19–24 | 19–25 | 19–26 |
@@ -125,7 +125,7 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
 | [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 25 | 23–26 | 22–28 | 21–30 | 20–31 |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 19 | 17–21 | 17–22 | 16–23 | 16–24 |
-| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 19 | 16–20 | 16–21 | 16–22 | 15–23 |
+| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 19 | 16–20 | 16–21 | 15–22 | 15–23 |
 | [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
 | [4–9 December 2020](2020-12-09-Survation.html) | Survation |  |  |  |  |  |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
@@ -187,13 +187,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.4% | 99.9% |  |
-| 19 | 0.8% | 99.5% |  |
-| 20 | 2% | 98.8% |  |
+| 18 | 0.2% | 99.9% |  |
+| 19 | 0.6% | 99.7% |  |
+| 20 | 2% | 99.1% |  |
 | 21 | 2% | 97% |  |
 | 22 | 3% | 95% |  |
 | 23 | 3% | 92% |  |
-| 24 | 7% | 88% |  |
+| 24 | 7% | 89% |  |
 | 25 | 10% | 82% |  |
 | 26 | 12% | 72% |  |
 | 27 | 11% | 60% | Median |

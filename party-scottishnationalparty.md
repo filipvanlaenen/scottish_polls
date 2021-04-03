@@ -114,7 +114,7 @@ Last result: **63** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 65 | 61–71 | 60–72 | 59–73 | 57–74 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 62 | 59–66 | 59–67 | 58–68 | 56–69 |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 62 | 59–65 | 59–66 | 58–67 | 56–68 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 66 | 64–70 | 63–70 | 62–71 | 60–72 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 65 | 62–69 | 61–69 | 61–70 | 60–70 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 67 | 62–68 | 62–69 | 62–69 | 61–70 |
@@ -193,16 +193,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0.2% | 99.9% |  |
 | 56 | 0.2% | 99.7% |  |
 | 57 | 0.4% | 99.5% |  |
-| 58 | 0.4% | 99.2% |  |
-| 59 | 3% | 98.8% |  |
-| 60 | 4% | 95% |  |
-| 61 | 7% | 91% |  |
-| 62 | 9% | 84% |  |
-| 63 | 12% | 75% | Last Result |
-| 64 | 10% | 63% |  |
-| 65 | 13% | 53% | Median, Majority |
-| 66 | 8% | 40% |  |
-| 67 | 8% | 32% |  |
+| 58 | 0.5% | 99.2% |  |
+| 59 | 4% | 98.6% |  |
+| 60 | 5% | 95% |  |
+| 61 | 7% | 90% |  |
+| 62 | 10% | 84% |  |
+| 63 | 12% | 74% | Last Result |
+| 64 | 10% | 62% |  |
+| 65 | 13% | 52% | Median, Majority |
+| 66 | 8% | 39% |  |
+| 67 | 7% | 31% |  |
 | 68 | 5% | 24% |  |
 | 69 | 6% | 19% |  |
 | 70 | 4% | 14% |  |
