@@ -10,10 +10,10 @@ Last result: **5.2%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 4.5–8.1% | 4.3–8.6% | 4.1–9.0% | 3.7–9.8% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.6–8.5% | 4.3–8.9% | 4.1–9.3% | 3.7–10.0% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
-| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 8.0% | N/A | N/A | N/A | N/A |
+| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 7.1% | N/A | N/A | N/A | N/A |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 5.0% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -85,14 +85,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 10% | 99.7% |  |
-| 4.5–5.5% | 31% | 90% | Last Result |
-| 5.5–6.5% | 24% | 59% | Median |
-| 6.5–7.5% | 17% | 34% |  |
-| 7.5–8.5% | 12% | 17% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.8% | 0.9% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 9% | 99.8% |  |
+| 4.5–5.5% | 27% | 91% | Last Result |
+| 5.5–6.5% | 21% | 65% | Median |
+| 6.5–7.5% | 18% | 43% |  |
+| 7.5–8.5% | 17% | 26% |  |
+| 8.5–9.5% | 7% | 9% |  |
+| 9.5–10.5% | 1.3% | 1.5% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -105,12 +105,12 @@ Last result: **5** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–8 | 2–8 | 2–10 | 2–10 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 8 | 6–10 | 6–10 | 5–10 | 4–11 |
-| [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 4 | 2–5 | 2–5 | 2–5 | 2–7 |
-| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 4–9 | 3–10 | 2–10 | 2–12 |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 8 | 7–10 | 6–11 | 6–12 | 5–12 |
+| [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 5 | 3–5 | 2–5 | 2–6 | 2–6 |
+| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 8 | 6–10 | 6–10 | 6–11 | 5–11 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
-| [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 4 | 2–5 | 2–5 | 2–6 | 2–6 |
+| [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 5 | 3–5 | 2–5 | 2–6 | 2–6 |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 8 | 6–9 | 6–10 | 5–10 | 4–11 |
 | [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 5 | 4–6 | 3–6 | 3–7 | 2–8 |
 | [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–5 | 2–6 | 2–7 |
@@ -181,16 +181,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% |  |
-| 3 | 5% | 95% |  |
-| 4 | 21% | 90% |  |
-| 5 | 35% | 69% | Last Result, Median |
-| 6 | 11% | 34% |  |
-| 7 | 7% | 23% |  |
-| 8 | 12% | 17% |  |
-| 9 | 2% | 5% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.4% | 0.5% |  |
-| 12 | 0% | 0% |  |
+| 2 | 3% | 100% |  |
+| 3 | 3% | 97% |  |
+| 4 | 11% | 93% |  |
+| 5 | 39% | 82% | Last Result, Median |
+| 6 | 12% | 44% |  |
+| 7 | 6% | 32% |  |
+| 8 | 16% | 26% |  |
+| 9 | 5% | 10% |  |
+| 10 | 3% | 5% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.5% | 0.5% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 

@@ -10,10 +10,10 @@ Last result: **6.6%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 5.7–11.7% | 5.3–12.2% | 5.1–12.6% | 4.6–13.4% |
+| N/A | [Poll Average](average.html) | 8.2% | 5.8–11.6% | 5.4–12.1% | 5.1–12.5% | 4.6–13.3% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 11.2% | 10.0–12.5% | 9.6–12.9% | 9.4–13.2% | 8.8–13.9% |
-| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 8.0% | N/A | N/A | N/A | N/A |
+| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 11.1% | N/A | N/A | N/A | N/A |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.2–9.3% |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -86,16 +86,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 8% | 99.6% |  |
-| 5.5–6.5% | 21% | 92% |  |
-| 6.5–7.5% | 16% | 71% | Last Result |
-| 7.5–8.5% | 6% | 56% | Median |
-| 8.5–9.5% | 6% | 50% |  |
-| 9.5–10.5% | 14% | 44% |  |
-| 10.5–11.5% | 17% | 29% |  |
-| 11.5–12.5% | 9% | 12% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.3% | 0.4% |  |
+| 4.5–5.5% | 7% | 99.6% |  |
+| 5.5–6.5% | 18% | 93% |  |
+| 6.5–7.5% | 17% | 75% | Last Result |
+| 7.5–8.5% | 11% | 58% | Median |
+| 8.5–9.5% | 9% | 47% |  |
+| 9.5–10.5% | 13% | 38% |  |
+| 10.5–11.5% | 15% | 25% |  |
+| 11.5–12.5% | 8% | 11% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.3% | 0.3% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -107,10 +107,10 @@ Last result: **6** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 3–13 | 3–13 | 3–13 | 2–14 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
-| [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 12 | 11–13 | 10–13 | 10–14 | 10–15 |
-| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 10 | 3–13 | 3–13 | 3–14 | 2–15 |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 12 | 10–14 | 10–14 | 10–15 | 10–15 |
+| [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
+| [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 10 | 5–10 | 5–10 | 4–10 | 4–11 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 6 | 4–10 | 3–10 | 3–10 | 3–10 |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 10 | 10–12 | 10–12 | 10–13 | 8–13 |
@@ -183,20 +183,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% |  |
-| 3 | 13% | 98% |  |
-| 4 | 10% | 85% |  |
-| 5 | 9% | 75% |  |
-| 6 | 3% | 66% | Last Result |
-| 7 | 2% | 63% |  |
-| 8 | 1.2% | 61% |  |
-| 9 | 1.5% | 60% |  |
-| 10 | 21% | 58% | Median |
-| 11 | 16% | 38% |  |
+| 2 | 1.3% | 100% |  |
+| 3 | 12% | 98.6% |  |
+| 4 | 9% | 87% |  |
+| 5 | 8% | 78% |  |
+| 6 | 5% | 70% | Last Result |
+| 7 | 3% | 65% |  |
+| 8 | 2% | 63% |  |
+| 9 | 3% | 60% |  |
+| 10 | 25% | 57% | Median |
+| 11 | 11% | 33% |  |
 | 12 | 10% | 21% |  |
-| 13 | 10% | 12% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.2% | 0.3% |  |
+| 13 | 8% | 12% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.7% | 0.8% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
