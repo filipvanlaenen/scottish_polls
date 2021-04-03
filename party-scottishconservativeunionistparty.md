@@ -14,7 +14,7 @@ Last result: **22.9%** (General Election of 5 May 2016)
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 21.2% | 19.7–23.0% | 19.2–23.4% | 18.8–23.9% | 18.1–24.7% |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 22.0% | 20.4–23.8% | 20.0–24.3% | 19.6–24.7% | 18.9–25.5% |
-| [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 19.2% | N/A | N/A | N/A | N/A |
+| [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 19.2% | 18.0–20.6% | 17.6–20.9% | 17.3–21.3% | 16.7–21.9% |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 22.3% | 20.7–23.9% | 20.3–24.4% | 19.9–24.8% | 19.2–25.7% |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.6–23.6% | 17.8–24.4% |
 | [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
@@ -110,16 +110,16 @@ Last result: **31** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 23–32 | 21–32 | 20–32 | 19–34 |
+| N/A | [Poll Average](average.html) | 27 | 23–32 | 21–32 | 20–33 | 19–34 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 22 | 20–24 | 19–25 | 18–25 | 17–27 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 27 | 24–30 | 23–31 | 23–31 | 21–32 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 27 | 25–31 | 24–32 | 23–32 | 22–33 |
-| [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
-| [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 29 | 25–32 | 25–32 | 24–33 | 24–34 |
+| [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 21 | 19–24 | 19–24 | 19–25 | 19–26 |
+| [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 29 | 25–32 | 25–32 | 24–32 | 24–34 |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 25 | 22–27 | 22–28 | 21–29 | 20–30 |
-| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 29 | 26–32 | 25–33 | 24–33 | 23–34 |
-| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 29 | 25–32 | 25–32 | 24–32 | 24–34 |
-| [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 30 | 25–32 | 25–32 | 25–33 | 24–34 |
+| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 30 | 27–33 | 26–33 | 25–34 | 24–35 |
+| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 27 | 25–32 | 25–32 | 24–32 | 24–34 |
+| [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 29 | 25–32 | 25–32 | 24–33 | 24–34 |
 | [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 24 | 21–27 | 21–27 | 20–28 | 19–29 |
 | [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 27 | 25–31 | 25–32 | 24–32 | 24–33 |
 | [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
@@ -194,17 +194,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 3% | 95% |  |
 | 23 | 3% | 92% |  |
 | 24 | 7% | 88% |  |
-| 25 | 11% | 82% |  |
-| 26 | 11% | 71% |  |
-| 27 | 10% | 60% | Median |
-| 28 | 8% | 50% |  |
-| 29 | 10% | 42% |  |
-| 30 | 12% | 32% |  |
-| 31 | 10% | 20% | Last Result |
-| 32 | 8% | 10% |  |
-| 33 | 2% | 2% |  |
-| 34 | 0.6% | 0.7% |  |
-| 35 | 0.1% | 0.2% |  |
-| 36 | 0% | 0% |  |
+| 25 | 10% | 82% |  |
+| 26 | 12% | 72% |  |
+| 27 | 11% | 60% | Median |
+| 28 | 7% | 48% |  |
+| 29 | 8% | 41% |  |
+| 30 | 11% | 33% |  |
+| 31 | 10% | 21% | Last Result |
+| 32 | 8% | 11% |  |
+| 33 | 3% | 4% |  |
+| 34 | 0.6% | 0.8% |  |
+| 35 | 0.2% | 0.3% |  |
+| 36 | 0.1% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 
