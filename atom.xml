@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/scottish_polls</id>
+  <title>All Registered Polls for the Scottish Parliament</title>
+  <updated>2021-04-03T11:13:40.683592+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 34.0–40.0%, 58–67 seats</li><li>Scottish Conservative &amp; Unionist Party: 15.7–20.5%, 19–25 seats</li><li>Scottish Labour: 16.7–21.6%, 21–27 seats</li><li>Scottish Greens: 9.2–13.1%, 10–15 seats</li><li>Scottish Liberal Democrats: 6.5–9.9%, 6–12 seats</li><li>Alba Party: 2.1–4.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html"/>
+    <title>Opinion Poll by Survation for The Courier, 29–30 March 2021</title>
+    <updated>2021-04-03T11:13:40.683592+02:00</updated>
+    <dc:date>2021-04-03T11:13:40.683592+02:00</dc:date>
+  </entry>
+  <dc:date>2021-04-03T11:13:40.683592+02:00</dc:date>
+</feed>
