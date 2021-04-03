@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Sat, 03 Apr 2021 16:14:14 +0200</pubDate>
+    <pubDate>Sat, 03 Apr 2021 16:27:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Sat, 03 Apr 2021 15:44:59 +0200</pubDate>
       <dc:date>2021-04-03T15:44:59.189545+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Find Out Now for Daily Express, 23–26 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-26-FindOutNow.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 39.5–45.5%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.8–23.9%&lt;/li&gt;&lt;li&gt;Scottish Labour: 14.0–18.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.4–13.2%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Reform UK: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-26-FindOutNow.png"
+        length="218186"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 16:27:39 +0200</pubDate>
+      <dc:date>2021-04-03T16:27:39.476194+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for Sky News, 11–16 March 2021 – Voting Intentions</title>
@@ -46,9 +56,9 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.png"
         length="214567"
         type="image/png"/>
-      <pubDate>Sat, 03 Apr 2021 16:14:14 +0200</pubDate>
-      <dc:date>2021-04-03T16:14:14.803119+02:00</dc:date>
+      <pubDate>Sat, 03 Apr 2021 16:19:17 +0200</pubDate>
+      <dc:date>2021-04-03T16:19:17.483651+02:00</dc:date>
     </item>
-    <dc:date>2021-04-03T16:14:14.803119+02:00</dc:date>
+    <dc:date>2021-04-03T16:27:39.476194+02:00</dc:date>
   </channel>
 </rss>
