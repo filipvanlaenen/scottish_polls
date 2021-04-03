@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42.3% | 39.4–45.5% | 38.6–46.3% | 38.0–47.0% | 36.9–48.1% |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 37.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 41.5% | 36.9–45.2% | 36.0–46.1% | 35.3–46.8% | 34.1–48.0% |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 42.5% | N/A | N/A | N/A | N/A |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 42.0% | N/A | N/A | N/A | N/A |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 39.4% | N/A | N/A | N/A | N/A |
@@ -24,8 +24,8 @@ Last result: **0.0%** (General Election of 5 May 2016)
 | [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 47.0% | 45.1–49.0% | 44.5–49.6% | 44.0–50.1% | 43.1–51.1% |
 | [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 43.0% | 41.0–45.0% | 40.5–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 46.5% | 44.5–48.4% | 43.9–49.0% | 43.5–49.5% | 42.5–50.4% |
-| [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 40.0% | N/A | N/A | N/A | N/A |
-| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 44.0% | N/A | N/A | N/A | N/A |
+| [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 40.0% | 38.1–42.0% | 37.5–42.6% | 37.0–43.0% | 36.1–44.0% |
+| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 44.0% | 42.0–46.0% | 41.5–46.6% | 41.0–47.1% | 40.0–48.0% |
 | [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 42.0% | N/A | N/A | N/A | N/A |
 | [4–9 December 2020](2020-12-09-Survation.html) | Survation | 41.0% | N/A | N/A | N/A | N/A |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 47.0% | N/A | N/A | N/A | N/A |
@@ -117,22 +117,22 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0% | 100% |  |
-| 35.5–36.5% | 0.2% | 100% |  |
-| 36.5–37.5% | 1.1% | 99.7% |  |
-| 37.5–38.5% | 3% | 98.7% |  |
-| 38.5–39.5% | 7% | 95% |  |
-| 39.5–40.5% | 11% | 89% |  |
-| 40.5–41.5% | 15% | 77% |  |
-| 41.5–42.5% | 17% | 62% | Median |
-| 42.5–43.5% | 15% | 46% |  |
-| 43.5–44.5% | 12% | 31% |  |
-| 44.5–45.5% | 9% | 19% |  |
-| 45.5–46.5% | 6% | 10% |  |
-| 46.5–47.5% | 3% | 4% |  |
-| 47.5–48.5% | 0.9% | 1.1% |  |
+| 32.5–33.5% | 0.2% | 100% |  |
+| 33.5–34.5% | 0.8% | 99.8% |  |
+| 34.5–35.5% | 2% | 99.0% |  |
+| 35.5–36.5% | 4% | 97% |  |
+| 36.5–37.5% | 6% | 92% |  |
+| 37.5–38.5% | 7% | 86% |  |
+| 38.5–39.5% | 8% | 80% |  |
+| 39.5–40.5% | 10% | 72% |  |
+| 40.5–41.5% | 12% | 62% |  |
+| 41.5–42.5% | 13% | 50% | Median |
+| 42.5–43.5% | 12% | 36% |  |
+| 43.5–44.5% | 10% | 25% |  |
+| 44.5–45.5% | 7% | 15% |  |
+| 45.5–46.5% | 5% | 8% |  |
+| 46.5–47.5% | 2% | 3% |  |
+| 47.5–48.5% | 0.7% | 0.9% |  |
 | 48.5–49.5% | 0.2% | 0.2% |  |
 | 49.5–50.5% | 0% | 0% |  |
 
@@ -145,8 +145,8 @@ Last result: **0** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 65 | 61–71 | 61–72 | 60–72 | 58–74 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 64 | 61–71 | 59–72 | 59–72 | 57–73 |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 62 | 59–65 | 59–66 | 58–67 | 56–68 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express |  |  |  |  |  |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland |  |  |  |  |  |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
@@ -158,9 +158,9 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 64 | 62–68 | 61–68 | 61–69 | 60–69 |
 | [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 70 | 67–73 | 67–73 | 67–74 | 66–75 |
 | [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 67 | 66–70 | 65–71 | 65–71 | 63–72 |
-| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 71 | 68–73 | 67–73 | 67–73 | 65–75 |
-| [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop |  |  |  |  |  |
-| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
+| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 71 | 68–73 | 67–73 | 66–73 | 65–75 |
+| [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 68 | 66–69 | 65–69 | 63–69 | 62–70 |
+| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 71 | 69–72 | 68–72 | 67–72 | 65–74 |
 | [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
 | [4–9 December 2020](2020-12-09-Survation.html) | Survation |  |  |  |  |  |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
@@ -276,27 +276,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
 | 54 | 0% | 100% |  |
-| 55 | 0% | 100% |  |
-| 56 | 0.1% | 100% |  |
-| 57 | 0.2% | 99.9% |  |
-| 58 | 0.5% | 99.7% |  |
-| 59 | 2% | 99.2% |  |
-| 60 | 3% | 98% |  |
-| 61 | 5% | 95% |  |
-| 62 | 8% | 90% |  |
-| 63 | 13% | 82% |  |
-| 64 | 11% | 68% |  |
-| 65 | 15% | 57% | Median, Majority |
-| 66 | 8% | 42% |  |
-| 67 | 9% | 34% |  |
-| 68 | 5% | 25% |  |
-| 69 | 4% | 20% |  |
-| 70 | 4% | 17% |  |
-| 71 | 4% | 13% |  |
-| 72 | 7% | 9% |  |
-| 73 | 1.0% | 2% |  |
-| 74 | 0.3% | 0.6% |  |
-| 75 | 0.3% | 0.4% |  |
+| 55 | 0% | 99.9% |  |
+| 56 | 0.2% | 99.9% |  |
+| 57 | 0.4% | 99.7% |  |
+| 58 | 0.8% | 99.3% |  |
+| 59 | 4% | 98% |  |
+| 60 | 5% | 95% |  |
+| 61 | 7% | 90% |  |
+| 62 | 11% | 84% |  |
+| 63 | 15% | 73% |  |
+| 64 | 10% | 58% | Median |
+| 65 | 13% | 48% | Majority |
+| 66 | 7% | 35% |  |
+| 67 | 8% | 28% |  |
+| 68 | 4% | 20% |  |
+| 69 | 3% | 16% |  |
+| 70 | 3% | 13% |  |
+| 71 | 3% | 10% |  |
+| 72 | 6% | 7% |  |
+| 73 | 0.8% | 1.3% |  |
+| 74 | 0.2% | 0.5% |  |
+| 75 | 0.2% | 0.3% |  |
 | 76 | 0% | 0.1% |  |
 | 77 | 0% | 0% |  |
 
