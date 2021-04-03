@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **50.0%** (General Election of 5 May 2016)
+Last result: **0.5%** (General Election of 5 May 2016)
 
 ### Confidence Intervals
 
@@ -18,7 +18,7 @@ Last result: **50.0%** (General Election of 5 May 2016)
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
-| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 3.0% | 2.3–3.8% | 2.2–4.1% | 2.1–4.3% | 1.8–4.7% |
+| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 0.0% | N/A | N/A | N/A | N/A |
 | [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 0.0% | N/A | N/A | N/A | N/A |
@@ -84,56 +84,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
+| 0.5–1.5% | 0% | 100% | Last Result |
 | 1.5–2.5% | 15% | 100% |  |
 | 2.5–3.5% | 67% | 85% | Median |
 | 3.5–4.5% | 18% | 18% |  |
 | 4.5–5.5% | 0.6% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
-| 10.5–11.5% | 0% | 0% |  |
-| 11.5–12.5% | 0% | 0% |  |
-| 12.5–13.5% | 0% | 0% |  |
-| 13.5–14.5% | 0% | 0% |  |
-| 14.5–15.5% | 0% | 0% |  |
-| 15.5–16.5% | 0% | 0% |  |
-| 16.5–17.5% | 0% | 0% |  |
-| 17.5–18.5% | 0% | 0% |  |
-| 18.5–19.5% | 0% | 0% |  |
-| 19.5–20.5% | 0% | 0% |  |
-| 20.5–21.5% | 0% | 0% |  |
-| 21.5–22.5% | 0% | 0% |  |
-| 22.5–23.5% | 0% | 0% |  |
-| 23.5–24.5% | 0% | 0% |  |
-| 24.5–25.5% | 0% | 0% |  |
-| 25.5–26.5% | 0% | 0% |  |
-| 26.5–27.5% | 0% | 0% |  |
-| 27.5–28.5% | 0% | 0% |  |
-| 28.5–29.5% | 0% | 0% |  |
-| 29.5–30.5% | 0% | 0% |  |
-| 30.5–31.5% | 0% | 0% |  |
-| 31.5–32.5% | 0% | 0% |  |
-| 32.5–33.5% | 0% | 0% |  |
-| 33.5–34.5% | 0% | 0% |  |
-| 34.5–35.5% | 0% | 0% |  |
-| 35.5–36.5% | 0% | 0% |  |
-| 36.5–37.5% | 0% | 0% |  |
-| 37.5–38.5% | 0% | 0% |  |
-| 38.5–39.5% | 0% | 0% |  |
-| 39.5–40.5% | 0% | 0% |  |
-| 40.5–41.5% | 0% | 0% |  |
-| 41.5–42.5% | 0% | 0% |  |
-| 42.5–43.5% | 0% | 0% |  |
-| 43.5–44.5% | 0% | 0% |  |
-| 44.5–45.5% | 0% | 0% |  |
-| 45.5–46.5% | 0% | 0% |  |
-| 46.5–47.5% | 0% | 0% |  |
-| 47.5–48.5% | 0% | 0% |  |
-| 48.5–49.5% | 0% | 0% |  |
-| 49.5–50.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -144,7 +100,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express |  |  |  |  |  |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland |  |  |  |  |  |
@@ -152,7 +108,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News |  |  |  |  |  |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union |  |  |  |  |  |
 | [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
-| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record |  |  |  |  |  |
 | [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
@@ -220,10 +176,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 85% | 90% | Median |
-| 2 | 4% | 5% |  |
-| 3 | 0.1% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
