@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Fri, 02 Apr 2021 21:12:39 +0200</pubDate>
+    <pubDate>Sat, 03 Apr 2021 11:13:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 58–67 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 19–25 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 21–27 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 10–15 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6–12 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation-seats.png"
+        length="160664"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 11:13:40 +0200</pubDate>
+      <dc:date>2021-04-03T11:13:40.683592+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation-coalitions-seats.png"
+        length="223462"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 11:13:40 +0200</pubDate>
+      <dc:date>2021-04-03T11:13:40.683592+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 34.0–40.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 15.7–20.5%&lt;/li&gt;&lt;li&gt;Scottish Labour: 16.7–21.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Alba Party: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.png"
+        length="206225"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 11:13:40 +0200</pubDate>
+      <dc:date>2021-04-03T11:13:40.683592+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinium for Sky News, 11–16 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.html</link>
@@ -24,11 +54,101 @@
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-12-Survation.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 36.0–42.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.6–23.6%&lt;/li&gt;&lt;li&gt;Scottish Labour: 17.6–22.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6.5–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-12-Survation.png"
-        length="14315"
+        length="192004"
         type="image/png"/>
-      <pubDate>Fri, 02 Apr 2021 21:12:39 +0200</pubDate>
-      <dc:date>2021-04-02T21:12:39.405338+02:00</dc:date>
+      <pubDate>Fri, 02 Apr 2021 21:18:40 +0200</pubDate>
+      <dc:date>2021-04-02T21:18:40.436755+02:00</dc:date>
     </item>
-    <dc:date>2021-04-02T21:12:39.405338+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 5–10 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-10-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 37.1–43.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.8–20.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-10-SavantaComRes.png"
+        length="191626"
+        type="image/png"/>
+      <pubDate>Fri, 02 Apr 2021 21:28:42 +0200</pubDate>
+      <dc:date>2021-04-02T21:28:42.59502+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 4–8 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 42.1–48.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.7–23.5%&lt;/li&gt;&lt;li&gt;Scottish Labour: 13.9–18.3%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Scottish Socialist Party: 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.png"
+        length="198453"
+        type="image/png"/>
+      <pubDate>Fri, 02 Apr 2021 21:38:22 +0200</pubDate>
+      <dc:date>2021-04-02T21:38:22.680265+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 3–5 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 38.9–45.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 19.6–24.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 16.7–21.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5.6–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.png"
+        length="187680"
+        type="image/png"/>
+      <pubDate>Fri, 02 Apr 2021 21:45:38 +0200</pubDate>
+      <dc:date>2021-04-02T21:45:38.257138+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Daily Record, 24–25 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-02-25-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 35.0–41.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.6–23.6%&lt;/li&gt;&lt;li&gt;Scottish Labour: 17.6–22.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5.6–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-02-25-Survation.png"
+        length="192885"
+        type="image/png"/>
+      <pubDate>Fri, 02 Apr 2021 21:52:40 +0200</pubDate>
+      <dc:date>2021-04-02T21:52:40.68982+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 15–21 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-02-21-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 44.0–50.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 19.6–24.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 12.0–16.2%&lt;/li&gt;&lt;li&gt;Scottish Greens: 6.4–9.8%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-02-21-IpsosMORI.png"
+        length="184280"
+        type="image/png"/>
+      <pubDate>Fri, 02 Apr 2021 21:59:58 +0200</pubDate>
+      <dc:date>2021-04-02T21:59:58.786887+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 4–9 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-02-09-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 40.0–46.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.5–23.6%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.7–20.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-02-09-SavantaComRes.png"
+        length="189994"
+        type="image/png"/>
+      <pubDate>Fri, 02 Apr 2021 22:07:26 +0200</pubDate>
+      <dc:date>2021-04-02T22:07:26.456177+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 19–22 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-01-22-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 43.5–49.5%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 17.9–22.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 14.1–18.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 6.6–9.9%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.8–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-01-22-Panelbase.png"
+        length="184928"
+        type="image/png"/>
+      <pubDate>Fri, 02 Apr 2021 23:59:02 +0200</pubDate>
+      <dc:date>2021-04-02T23:59:02.179056+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Scot Goes Pop, 11–13 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-01-13-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 37.0–43.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 14.8–19.4%&lt;/li&gt;&lt;li&gt;Scottish Labour: 16.7–21.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7.4–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-01-13-Survation.png"
+        length="190720"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 00:05:38 +0200</pubDate>
+      <dc:date>2021-04-03T00:05:38.302785+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 8–13 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-01-13-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 41.0–47.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.8–20.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6.5–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-01-13-SavantaComRes.png"
+        length="188472"
+        type="image/png"/>
+      <pubDate>Sat, 03 Apr 2021 00:10:37 +0200</pubDate>
+      <dc:date>2021-04-03T00:10:37.491641+02:00</dc:date>
+    </item>
+    <dc:date>2021-04-03T11:13:40.683592+02:00</dc:date>
   </channel>
 </rss>
