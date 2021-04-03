@@ -26,8 +26,8 @@ Last result: **6.6%** (General Election of 5 May 2016)
 | [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 8.1% | 7.1–9.3% | 6.9–9.6% | 6.6–9.9% | 6.2–10.5% |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
-| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 12.0% | N/A | N/A | N/A | N/A |
-| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 10.0% | N/A | N/A | N/A | N/A |
+| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 12.0% | 10.8–13.5% | 10.5–13.9% | 10.2–14.2% | 9.6–14.9% |
+| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 7.0% | N/A | N/A | N/A | N/A |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 7.9% | N/A | N/A | N/A | N/A |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 7.0% | N/A | N/A | N/A | N/A |
@@ -123,8 +123,8 @@ Last result: **6** seats (General Election of 5 May 2016)
 | [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 10 | 6–10 | 5–10 | 5–10 | 4–11 |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 11 | 10–13 | 10–13 | 10–14 | 10–14 |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
-| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
-| [4–9 December 2020](2020-12-09-Survation.html) | Survation |  |  |  |  |  |
+| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 12 | 11–13 | 10–13 | 10–14 | 10–16 |
+| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 10 | 9–12 | 9–12 | 9–12 | 7–12 |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov |  |  |  |  |  |

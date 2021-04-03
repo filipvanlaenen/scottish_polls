@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 5 May 2016)
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
-| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 1.0% | N/A | N/A | N/A | N/A |
+| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 0.0% | N/A | N/A | N/A | N/A |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
@@ -117,7 +117,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop |  |  |  |  |  |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
 | [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
-| [4–9 December 2020](2020-12-09-Survation.html) | Survation |  |  |  |  |  |
+| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov |  |  |  |  |  |

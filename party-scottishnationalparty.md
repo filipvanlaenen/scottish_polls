@@ -26,8 +26,8 @@ Last result: **41.7%** (General Election of 5 May 2016)
 | [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 46.5% | 44.5–48.4% | 43.9–49.0% | 43.5–49.5% | 42.5–50.4% |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 40.0% | 38.1–42.0% | 37.5–42.6% | 37.0–43.0% | 36.1–44.0% |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 44.0% | 42.0–46.0% | 41.5–46.6% | 41.0–47.1% | 40.0–48.0% |
-| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 42.0% | N/A | N/A | N/A | N/A |
-| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 41.0% | N/A | N/A | N/A | N/A |
+| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 42.0% | 40.0–44.0% | 39.4–44.5% | 38.9–45.0% | 38.0–46.0% |
+| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.0% |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 47.0% | N/A | N/A | N/A | N/A |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 45.6% | N/A | N/A | N/A | N/A |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 47.0% | N/A | N/A | N/A | N/A |
@@ -128,9 +128,9 @@ Last result: **63** seats (General Election of 5 May 2016)
 | [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 67 | 66–70 | 65–71 | 65–71 | 63–72 |
 | [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 71 | 68–73 | 67–73 | 66–73 | 65–75 |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 68 | 66–69 | 65–69 | 63–69 | 62–70 |
-| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 71 | 69–72 | 68–72 | 67–72 | 65–74 |
-| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
-| [4–9 December 2020](2020-12-09-Survation.html) | Survation |  |  |  |  |  |
+| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 71 | 69–72 | 68–72 | 67–72 | 65–73 |
+| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 70 | 69–71 | 68–71 | 67–72 | 65–72 |
+| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 71 | 68–71 | 67–71 | 66–71 | 65–71 |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov |  |  |  |  |  |
@@ -204,7 +204,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 8% | 39% |  |
 | 67 | 7% | 31% |  |
 | 68 | 5% | 24% |  |
-| 69 | 6% | 19% |  |
+| 69 | 5% | 19% |  |
 | 70 | 4% | 14% |  |
 | 71 | 4% | 10% |  |
 | 72 | 3% | 6% |  |
