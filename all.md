@@ -4,15 +4,15 @@ The table below lists all polls registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | SNP | CON | LAB | GRN | LIB | ALBA | UKIP | REF | SSP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 5 May 2016 | General Election | 4170.0% <br> 63 | 2290.0% <br> 31 | 1910.0% <br> 24 | 660.0% <br> 6 | 520.0% <br> 5 | 0.0% <br> 0 | 200.0% <br> 0 | 0.0% <br> 0 | 50.0% <br> 0 |
+| 5 May 2016 | General Election | 41.7% <br> 63 | 22.9% <br> 31 | 19.1% <br> 24 | 6.6% <br> 6 | 5.2% <br> 5 | 0.0% <br> 0 | 2.0% <br> 0 | 0.0% <br> 0 | 0.5% <br> 0 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 34–40% <br> 60–69 | 16–21% <br> 18–25 | 17–22% <br> 20–27 | 9–13% <br> 10–14 | 6–10% <br> 5–10 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 40–45% <br> 59–69 | 20–25% <br> 24–33 | 17–22% <br> 21–29 | 6–9% <br> 3–10 | 4–6% <br> 2–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 36–42% <br> 59–67 | 19–24% <br> 21–29 | 18–23% <br> 20–27 | 8–12% <br> 10–13 | 6–10% <br> 5–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 37–43% <br> 60–69 | 21–27% <br> 24–34 | 16–21% <br> 17–25 | 8–12% <br> 9–13 | 5–8% <br> 3–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 42–48% <br> 65–73 | 19–24% <br> 24–32 | 14–18% <br> 17–24 | 5–8% <br> 3–10 | 4–6% <br> 2–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–2 |
+| [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 37–43% <br> 60–69 | 21–27% <br> 24–33 | 16–21% <br> 17–25 | 8–12% <br> 9–13 | 5–8% <br> 3–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 42–48% <br> 66–74 | 19–24% <br> 24–32 | 14–18% <br> 17–24 | 5–8% <br> 3–10 | 4–6% <br> 2–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
 | [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 39–45% <br> 59–69 | 20–25% <br> 25–33 | 17–21% <br> 22–29 | 5–8% <br> 2–10 | 6–9% <br> 5–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 35–41% <br> 61–69 | 19–24% <br> 20–28 | 18–23% <br> 20–27 | 9–13% <br> 10–13 | 6–9% <br> 4–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 44–50% <br> 67–74 | 20–25% <br> 24–32 | 12–16% <br> 13–19 | 6–10% <br> 4–10 | 5–8% <br> 4–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -71,7 +71,7 @@ The table below lists all polls registered and analyzed so far.
 | [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 5 May 2016 | General Election | 4170.0% <br> 63 | 2290.0% <br> 31 | 1910.0% <br> 24 | 660.0% <br> 6 | 520.0% <br> 5 | 0.0% <br> 0 | 200.0% <br> 0 | 0.0% <br> 0 | 50.0% <br> 0 |
+| 5 May 2016 | General Election | 41.7% <br> 63 | 22.9% <br> 31 | 19.1% <br> 24 | 6.6% <br> 6 | 5.2% <br> 5 | 0.0% <br> 0 | 2.0% <br> 0 | 0.0% <br> 0 | 0.5% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
