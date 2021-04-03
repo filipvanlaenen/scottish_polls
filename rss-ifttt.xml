@@ -9,7 +9,7 @@
       <title>Opinion Poll by Survation for The Courier, 29–30 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html</link>
       <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Survation for The Courier, 29–30 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.png" length="173560" type="image/png"/>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-30-Survation.png" length="222006" type="image/png"/>
       <pubDate>Sat, 3 Apr 2021 15:44:59 +0200</pubDate>
       <dc:date>2021-04-03T15:44:59.189545+02:00</dc:date>
     </item>
@@ -17,7 +17,7 @@
       <title>Opinion Poll by Opinium for Sky News, 11–16 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.html</link>
       <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Opinium for Sky News, 11–16 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.png" length="160277" type="image/png"/>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-16-Opinium.png" length="199311" type="image/png"/>
       <pubDate>Sat, 3 Apr 2021 15:55:04 +0200</pubDate>
       <dc:date>2021-04-03T15:55:04.382666+02:00</dc:date>
     </item>
@@ -25,9 +25,17 @@
       <title>Opinion Poll by Savanta ComRes for The Scotsman, 5–10 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-10-SavantaComRes.html</link>
       <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Savanta ComRes for The Scotsman, 5–10 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-10-SavantaComRes.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-10-SavantaComRes.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-10-SavantaComRes.png" length="164060" type="image/png"/>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-10-SavantaComRes.png" length="206693" type="image/png"/>
       <pubDate>Sat, 3 Apr 2021 16:05:42 +0200</pubDate>
       <dc:date>2021-04-03T16:05:42.680679+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 4–8 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.html</link>
+      <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by YouGov for The Times, 4–8 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.png" length="214567" type="image/png"/>
+      <pubDate>Sat, 3 Apr 2021 16:14:14 +0200</pubDate>
+      <dc:date>2021-04-03T16:14:14.803119+02:00</dc:date>
     </item>
   </channel>
 </rss>
