@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | SNP | CON | LAB | GRN | LIB | ALBA | UKIP | REF | SSP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 5 May 2016 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 38–47% <br> 60–72 | 19–26% <br> 24–33 | 15–21% <br> 17–28 | 5–11% <br> 3–12 | 4–8% <br> 2–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–2 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 35–47% <br> 59–72 | 17–26% <br> 20–33 | 15–21% <br> 17–28 | 5–12% <br> 3–13 | 4–9% <br> 2–10 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–2 |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 34–40% <br> 58–67 | 16–21% <br> 19–25 | 17–22% <br> 21–27 | 9–13% <br> 10–15 | 6–10% <br> 6–12 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 40–45% <br> 59–69 | 20–25% <br> 24–33 | 17–22% <br> 21–29 | 6–9% <br> 3–10 | 4–6% <br> 2–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
