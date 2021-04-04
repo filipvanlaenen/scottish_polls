@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 0.8–2.5% | 0.7–2.8% | 0.6–2.9% | 0.5–3.3% |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.4–3.2% |
+| [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
@@ -31,13 +32,13 @@ Last result: **0.0%** (General Election of 5 May 2016)
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 0.0% | N/A | N/A | N/A | N/A |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
-| [3 November 2020](2020-11-03-Survation.html) | Survation | 2.0% | N/A | N/A | N/A | N/A |
+| [3 November 2020](2020-11-03-Survation.html) | Survation | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
 | [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 2.0% | N/A | N/A | N/A | N/A |
+| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
-| [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [3 July 2020](2020-07-03-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 June 2020](2020-06-05-Panelbase.html) | Panelbase <br> Scot Goes Pop | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland | 0.0% | N/A | N/A | N/A | N/A |
@@ -84,11 +85,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.4% | 100% | Last Result |
-| 0.5–1.5% | 49% | 98.6% |  |
-| 1.5–2.5% | 41% | 50% | Median |
-| 2.5–3.5% | 9% | 9% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 62% | 98% | Median |
+| 1.5–2.5% | 30% | 36% |  |
+| 2.5–3.5% | 6% | 6% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -101,7 +102,8 @@ Last result: **0** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
+| [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 0 | 0 | 0 | 0 | 0 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 0 | 0 | 0 | 0 | 0 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 0 | 0 | 0 | 0 | 0 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 0 | 0 | 0 | 0 | 0 |
@@ -121,13 +123,13 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov |  |  |  |  |  |
-| [3 November 2020](2020-11-03-Survation.html) | Survation |  |  |  |  |  |
+| [3 November 2020](2020-11-03-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
 | [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico |  |  |  |  |  |
-| [2–7 September 2020](2020-09-07-Survation.html) | Survation |  |  |  |  |  |
+| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [3 July 2020](2020-07-03-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [1–5 June 2020](2020-06-05-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
 | [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland |  |  |  |  |  |
