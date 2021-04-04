@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Sun, 04 Apr 2021 15:47:15 +0200</pubDate>
+    <pubDate>Sun, 04 Apr 2021 19:43:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 30 March–1 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-01-Panelbase.html#seats</link>
@@ -489,6 +489,46 @@
       <pubDate>Sat, 03 Apr 2021 23:59:14 +0200</pubDate>
       <dc:date>2021-04-03T23:59:14.374695+02:00</dc:date>
     </item>
-    <dc:date>2021-04-04T15:47:15.992191+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 1–5 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-06-05-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 45.0–51.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 16.7–21.5%&lt;/li&gt;&lt;li&gt;Scottish Labour: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Scottish Greens: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6.5–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-06-05-Panelbase.png"
+        length="198864"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 19:02:52 +0200</pubDate>
+      <dc:date>2021-04-04T19:02:52.548032+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Wings Over Scotland, 1–5 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-05-05-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 45.6–51.5%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 19.8–24.8%&lt;/li&gt;&lt;li&gt;Scottish Labour: 13.2–17.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 5.7–8.8%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.8–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-05-05-Panelbase.png"
+        length="200656"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 19:19:04 +0200</pubDate>
+      <dc:date>2021-04-04T19:19:04.787193+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 24–27 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-04-27-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 42.1–48.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 20.6–25.6%&lt;/li&gt;&lt;li&gt;Scottish Labour: 10.2–14.0%&lt;/li&gt;&lt;li&gt;Scottish Greens: 6.6–9.8%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5.7–8.7%&lt;/li&gt;&lt;li&gt;Scottish Socialist Party: 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-04-27-YouGov.png"
+        length="214248"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 19:34:21 +0200</pubDate>
+      <dc:date>2021-04-04T19:34:21.602194+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 24–26 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 44.9–51.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Scottish Labour: 11.1–15.2%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase.png"
+        length="198579"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 19:43:30 +0200</pubDate>
+      <dc:date>2021-04-04T19:43:30.785789+02:00</dc:date>
+    </item>
+    <dc:date>2021-04-04T19:43:30.785789+02:00</dc:date>
   </channel>
 </rss>
