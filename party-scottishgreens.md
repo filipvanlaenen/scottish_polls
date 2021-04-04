@@ -113,9 +113,9 @@ Last result: **6** seats (General Election of 5 May 2016)
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 10 | 5–10 | 5–10 | 4–10 | 4–11 |
-| [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 11 | 10–12 | 10–12 | 10–13 | 10–14 |
+| [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 6 | 4–10 | 3–10 | 3–10 | 3–10 |
-| [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 10 | 10–12 | 10–12 | 10–13 | 8–13 |
+| [9–12 March 2021](2021-03-12-Survation.html) | Survation <br> Scotland in Union | 10 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10 | 10–12 | 10–13 | 9–13 | 7–14 |
 | [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 4 | 3–8 | 3–10 | 3–10 | 2–10 |
 | [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 4 | 3–6 | 2–8 | 2–9 | 2–10 |
