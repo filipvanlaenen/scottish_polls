@@ -110,7 +110,7 @@ Last result: **24** seats (General Election of 5 May 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 17–25 | 17–26 | 17–27 | 17–28 |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 19 | 17–23 | 17–24 | 17–24 | 16–26 |
-| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 24 | 21–26 | 20–26 | 20–27 | 18–28 |
+| [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 24 | 21–25 | 21–26 | 20–27 | 18–28 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 18 | 17–22 | 17–23 | 17–23 | 17–25 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 20 | 17–23 | 17–24 | 17–24 | 16–26 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 25 | 23–25 | 23–26 | 22–26 | 20–28 |
@@ -192,12 +192,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 7% | 68% |  |
 | 21 | 10% | 61% |  |
 | 22 | 15% | 50% | Median |
-| 23 | 10% | 36% |  |
-| 24 | 12% | 26% | Last Result |
+| 23 | 10% | 35% |  |
+| 24 | 12% | 25% | Last Result |
 | 25 | 8% | 14% |  |
 | 26 | 3% | 6% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.6% | 0.9% |  |
+| 28 | 0.5% | 0.9% |  |
 | 29 | 0.2% | 0.3% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
