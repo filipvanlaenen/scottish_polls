@@ -40,10 +40,10 @@ Last result: **19.1%** (General Election of 5 May 2016)
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes | 16.9% | 15.4–18.5% | 15.0–18.9% | 14.7–19.3% | 14.0–20.1% |
 | [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 13.8% | 12.6–15.2% | 12.2–15.6% | 11.9–16.0% | 11.4–16.7% |
 | [3 July 2020](2020-07-03-Panelbase.html) | Panelbase <br> The Sunday Times | 15.1% | 13.7–16.7% | 13.3–17.1% | 13.0–17.6% | 12.3–18.2% |
-| [1–5 June 2020](2020-06-05-Panelbase.html) | Panelbase <br> Scot Goes Pop | 16.0% | N/A | N/A | N/A | N/A |
-| [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland | 15.2% | N/A | N/A | N/A | N/A |
-| [24–27 April 2020](2020-04-27-YouGov.html) | YouGov | 12.0% | N/A | N/A | N/A | N/A |
-| [24–26 March 2020](2020-03-26-Panelbase.html) | Panelbase <br> The Sunday Times | 13.0% | N/A | N/A | N/A | N/A |
+| [1–5 June 2020](2020-06-05-Panelbase.html) | Panelbase <br> Scot Goes Pop | 16.0% | 14.6–17.6% | 14.3–18.0% | 13.9–18.4% | 13.3–19.2% |
+| [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland | 15.2% | 13.9–16.7% | 13.5–17.1% | 13.2–17.5% | 12.6–18.2% |
+| [24–27 April 2020](2020-04-27-YouGov.html) | YouGov | 12.0% | 10.8–13.3% | 10.5–13.7% | 10.2–14.0% | 9.6–14.7% |
+| [24–26 March 2020](2020-03-26-Panelbase.html) | Panelbase <br> The Sunday Times | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
 | [28–31 January 2020](2020-01-31-Panelbase.html) | Panelbase <br> Scot Goes Pop | 14.0% | N/A | N/A | N/A | N/A |
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 19.1% | N/A | N/A | N/A | N/A |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times | 18.0% | N/A | N/A | N/A | N/A |
@@ -138,10 +138,10 @@ Last result: **24** seats (General Election of 5 May 2016)
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes | 19 | 17–22 | 17–22 | 17–23 | 17–24 |
 | [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 17 | 16–19 | 16–20 | 16–21 | 15–22 |
 | [3 July 2020](2020-07-03-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [1–5 June 2020](2020-06-05-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
-| [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland |  |  |  |  |  |
-| [24–27 April 2020](2020-04-27-YouGov.html) | YouGov |  |  |  |  |  |
-| [24–26 March 2020](2020-03-26-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
+| [1–5 June 2020](2020-06-05-Panelbase.html) | Panelbase <br> Scot Goes Pop | 20 | 17–22 | 17–22 | 16–23 | 16–24 |
+| [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland | 17 | 17–21 | 16–22 | 16–22 | 15–23 |
+| [24–27 April 2020](2020-04-27-YouGov.html) | YouGov | 15 | 12–17 | 12–17 | 11–17 | 11–17 |
+| [24–26 March 2020](2020-03-26-Panelbase.html) | Panelbase <br> The Sunday Times | 17 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [28–31 January 2020](2020-01-31-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland |  |  |  |  |  |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
