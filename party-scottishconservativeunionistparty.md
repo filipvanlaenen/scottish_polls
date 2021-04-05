@@ -68,7 +68,7 @@ Last result: **22.9%** (General Election of 5 May 2016)
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times | 26.2% | 24.4–28.0% | 24.0–28.5% | 23.5–28.9% | 22.7–29.8% |
 | [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 26.2% | 24.6–28.0% | 24.1–28.5% | 23.7–29.0% | 22.9–29.8% |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record | 23.0% | 21.4–24.8% | 21.0–25.3% | 20.6–25.7% | 19.8–26.6% |
-| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.0–27.4% | 21.3–28.3% |
+| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.3–28.3% |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.6–24.2% |
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 22.1% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 18.9–25.6% |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 23.4% | 21.9–25.1% | 21.4–25.6% | 21.1–26.0% | 20.3–26.8% |
@@ -128,7 +128,7 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 25 | 23–26 | 22–28 | 21–30 | 20–31 |
 | [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 19 | 17–21 | 17–22 | 16–23 | 16–24 |
 | [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 19 | 16–20 | 16–21 | 15–21 | 15–23 |
-| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 23 | 21–24 | 20–24 | 19–25 | 18–28 |
+| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 24 | 21–27 | 20–27 | 20–29 | 19–30 |
 | [4–9 December 2020](2020-12-09-Survation.html) | Survation | 20 | 18–22 | 18–23 | 17–24 | 16–25 |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 27 | 25–30 | 24–31 | 24–32 | 23–32 |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 24 | 21–26 | 21–26 | 20–28 | 19–30 |
@@ -169,7 +169,7 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times | 34 | 31–36 | 31–37 | 30–38 | 28–39 |
 | [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 33 | 31–36 | 30–36 | 29–37 | 27–38 |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record | 28 | 24–32 | 24–33 | 24–33 | 23–34 |
-| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 33 | 29–34 | 29–35 | 26–35 | 25–38 |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 26 | 23–29 | 22–30 | 22–30 | 21–32 |
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 27 | 25–29 | 24–30 | 24–32 | 24–34 |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 31 | 27–33 | 27–34 | 26–34 | 24–35 |

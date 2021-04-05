@@ -68,7 +68,7 @@ Last result: **0.5%** (General Election of 5 May 2016)
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record | 0.0% | N/A | N/A | N/A | N/A |
-| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
@@ -159,7 +159,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record |  |  |  |  |  |
-| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post |  |  |  |  |  |
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record |  |  |  |  |  |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
