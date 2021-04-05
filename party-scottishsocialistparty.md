@@ -47,13 +47,13 @@ Last result: **0.5%** (General Election of 5 May 2016)
 | [28–31 January 2020](2020-01-31-Panelbase.html) | Panelbase <br> Scot Goes Pop | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
-| [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 3.0% | N/A | N/A | N/A | N/A |
+| [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
-| [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 3.0% | N/A | N/A | N/A | N/A |
+| [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [14–17 May 2019](2019-05-17-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
-| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 3.0% | N/A | N/A | N/A | N/A |
+| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
 | [6 March 2019](2019-03-06-Panelbase.html) | Panelbase <br> Wings Over Scotland | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 March 2019](2019-03-04-Survation.html) | Survation <br> Scottish Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
@@ -66,15 +66,15 @@ Last result: **0.5%** (General Election of 5 May 2016)
 | [5–10 July 2018](2018-07-10-Survation.html) | Survation <br> Daily Record | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 June 2018](2018-06-27-Panelbase.html) | Panelbase <br> Wings Over Scotland | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
-| [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 3.0% | N/A | N/A | N/A | N/A |
+| [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record | 0.0% | N/A | N/A | N/A | N/A |
-| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 2.0% | N/A | N/A | N/A | N/A |
+| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 0.0% | N/A | N/A | N/A | N/A |
-| [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 3.1% | N/A | N/A | N/A | N/A |
+| [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
-| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
-| [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
+| [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
@@ -138,13 +138,13 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [28–31 January 2020](2020-01-31-Panelbase.html) | Panelbase <br> Scot Goes Pop |  |  |  |  |  |
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland |  |  |  |  |  |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [14–17 May 2019](2019-05-17-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [6 March 2019](2019-03-06-Panelbase.html) | Panelbase <br> Wings Over Scotland |  |  |  |  |  |
 | [1–4 March 2019](2019-03-04-Survation.html) | Survation <br> Scottish Daily Mail |  |  |  |  |  |
@@ -157,15 +157,15 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [5–10 July 2018](2018-07-10-Survation.html) | Survation <br> Daily Record |  |  |  |  |  |
 | [21–27 June 2018](2018-06-27-Panelbase.html) | Panelbase <br> Wings Over Scotland |  |  |  |  |  |
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record |  |  |  |  |  |
 | [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post |  |  |  |  |  |
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record |  |  |  |  |  |
-| [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail |  |  |  |  |  |
-| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail |  |  |  |  |  |
