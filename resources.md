@@ -30,7 +30,7 @@ The following websites provide similar information to this website:
 + [Estonian Polls](https://filipvanlaenen.github.io/estonian_polls/) and [Estonian EP Polls](https://filipvanlaenen.github.io/estonian_ep_polls/)
 + [Finnish Polls](https://filipvanlaenen.github.io/finnish_polls/) and [Finnish EP Polls](https://filipvanlaenen.github.io/finnish_ep_polls/)
 + [Flemish Polls](https://filipvanlaenen.github.io/flemish_polls/) and [Flemish EP Polls](https://filipvanlaenen.github.io/flemish_ep_polls/)
-+ [German EP Polls](https://filipvanlaenen.github.io/german_ep_polls/)
++ [German Polls](https://filipvanlaenen.github.io/german_polls/) and [German EP Polls](https://filipvanlaenen.github.io/german_ep_polls/)
 + [Greek Polls](https://filipvanlaenen.github.io/greek_polls/) and [Greek EP Polls](https://filipvanlaenen.github.io/greek_ep_polls/)
 + [Hungarian Polls](https://filipvanlaenen.github.io/hungarian_polls/) and [Hungarian EP Polls](https://filipvanlaenen.github.io/hungarian_ep_polls/)
 + [Icelandic Polls](https://filipvanlaenen.github.io/icelandic_polls/)
