@@ -122,14 +122,14 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [5–10 March 2021](2021-03-10-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 30 | 27–33 | 26–33 | 25–34 | 24–35 |
 | [4–8 March 2021](2021-03-08-YouGov.html) | YouGov <br> The Times | 27 | 25–32 | 25–32 | 24–32 | 24–34 |
 | [3–5 March 2021](2021-03-05-Panelbase.html) | Panelbase <br> The Sunday Times | 30 | 25–32 | 25–32 | 24–33 | 24–34 |
-| [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 24 | 21–27 | 21–27 | 20–28 | 19–29 |
-| [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 27 | 25–31 | 25–32 | 24–32 | 24–33 |
-| [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
-| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 25 | 23–26 | 22–28 | 21–30 | 20–31 |
-| [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 19 | 17–21 | 17–22 | 16–23 | 16–24 |
-| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 19 | 16–20 | 16–21 | 15–21 | 15–23 |
-| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 24 | 21–27 | 20–27 | 20–29 | 19–30 |
-| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 20 | 18–22 | 18–23 | 17–24 | 16–25 |
+| [24–25 February 2021](2021-02-25-Survation.html) | Survation <br> Daily Record | 25 | 23–28 | 22–28 | 21–29 | 20–31 |
+| [15–21 February 2021](2021-02-21-IpsosMORI.html) | Ipsos MORI <br> STV News | 27 | 26–31 | 25–32 | 24–32 | 24–33 |
+| [4–9 February 2021](2021-02-09-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 25 | 23–28 | 22–30 | 21–30 | 21–32 |
+| [19–22 January 2021](2021-01-22-Panelbase.html) | Panelbase <br> The Sunday Times | 26 | 23–27 | 22–28 | 21–30 | 20–32 |
+| [11–13 January 2021](2021-01-13-Survation.html) | Survation <br> Scot Goes Pop | 20 | 18–22 | 17–23 | 17–24 | 16–25 |
+| [8–13 January 2021](2021-01-13-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 19 | 17–20 | 16–21 | 16–22 | 16–23 |
+| [11–15 December 2020](2020-12-15-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 24 | 21–27 | 20–28 | 20–29 | 19–30 |
+| [4–9 December 2020](2020-12-09-Survation.html) | Survation | 22 | 19–23 | 19–24 | 18–25 | 17–26 |
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 27 | 25–30 | 24–31 | 24–32 | 23–32 |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 24 | 21–26 | 21–26 | 20–28 | 19–30 |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 25 | 24–30 | 24–31 | 23–31 | 22–32 |
@@ -148,14 +148,14 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [28–31 January 2020](2020-01-31-Panelbase.html) | Panelbase <br> Scot Goes Pop | 31 | 30–35 | 29–36 | 28–36 | 26–38 |
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 23 | 21–25 | 21–25 | 20–27 | 20–30 |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times | 34 | 31–37 | 31–37 | 30–38 | 28–39 |
-| [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 33 | 29–36 | 28–36 | 27–37 | 26–38 |
+| [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 33 | 30–35 | 29–36 | 27–36 | 27–38 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 33 | 30–36 | 30–37 | 29–37 | 26–38 |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 26 | 25–30 | 24–30 | 22–31 | 21–32 |
-| [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 26 | 23–29 | 21–29 | 21–31 | 21–31 |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 27 | 24–31 | 23–31 | 23–31 | 22–32 |
+| [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 25 | 22–28 | 21–29 | 21–30 | 20–31 |
 | [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 24 | 21–26 | 20–28 | 20–29 | 19–31 |
-| [14–17 May 2019](2019-05-17-Panelbase.html) | Panelbase <br> The Sunday Times | 24 | 21–26 | 20–27 | 20–27 | 19–29 |
+| [14–17 May 2019](2019-05-17-Panelbase.html) | Panelbase <br> The Sunday Times | 24 | 21–26 | 21–27 | 20–28 | 19–29 |
 | [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 26 | 24–29 | 23–30 | 22–32 | 21–33 |
-| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 29 | 25–32 | 25–34 | 25–35 | 24–36 |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 29 | 25–32 | 25–33 | 24–34 | 23–36 |
 | [6 March 2019](2019-03-06-Panelbase.html) | Panelbase <br> Wings Over Scotland | 35 | 32–36 | 31–37 | 30–38 | 29–40 |
 | [1–4 March 2019](2019-03-04-Survation.html) | Survation <br> Scottish Daily Mail | 27 | 24–30 | 23–31 | 22–31 | 22–33 |
 | [5 December 2018](2018-12-05-Panelbase.html) | Panelbase <br> The Sunday Times | 34 | 32–37 | 30–37 | 29–37 | 28–39 |
@@ -177,7 +177,7 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 31 | 29–33 | 28–34 | 27–35 | 26–36 |
 | [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 32 | 29–33 | 28–34 | 28–35 | 26–37 |
 | [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 25 | 23–28 | 21–30 | 21–30 | 20–31 |
-| [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 25 | 24–30 | 24–30 | 24–31 | 21–32 |
+| [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 26 | 25–30 | 24–31 | 24–32 | 21–32 |
 | [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail | 25 | 21–28 | 21–29 | 20–30 | 19–31 |
 
 ### Probability Mass Function
