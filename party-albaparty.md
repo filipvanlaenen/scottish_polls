@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.6–6.7% | 2.4–7.1% | 2.2–7.4% | 2.0–8.0% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.5–6.5% | 2.3–6.9% | 2.2–7.2% | 1.9–7.9% |
+| [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 0.0% | N/A | N/A | N/A | N/A |
@@ -87,13 +88,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 32% | 92% |  |
-| 3.5–4.5% | 10% | 60% |  |
-| 4.5–5.5% | 11% | 50% | Median |
-| 5.5–6.5% | 25% | 39% |  |
-| 6.5–7.5% | 12% | 14% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 43% | 89% | Median |
+| 3.5–4.5% | 13% | 46% |  |
+| 4.5–5.5% | 8% | 33% |  |
+| 5.5–6.5% | 17% | 26% |  |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 1.1% | 1.2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -106,7 +107,8 @@ Last result: **0** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–8 | 0–8 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 0 | 0–7 | 0–8 | 0–8 | 0–8 |
+| [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 0 | 0 | 0 | 0 | 0 |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 6 | 3–8 | 2–8 | 0–8 | 0–8 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 0 | 0 | 0 | 0 | 0 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express |  |  |  |  |  |
@@ -183,15 +185,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 0.4% | 49% |  |
-| 2 | 2% | 48% |  |
-| 3 | 2% | 47% |  |
-| 4 | 5% | 45% |  |
-| 5 | 4% | 40% |  |
-| 6 | 18% | 36% |  |
-| 7 | 7% | 18% |  |
-| 8 | 11% | 11% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 0.3% | 33% |  |
+| 2 | 1.0% | 32% |  |
+| 3 | 1.5% | 31% |  |
+| 4 | 3% | 30% |  |
+| 5 | 3% | 27% |  |
+| 6 | 12% | 24% |  |
+| 7 | 5% | 12% |  |
+| 8 | 7% | 7% |  |
 | 9 | 0% | 0% |  |
 
 

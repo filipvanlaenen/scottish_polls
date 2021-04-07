@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 6.2–11.6% | 5.7–12.1% | 5.4–12.5% | 4.8–13.3% |
+| N/A | [Poll Average](average.html) | 9.2% | 6.3–12.2% | 5.8–12.7% | 5.4–13.2% | 4.9–14.0% |
+| [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.6–14.9% |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 11.2% | 10.0–12.5% | 9.6–12.9% | 9.4–13.2% | 8.8–13.9% |
@@ -86,18 +87,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 3% | 99.8% |  |
-| 5.5–6.5% | 11% | 96% |  |
-| 6.5–7.5% | 17% | 85% | Last Result |
-| 7.5–8.5% | 17% | 68% |  |
-| 8.5–9.5% | 12% | 51% | Median |
-| 9.5–10.5% | 14% | 39% |  |
-| 10.5–11.5% | 15% | 25% |  |
-| 11.5–12.5% | 8% | 11% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 10% | 97% |  |
+| 6.5–7.5% | 15% | 87% | Last Result |
+| 7.5–8.5% | 15% | 72% |  |
+| 8.5–9.5% | 11% | 57% | Median |
+| 9.5–10.5% | 13% | 46% |  |
+| 10.5–11.5% | 16% | 34% |  |
+| 11.5–12.5% | 12% | 18% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 1.1% | 1.3% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,7 +110,8 @@ Last result: **6** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 4–12 | 3–13 | 3–14 | 3–15 |
+| N/A | [Poll Average](average.html) | 10 | 4–13 | 4–14 | 3–15 | 3–16 |
+| [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 10 | 6–10 | 5–10 | 4–11 | 3–11 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
@@ -132,9 +135,9 @@ Last result: **6** seats (General Election of 5 May 2016)
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 9 | 5–10 | 3–10 | 3–10 | 3–10 |
 | [3 November 2020](2020-11-03-Survation.html) | Survation | 10 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
-| [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News | 10 | 10 | 10–11 | 9–12 | 6–13 |
+| [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News | 10 | 10 | 10–11 | 9–12 | 7–13 |
 | [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico | 2 | 2–4 | 2–5 | 2–6 | 2–7 |
-| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 10 | 10–11 | 10–12 | 9–13 | 8–13 |
+| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 10 | 10–12 | 10–13 | 9–13 | 8–14 |
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes | 10 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 4 | 3–7 | 2–9 | 2–9 | 2–10 |
 | [3 July 2020](2020-07-03-Panelbase.html) | Panelbase <br> The Sunday Times | 10 | 7–10 | 5–10 | 5–10 | 4–11 |
@@ -185,21 +188,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% |  |
-| 3 | 5% | 99.6% |  |
-| 4 | 6% | 95% |  |
-| 5 | 8% | 88% |  |
-| 6 | 5% | 80% | Last Result |
-| 7 | 3% | 75% |  |
-| 8 | 3% | 72% |  |
-| 9 | 6% | 69% |  |
-| 10 | 31% | 63% | Median |
-| 11 | 12% | 33% |  |
-| 12 | 11% | 20% |  |
-| 13 | 6% | 9% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.5% | 0.6% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 4% | 99.7% |  |
+| 4 | 5% | 95% |  |
+| 5 | 7% | 90% |  |
+| 6 | 4% | 83% | Last Result |
+| 7 | 3% | 78% |  |
+| 8 | 3% | 76% |  |
+| 9 | 5% | 73% |  |
+| 10 | 27% | 68% | Median |
+| 11 | 12% | 41% |  |
+| 12 | 13% | 29% |  |
+| 13 | 9% | 16% |  |
+| 14 | 4% | 7% |  |
+| 15 | 3% | 3% |  |
+| 16 | 0.4% | 0.5% |  |
+| 17 | 0.1% | 0.2% |  |
+| 18 | 0% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

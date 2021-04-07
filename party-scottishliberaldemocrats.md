@@ -10,7 +10,8 @@ Last result: **5.2%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.5–8.4% | 4.2–8.9% | 4.0–9.3% | 3.6–10.0% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.5–8.3% | 4.2–8.8% | 4.0–9.2% | 3.7–9.9% |
+| [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 5.0% | 4.2–5.9% | 3.9–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
@@ -87,13 +88,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 12% | 99.7% |  |
-| 4.5–5.5% | 34% | 87% | Last Result |
-| 5.5–6.5% | 21% | 54% | Median |
-| 6.5–7.5% | 11% | 33% |  |
-| 7.5–8.5% | 13% | 22% |  |
-| 8.5–9.5% | 7% | 8% |  |
-| 9.5–10.5% | 1.3% | 1.4% |  |
+| 3.5–4.5% | 11% | 99.7% |  |
+| 4.5–5.5% | 32% | 89% | Last Result |
+| 5.5–6.5% | 24% | 56% | Median |
+| 6.5–7.5% | 13% | 32% |  |
+| 7.5–8.5% | 12% | 19% |  |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 1.1% | 1.2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -107,6 +108,7 @@ Last result: **5** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–8 | 2–9 | 2–10 | 2–11 |
+| [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 5 | 5–7 | 4–8 | 4–8 | 3–8 |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 8 | 6–10 | 6–10 | 5–10 | 4–11 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 5 | 3–5 | 2–5 | 2–6 | 2–6 |
@@ -132,7 +134,7 @@ Last result: **5** seats (General Election of 5 May 2016)
 | [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes | 6 | 4–8 | 4–8 | 4–9 | 4–10 |
 | [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News | 9 | 6–10 | 6–11 | 5–11 | 5–12 |
 | [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico | 8 | 6–10 | 5–11 | 5–12 | 5–12 |
-| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 8 | 6–10 | 6–10 | 5–10 | 4–11 |
+| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 8 | 6–10 | 6–10 | 5–11 | 4–11 |
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes | 8 | 6–10 | 6–10 | 5–11 | 4–11 |
 | [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 7 | 5–9 | 5–9 | 5–9 | 4–10 |
 | [3 July 2020](2020-07-03-Panelbase.html) | Panelbase <br> The Sunday Times | 5 | 5–6 | 4–7 | 4–8 | 3–9 |
@@ -183,16 +185,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% |  |
-| 3 | 8% | 94% |  |
-| 4 | 11% | 86% |  |
-| 5 | 42% | 75% | Last Result, Median |
-| 6 | 11% | 34% |  |
-| 7 | 5% | 23% |  |
-| 8 | 10% | 18% |  |
-| 9 | 3% | 7% |  |
-| 10 | 3% | 4% |  |
-| 11 | 0.8% | 0.9% |  |
+| 2 | 5% | 100% |  |
+| 3 | 7% | 95% |  |
+| 4 | 10% | 88% |  |
+| 5 | 43% | 77% | Last Result, Median |
+| 6 | 12% | 34% |  |
+| 7 | 5% | 21% |  |
+| 8 | 10% | 16% |  |
+| 9 | 3% | 6% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.7% | 0.8% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
