@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | SNP | CON | LAB | GRN | LIB | ALBA | UKIP | REF | SSP | AFU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 5 May 2016 | General Election | 41.7% <br> 63 | 22.9% <br> 31 | 19.1% <br> 24 | 6.6% <br> 6 | 5.2% <br> 5 | 0.0% <br> 0 | 2.0% <br> 0 | 0.0% <br> 0 | 0.5% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 36–46% <br> 59–73 | 17–25% <br> 19–33 | 14–21% <br> 17–27 | 5–12% <br> 3–14 | 4–9% <br> 2–10 | 2–7% <br> 0–8 | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0–3 |
+| N/A | [Poll Average](average.html) | 36–46% <br> 59–73 | 17–25% <br> 19–33 | 15–21% <br> 17–26 | 5–13% <br> 3–15 | 4–9% <br> 2–10 | 2–7% <br> 0–8 | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0–3 |
+| [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 35–41% <br> 59–69 | 19–24% <br> 22–31 | 16–20% <br> 18–25 | 10–14% <br> 11–16 | 5–8% <br> 4–8 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 36–42% <br> 61–69 | 19–24% <br> 21–30 | 15–19% <br> 17–24 | 6–10% <br> 4–11 | 4–6% <br> 2–6 | 5–8% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–3 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 35–41% <br> 60–69 | 16–21% <br> 17–25 | 17–22% <br> 20–27 | 9–13% <br> 10–14 | 6–10% <br> 5–10 | 2–4% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 39–46% <br> 62–71 | 19–24% <br> 23–32 | 14–19% <br> 17–23 | 9–13% <br> 10–15 | 4–7% <br> 2–6 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
