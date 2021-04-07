@@ -153,14 +153,14 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [3–5 October 2018](2018-10-05-Survation.html) | Survation <br> SNP |  |  |  |  |  |
 | [4 October 2018](2018-10-04-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [2 October 2018](2018-10-02-Survation.html) | Survation <br> The Sunday Post | 2 | 0–3 | 0–4 | 0–6 | 0–8 |
-| [5–10 July 2018](2018-07-10-Survation.html) | Survation <br> Daily Record | 2 | 0–5 | 0–5 | 0–5 | 0–7 |
+| [5–10 July 2018](2018-07-10-Survation.html) | Survation <br> Daily Record | 2 | 0–5 | 0–6 | 0–7 | 0–8 |
 | [21–27 June 2018](2018-06-27-Panelbase.html) | Panelbase <br> Wings Over Scotland | 0 | 0 | 0 | 0 | 0 |
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record | 0 | 0 | 0 | 0 | 0–1 |
 | [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–1 |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 0 | 0 | 0 | 0 | 0–1 |
-| [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 0 | 0 | 0 | 0–1 | 0–1 |
+| [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 0 | 0 | 0 | 0 | 0–1 |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail | 0 | 0 | 0 | 0 | 0–1 |
 | [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |

@@ -142,10 +142,10 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0 | 0 | 0 | 0–1 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0–3 | 0–3 | 0–4 | 0–6 |
 | [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4 | 1–6 | 0–7 | 0–7 | 0–8 |
-| [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 5 | 4–8 | 2–8 | 1–8 | 0–8 |
+| [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 5 | 3–8 | 2–8 | 1–8 | 0–8 |
 | [14–17 May 2019](2019-05-17-Panelbase.html) | Panelbase <br> The Sunday Times | 6 | 3–8 | 3–8 | 1–8 | 0–8 |
-| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 3 | 0–7 | 0–7 | 0–7 | 0–8 |
-| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 0 | 0–3 | 0–4 | 0–5 | 0–6 |
+| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 3 | 0–6 | 0–7 | 0–8 | 0–8 |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 0 | 0–3 | 0–3 | 0–4 | 0–6 |
 | [6 March 2019](2019-03-06-Panelbase.html) | Panelbase <br> Wings Over Scotland |  |  |  |  |  |
 | [1–4 March 2019](2019-03-04-Survation.html) | Survation <br> Scottish Daily Mail |  |  |  |  |  |
 | [5 December 2018](2018-12-05-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |

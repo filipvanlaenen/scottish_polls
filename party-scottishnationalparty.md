@@ -135,10 +135,10 @@ Last result: **63** seats (General Election of 5 May 2016)
 | [20–26 November 2020](2020-11-26-IpsosMORI.html) | Ipsos MORI <br> STV News | 73 | 68–74 | 67–74 | 67–76 | 65–76 |
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 70 | 67–72 | 66–73 | 66–73 | 66–73 |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 73 | 71–75 | 70–75 | 70–76 | 69–78 |
-| [3 November 2020](2020-11-03-Survation.html) | Survation | 69 | 68–71 | 68–71 | 67–72 | 65–72 |
+| [3 November 2020](2020-11-03-Survation.html) | Survation | 67 | 64–69 | 63–70 | 63–70 | 63–72 |
 | [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes | 66 | 63–69 | 62–71 | 62–71 | 61–71 |
 | [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News | 72 | 70–74 | 70–75 | 70–75 | 69–77 |
-| [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico | 78 | 74–81 | 73–82 | 72–82 | 72–84 |
+| [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico | 78 | 74–81 | 73–81 | 73–82 | 72–84 |
 | [2–7 September 2020](2020-09-07-Survation.html) | Survation | 70 | 68–71 | 66–71 | 66–72 | 63–72 |
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes | 67 | 64–69 | 63–71 | 62–71 | 61–72 |
 | [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 72 | 71–76 | 70–76 | 70–76 | 68–77 |
@@ -148,39 +148,39 @@ Last result: **63** seats (General Election of 5 May 2016)
 | [24–27 April 2020](2020-04-27-YouGov.html) | YouGov | 68 | 65–71 | 65–72 | 64–73 | 63–74 |
 | [24–26 March 2020](2020-03-26-Panelbase.html) | Panelbase <br> The Sunday Times | 70 | 67–73 | 66–73 | 66–74 | 64–76 |
 | [28–31 January 2020](2020-01-31-Panelbase.html) | Panelbase <br> Scot Goes Pop | 67 | 64–70 | 63–71 | 62–72 | 61–73 |
-| [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 65 | 63–69 | 63–70 | 62–70 | 62–71 |
+| [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 61 | 59–65 | 58–67 | 57–68 | 55–70 |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times | 59 | 55–62 | 55–62 | 54–63 | 53–65 |
 | [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 58 | 55–62 | 54–63 | 54–63 | 53–64 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 60 | 57–63 | 56–64 | 55–64 | 54–65 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 61 | 59–63 | 58–64 | 58–65 | 56–68 |
 | [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 62 | 60–66 | 60–67 | 60–68 | 57–68 |
-| [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 62 | 60–64 | 60–66 | 60–67 | 57–67 |
+| [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 63 | 60–67 | 60–67 | 59–67 | 58–68 |
 | [14–17 May 2019](2019-05-17-Panelbase.html) | Panelbase <br> The Sunday Times | 62 | 60–65 | 59–66 | 59–67 | 57–68 |
-| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 62 | 61–65 | 61–66 | 60–67 | 58–68 |
-| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 61 | 58–63 | 56–64 | 54–65 | 53–66 |
+| [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 62 | 60–66 | 59–67 | 59–68 | 57–69 |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 61 | 58–63 | 57–64 | 55–65 | 54–66 |
 | [6 March 2019](2019-03-06-Panelbase.html) | Panelbase <br> Wings Over Scotland | 56 | 53–58 | 53–60 | 53–61 | 52–62 |
 | [1–4 March 2019](2019-03-04-Survation.html) | Survation <br> Scottish Daily Mail | 58 | 53–61 | 52–62 | 52–62 | 51–63 |
 | [5 December 2018](2018-12-05-Panelbase.html) | Panelbase <br> The Sunday Times | 57 | 54–60 | 54–61 | 53–62 | 51–63 |
-| [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 56 | 52–58 | 51–58 | 50–59 | 48–61 |
+| [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 57 | 53–60 | 52–61 | 51–61 | 48–62 |
 | [18–21 October 2018](2018-10-21-Survation.html) | Survation <br> Daily Record | 50 | 46–53 | 44–54 | 43–56 | 41–59 |
-| [3–5 October 2018](2018-10-05-Survation.html) | Survation <br> SNP | 60 | 58–63 | 57–64 | 56–64 | 55–65 |
-| [4 October 2018](2018-10-04-Panelbase.html) | Panelbase <br> The Sunday Times | 55 | 53–60 | 53–61 | 52–62 | 51–63 |
+| [3–5 October 2018](2018-10-05-Survation.html) | Survation <br> SNP | 60 | 58–62 | 56–63 | 55–64 | 52–65 |
+| [4 October 2018](2018-10-04-Panelbase.html) | Panelbase <br> The Sunday Times | 55 | 52–59 | 51–60 | 49–60 | 46–61 |
 | [2 October 2018](2018-10-02-Survation.html) | Survation <br> The Sunday Post | 58 | 53–60 | 52–61 | 51–61 | 49–63 |
-| [5–10 July 2018](2018-07-10-Survation.html) | Survation <br> Daily Record | 59 | 53–62 | 53–62 | 52–63 | 51–64 |
-| [21–27 June 2018](2018-06-27-Panelbase.html) | Panelbase <br> Wings Over Scotland | 55 | 53–58 | 53–59 | 51–60 | 51–63 |
+| [5–10 July 2018](2018-07-10-Survation.html) | Survation <br> Daily Record | 55 | 48–59 | 46–60 | 44–61 | 42–63 |
+| [21–27 June 2018](2018-06-27-Panelbase.html) | Panelbase <br> Wings Over Scotland | 54 | 50–58 | 48–59 | 47–60 | 45–61 |
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times | 55 | 52–57 | 50–57 | 50–58 | 47–60 |
-| [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 53 | 52–56 | 51–58 | 51–60 | 49–62 |
+| [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 53 | 46–55 | 44–56 | 43–58 | 42–61 |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record | 55 | 51–60 | 50–61 | 48–62 | 46–63 |
 | [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 53 | 49–54 | 47–55 | 46–58 | 44–60 |
-| [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 49 | 44–56 | 43–57 | 42–59 | 41–60 |
-| [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 54 | 48–59 | 48–60 | 47–60 | 44–61 |
-| [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 59 | 54–61 | 53–61 | 51–63 | 50–63 |
+| [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 46 | 42–52 | 41–55 | 40–56 | 39–59 |
+| [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 48 | 43–55 | 42–57 | 41–58 | 40–60 |
+| [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 54 | 50–59 | 48–60 | 48–61 | 46–63 |
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail | 53 | 50–59 | 49–59 | 48–60 | 46–61 |
-| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 65 | 63–67 | 62–68 | 62–69 | 61–70 |
+| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 62 | 60–65 | 58–66 | 57–67 | 56–69 |
 | [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 63 | 61–66 | 59–66 | 58–66 | 56–68 |
 | [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 69 | 66–72 | 65–72 | 65–73 | 63–74 |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 70 | 66–71 | 65–72 | 65–73 | 64–73 |
-| [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail | 66 | 63–69 | 63–70 | 62–70 | 61–71 |
+| [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail | 66 | 62–69 | 61–69 | 61–70 | 60–70 |
 
 ### Probability Mass Function
 
