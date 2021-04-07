@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/scottish_polls</id>
   <title>All Registered Polls for the Scottish Parliament</title>
-  <updated>2021-04-06T19:03:24.682827+02:00</updated>
+  <updated>2021-04-07T19:23:24.361654+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 36.0–42.1%, 61–69 seats</li><li>Scottish Conservative &amp; Unionist Party: 18.6–23.6%, 21–30 seats</li><li>Scottish Labour: 14.8–19.5%, 17–24 seats</li><li>Scottish Greens: 6.5–9.9%, 4–11 seats</li><li>Scottish Liberal Democrats: 3.8–6.5%, 2–6 seats</li><li>Alba Party: 4.7–7.7%, 0–8 seats</li><li>All For Unity: 2.9–5.3%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/scottish_polls/2021-04-01-Panelbase.html</id>
@@ -152,6 +152,30 @@
     <dc:date>2021-04-06T13:52:33.006442+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 40.1–46.0%, 63–70 seats</li><li>Scottish Conservative &amp; Unionist Party: 14.9–19.4%, 18–23 seats</li><li>Scottish Labour: 16.7–21.4%, 20–28 seats</li><li>Scottish Greens: 8.3–11.9%, 10–13 seats</li><li>Scottish Liberal Democrats: 5.6–8.7%, 5–9 seats</li><li>UK Independence Party: 0.6–1.8%, 0 seats</li><li>Reform UK: 1.3–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2020-11-03-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2020-11-03-Survation.html"/>
+    <title>Opinion Poll by Survation, 3 November 2020</title>
+    <updated>2021-04-07T18:28:07.432461+02:00</updated>
+    <dc:date>2021-04-07T18:28:07.432461+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 49.9–56.0%, 73–82 seats</li><li>Scottish Conservative &amp; Unionist Party: 16.7–21.5%, 22–29 seats</li><li>Scottish Labour: 11.1–15.2%, 12–18 seats</li><li>Scottish Greens: 3.8–6.6%, 2–6 seats</li><li>Scottish Liberal Democrats: 6.5–9.8%, 5–12 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2020-09-21-JLPartners.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2020-09-21-JLPartners.html"/>
+    <title>Opinion Poll by JL Partners for Politico, 17–21 September 2020</title>
+    <updated>2021-04-07T17:05:01.641733+02:00</updated>
+    <dc:date>2021-04-07T17:05:01.641733+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 35.3–41.3%, 57–68 seats</li><li>Scottish Conservative &amp; Unionist Party: 18.8–23.8%, 21–30 seats</li><li>Scottish Labour: 16.8–21.7%, 19–27 seats</li><li>Scottish Greens: 7.4–11.0%, 7–12 seats</li><li>Scottish Liberal Democrats: 7.4–11.0%, 6–13 seats</li><li>UK Independence Party: 0.5–1.8%, 0 seats</li><li>Reform UK: 1.4–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2020-01-22-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2020-01-22-Survation.html"/>
+    <title>Opinion Poll by Survation for Progress Scotland, 20–22 January 2020</title>
+    <updated>2021-04-06T21:32:45.559152+02:00</updated>
+    <dc:date>2021-04-06T21:32:45.559152+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 34.3–40.3%, 54–63 seats</li><li>Scottish Conservative &amp; Unionist Party: 22.6–27.9%, 27–36 seats</li><li>Scottish Labour: 12.1–16.4%, 16–20 seats</li><li>Scottish Greens: 6.6–9.9%, 5–11 seats</li><li>Scottish Liberal Democrats: 8.4–12.1%, 8–14 seats</li><li>UK Independence Party: 0.1–0.9%, 0 seats</li><li>Reform UK: 1.3–3.1%, 0 seats</li><li>Scottish Socialist Party: 2.1–4.3%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/scottish_polls/2019-12-03-YouGov.html</id>
     <link href="https://filipvanlaenen.github.io/scottish_polls/2019-12-03-YouGov.html"/>
@@ -176,12 +200,100 @@
     <dc:date>2021-04-06T18:34:24.661569+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 36.6–42.6%, 59–67 seats</li><li>Scottish Conservative &amp; Unionist Party: 18.0–22.9%, 20–29 seats</li><li>Scottish Labour: 14.1–18.6%, 16–23 seats</li><li>Scottish Greens: 5.7–8.9%, 2–10 seats</li><li>Scottish Liberal Democrats: 8.4–12.2%, 8–14 seats</li><li>UK Independence Party: 0.1–0.9%, 0 seats</li><li>Reform UK: 4.7–7.7%, 1–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2019-06-20-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2019-06-20-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase for The Sunday Times, 18–20 June 2019</title>
+    <updated>2021-04-07T07:45:53.800073+02:00</updated>
+    <dc:date>2021-04-07T07:45:53.800073+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 34.5–40.4%, 59–67 seats</li><li>Scottish Conservative &amp; Unionist Party: 16.9–21.7%, 20–28 seats</li><li>Scottish Labour: 16.0–20.7%, 18–26 seats</li><li>Scottish Greens: 5.6–8.8%, 3–10 seats</li><li>Scottish Liberal Democrats: 6.6–10.0%, 6–12 seats</li><li>UK Independence Party: 1.3–3.1%, 0 seats</li><li>Reform UK: 4.8–7.7%, 1–8 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/scottish_polls/2019-05-17-Panelbase.html</id>
     <link href="https://filipvanlaenen.github.io/scottish_polls/2019-05-17-Panelbase.html"/>
     <title>Opinion Poll by Panelbase for The Sunday Times, 14–17 May 2019</title>
     <updated>2021-04-06T19:03:24.682827+02:00</updated>
     <dc:date>2021-04-06T19:03:24.682827+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 33.7–39.6%, 59–68 seats</li><li>Scottish Conservative &amp; Unionist Party: 17.5–22.4%, 21–31 seats</li><li>Scottish Labour: 12.8–17.2%, 16–23 seats</li><li>Scottish Greens: 8.2–11.9%, 10–14 seats</li><li>Scottish Liberal Democrats: 5.5–8.6%, 5–10 seats</li><li>UK Independence Party: 1.3–3.0%, 0 seats</li><li>Reform UK: 3.8–6.5%, 0–8 seats</li><li>Scottish Socialist Party: 2.1–4.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2019-04-26-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2019-04-26-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 24–26 April 2019</title>
+    <updated>2021-04-06T23:11:14.221312+02:00</updated>
+    <dc:date>2021-04-06T23:11:14.221312+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 34.1–40.1%, 55–65 seats</li><li>Scottish Conservative &amp; Unionist Party: 19.6–24.7%, 24–34 seats</li><li>Scottish Labour: 16.7–21.5%, 21–29 seats</li><li>Scottish Greens: 5.6–8.7%, 3–10 seats</li><li>Scottish Liberal Democrats: 5.6–8.7%, 5–10 seats</li><li>UK Independence Party: 1.3–3.0%, 0 seats</li><li>Reform UK: 3.0–5.4%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2019-04-24-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2019-04-24-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase, 18–24 April 2019</title>
+    <updated>2021-04-06T19:37:04.899587+02:00</updated>
+    <dc:date>2021-04-06T19:37:04.899587+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 34.4–40.2%, 51–61 seats</li><li>Scottish Conservative &amp; Unionist Party: 23.6–28.9%, 31–38 seats</li><li>Scottish Labour: 19.8–24.8%, 25–34 seats</li><li>Scottish Greens: 4.7–7.6%, 2–8 seats</li><li>Scottish Liberal Democrats: 4.7–7.6%, 5–8 seats</li><li>UK Independence Party: 1.3–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2018-11-07-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2018-11-07-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase for Constitutional Commission, 2–7 November 2018</title>
+    <updated>2021-04-07T17:30:55.94756+02:00</updated>
+    <dc:date>2021-04-07T17:30:55.94756+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 36.6–42.6%, 55–64 seats</li><li>Scottish Conservative &amp; Unionist Party: 22.2–27.5%, 28–36 seats</li><li>Scottish Labour: 19.4–24.5%, 25–32 seats</li><li>Scottish Greens: 2.9–5.3%, 0–3 seats</li><li>Scottish Liberal Democrats: 6.4–9.7%, 5–11 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2018-10-05-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2018-10-05-Survation.html"/>
+    <title>Opinion Poll by Survation for SNP, 3–5 October 2018</title>
+    <updated>2021-04-07T18:53:09.700337+02:00</updated>
+    <dc:date>2021-04-07T18:53:09.700337+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 32.5–38.3%, 49–60 seats</li><li>Scottish Conservative &amp; Unionist Party: 23.7–29.1%, 29–38 seats</li><li>Scottish Labour: 17.9–22.8%, 22–29 seats</li><li>Scottish Greens: 5.6–8.8%, 3–10 seats</li><li>Scottish Liberal Democrats: 6.6–10.0%, 6–12 seats</li><li>UK Independence Party: 1.3–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2018-10-04-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2018-10-04-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase for The Sunday Times, 4 October 2018</title>
+    <updated>2021-04-06T20:35:11.012837+02:00</updated>
+    <dc:date>2021-04-06T20:35:11.012837+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 30.1–35.9%, 44–61 seats</li><li>Scottish Conservative &amp; Unionist Party: 16.7–21.6%, 19–28 seats</li><li>Scottish Labour: 18.6–23.7%, 22–33 seats</li><li>Scottish Greens: 9.2–13.0%, 10–15 seats</li><li>Scottish Liberal Democrats: 8.2–12.0%, 9–14 seats</li><li>UK Independence Party: 3.8–6.5%, 0–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2018-07-10-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2018-07-10-Survation.html"/>
+    <title>Opinion Poll by Survation for Daily Record, 5–10 July 2018</title>
+    <updated>2021-04-07T07:16:55.556795+02:00</updated>
+    <dc:date>2021-04-07T07:16:55.556795+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 33.1–39.0%, 47–60 seats</li><li>Scottish Conservative &amp; Unionist Party: 24.3–29.7%, 31–39 seats</li><li>Scottish Labour: 20.5–25.7%, 25–35 seats</li><li>Scottish Greens: 4.7–7.6%, 2–8 seats</li><li>Scottish Liberal Democrats: 5.6–8.7%, 5–10 seats</li><li>UK Independence Party: 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2018-06-27-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2018-06-27-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase for Wings Over Scotland, 21–27 June 2018</title>
+    <updated>2021-04-06T21:02:45.956638+02:00</updated>
+    <dc:date>2021-04-06T21:02:45.956638+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 28.9–34.7%, 40–56 seats</li><li>Scottish Conservative &amp; Unionist Party: 18.4–23.4%, 22–31 seats</li><li>Scottish Labour: 21.2–26.5%, 26–39 seats</li><li>Scottish Greens: 8.2–11.9%, 10–14 seats</li><li>Scottish Liberal Democrats: 8.2–11.9%, 9–14 seats</li><li>UK Independence Party: 2.1–4.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2017-12-05-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2017-12-05-Survation.html"/>
+    <title>Opinion Poll by Survation for The Sunday Post, 1–5 December 2017</title>
+    <updated>2021-04-07T17:59:29.061756+02:00</updated>
+    <dc:date>2021-04-07T17:59:29.061756+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 30.4–36.2%, 41–58 seats</li><li>Scottish Conservative &amp; Unionist Party: 19.7–24.8%, 24–33 seats</li><li>Scottish Labour: 22.6–27.9%, 28–39 seats</li><li>Scottish Greens: 6.5–9.9%, 5–10 seats</li><li>Scottish Liberal Democrats: 6.5–9.9%, 6–12 seats</li><li>UK Independence Party: 2.1–4.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2017-11-30-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2017-11-30-Survation.html"/>
+    <title>Opinion Poll by Survation for Daily Record, 27–30 November 2017</title>
+    <updated>2021-04-07T16:38:00.002479+02:00</updated>
+    <dc:date>2021-04-07T16:38:00.002479+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 32.9–38.4%, 48–61 seats</li><li>Scottish Conservative &amp; Unionist Party: 21.1–26.0%, 27–35 seats</li><li>Scottish Labour: 22.0–27.0%, 28–37 seats</li><li>Scottish Greens: 4.8–7.6%, 2–9 seats</li><li>Scottish Liberal Democrats: 4.8–7.6%, 5–8 seats</li><li>UK Independence Party: 0.6–1.8%, 0 seats</li><li>Scottish Socialist Party: 2.2–4.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2017-10-05-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2017-10-05-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 2–5 October 2017</title>
+    <updated>2021-04-06T20:08:06.335887+02:00</updated>
+    <dc:date>2021-04-06T20:08:06.335887+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 42.8–48.9%, 65–73 seats</li><li>Scottish Conservative &amp; Unionist Party: 19.0–24.0%, 24–32 seats</li><li>Scottish Labour: 13.2–17.6%, 16–21 seats</li><li>Scottish Greens: 7.5–11.1%, 10–12 seats</li><li>Scottish Liberal Democrats: 4.8–7.7%, 4–7 seats</li><li>UK Independence Party: 1.3–3.1%, 0 seats</li></ul></div></content>
@@ -191,5 +303,13 @@
     <updated>2021-04-06T16:40:42.538087+02:00</updated>
     <dc:date>2021-04-06T16:40:42.538087+02:00</dc:date>
   </entry>
-  <dc:date>2021-04-06T19:03:24.682827+02:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 37.6–43.6%, 61–70 seats</li><li>Scottish Conservative &amp; Unionist Party: 17.5–22.3%, 20–30 seats</li><li>Scottish Labour: 13.7–18.2%, 17–23 seats</li><li>Scottish Greens: 10.0–13.9%, 10–16 seats</li><li>Scottish Liberal Democrats: 5.5–8.6%, 5–9 seats</li><li>UK Independence Party: 3.0–5.3%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2016-06-28-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2016-06-28-Survation.html"/>
+    <title>Opinion Poll by Survation for Scottish Daily Mail, 24–28 June 2016</title>
+    <updated>2021-04-07T19:23:24.361654+02:00</updated>
+    <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
+  </entry>
+  <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
 </feed>
