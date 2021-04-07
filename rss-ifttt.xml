@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Scottish Parliament</description>
     <pubDate>Sat, 3 Apr 2021 13:49:46 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 30 March–4 April 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Scottish Parliament<br/>65 seats needed for a majority<br/>Opinion poll by Ipsos MORI for STV News, 30 March–4 April 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI-seating-plan.png" length="469698" type="image/png"/>
+      <pubDate>Wed, 7 Apr 2021 20:14:52 +0200</pubDate>
+      <dc:date>2021-04-07T20:14:52.374678+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 30 March–4 April 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.html#seats</link>
+      <description><![CDATA[Seat projections for the Scottish Parliament<br/>65 seats needed for a majority<br/>Opinion poll by Ipsos MORI for STV News, 30 March–4 April 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI-seats.png" length="174498" type="image/png"/>
+      <pubDate>Wed, 7 Apr 2021 20:14:52 +0200</pubDate>
+      <dc:date>2021-04-07T20:14:52.374678+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 30 March–4 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.html</link>
+      <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Ipsos MORI for STV News, 30 March–4 April 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-04-IpsosMORI.png" length="223297" type="image/png"/>
+      <pubDate>Wed, 7 Apr 2021 20:14:52 +0200</pubDate>
+      <dc:date>2021-04-07T20:14:52.374678+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 30 March–1 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-01-Panelbase.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Scottish Parliament<br/>65 seats needed for a majority<br/>Opinion poll by Panelbase for The Sunday Times, 30 March–1 April 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-04-01-Panelbase.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-04-01-Panelbase-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-08-YouGov.png" length="214788" type="image/png"/>
       <pubDate>Sat, 3 Apr 2021 21:44:55 +0200</pubDate>
       <dc:date>2021-04-03T21:44:55.844916+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Panelbase for The Sunday Times, 3–5 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Scottish Parliament<br/>65 seats needed for a majority<br/>Opinion poll by Panelbase for The Sunday Times, 3–5 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase-seating-plan.png" length="463363" type="image/png"/>
-      <pubDate>Sat, 3 Apr 2021 23:43:44 +0200</pubDate>
-      <dc:date>2021-04-03T23:43:44.788646+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Panelbase for The Sunday Times, 3–5 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.html#seats</link>
-      <description><![CDATA[Seat projections for the Scottish Parliament<br/>65 seats needed for a majority<br/>Opinion poll by Panelbase for The Sunday Times, 3–5 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase-seats.png" length="169735" type="image/png"/>
-      <pubDate>Sat, 3 Apr 2021 23:43:44 +0200</pubDate>
-      <dc:date>2021-04-03T23:43:44.788646+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Panelbase for The Sunday Times, 3–5 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.html</link>
-      <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Panelbase for The Sunday Times, 3–5 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-05-Panelbase.png" length="203116" type="image/png"/>
-      <pubDate>Sat, 3 Apr 2021 23:43:44 +0200</pubDate>
-      <dc:date>2021-04-03T23:43:44.788646+02:00</dc:date>
     </item>
   </channel>
 </rss>
