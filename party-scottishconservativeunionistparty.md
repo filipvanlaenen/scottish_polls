@@ -153,7 +153,7 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 25 | 23–27 | 22–29 | 21–30 | 20–31 |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times | 34 | 31–37 | 31–37 | 30–38 | 28–39 |
 | [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 33 | 30–35 | 29–36 | 27–36 | 27–38 |
-| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 33 | 30–36 | 30–37 | 29–37 | 26–38 |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 32 | 31–36 | 30–36 | 29–37 | 26–38 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 27 | 24–31 | 23–31 | 23–31 | 22–32 |
 | [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 25 | 22–28 | 21–29 | 21–30 | 20–31 |
 | [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 24 | 21–26 | 20–28 | 20–29 | 19–31 |
@@ -180,7 +180,7 @@ Last result: **31** seats (General Election of 5 May 2016)
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail | 25 | 22–27 | 22–28 | 20–29 | 19–30 |
 | [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 31 | 30–35 | 30–35 | 28–36 | 26–38 |
 | [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 31 | 30–34 | 28–35 | 28–35 | 26–37 |
-| [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 26 | 23–28 | 21–30 | 21–31 | 20–32 |
+| [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 26 | 23–28 | 22–30 | 21–31 | 20–32 |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 26 | 25–30 | 24–31 | 24–32 | 21–32 |
 | [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail | 25 | 22–28 | 21–29 | 20–30 | 19–31 |
 

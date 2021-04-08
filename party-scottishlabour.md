@@ -152,7 +152,7 @@ Last result: **24** seats (General Election of 5 May 2016)
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 23 | 21–26 | 20–26 | 19–27 | 18–28 |
 | [3–6 December 2019](2019-12-06-Panelbase.html) | Panelbase <br> The Sunday Times | 22 | 21–25 | 21–27 | 20–27 | 18–27 |
 | [3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times | 16 | 16–18 | 16–19 | 16–20 | 15–21 |
-| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 22 | 20–24 | 20–25 | 18–26 | 17–27 |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase <br> The Sunday Times | 22 | 20–24 | 18–25 | 17–25 | 16–26 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 23 | 21–26 | 20–26 | 19–27 | 17–28 |
 | [3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 13 | 10–15 | 10–16 | 10–17 | 10–17 |
 | [18–20 June 2019](2019-06-20-Panelbase.html) | Panelbase <br> The Sunday Times | 19 | 17–22 | 16–23 | 16–23 | 15–24 |
