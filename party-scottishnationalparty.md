@@ -10,7 +10,9 @@ Last result: **41.7%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.8% | 37.3–44.6% | 36.5–45.6% | 35.9–46.3% | 34.9–47.7% |
+| N/A | [Poll Average](average.html) | 40.9% | 37.2–45.1% | 36.5–45.9% | 35.9–46.6% | 34.8–47.8% |
+| [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 39.6% | 37.7–41.6% | 37.1–42.2% | 36.6–42.7% | 35.7–43.7% |
+| [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 44.0% | 42.0–46.0% | 41.5–46.6% | 41.0–47.1% | 40.0–48.0% |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 38.0% | 36.0–39.9% | 35.5–40.5% | 35.1–41.0% | 34.1–41.9% |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
@@ -89,19 +91,19 @@ The following table shows the probability mass function per percentage block of 
 | 32.5–33.5% | 0% | 100% |  |
 | 33.5–34.5% | 0.3% | 100% |  |
 | 34.5–35.5% | 1.2% | 99.7% |  |
-| 35.5–36.5% | 4% | 98.6% |  |
-| 36.5–37.5% | 7% | 95% |  |
-| 37.5–38.5% | 11% | 88% |  |
-| 38.5–39.5% | 12% | 77% |  |
-| 39.5–40.5% | 12% | 65% |  |
-| 40.5–41.5% | 12% | 53% | Median |
-| 41.5–42.5% | 12% | 41% | Last Result |
-| 42.5–43.5% | 11% | 29% |  |
-| 43.5–44.5% | 8% | 19% |  |
-| 44.5–45.5% | 5% | 11% |  |
-| 45.5–46.5% | 3% | 5% |  |
-| 46.5–47.5% | 1.4% | 2% |  |
-| 47.5–48.5% | 0.5% | 0.6% |  |
+| 35.5–36.5% | 4% | 98.5% |  |
+| 36.5–37.5% | 8% | 95% |  |
+| 37.5–38.5% | 11% | 87% |  |
+| 38.5–39.5% | 12% | 76% |  |
+| 39.5–40.5% | 11% | 64% |  |
+| 40.5–41.5% | 10% | 53% | Median |
+| 41.5–42.5% | 10% | 43% | Last Result |
+| 42.5–43.5% | 10% | 33% |  |
+| 43.5–44.5% | 9% | 23% |  |
+| 44.5–45.5% | 7% | 14% |  |
+| 45.5–46.5% | 4% | 7% |  |
+| 46.5–47.5% | 2% | 3% |  |
+| 47.5–48.5% | 0.6% | 0.7% |  |
 | 48.5–49.5% | 0.1% | 0.1% |  |
 | 49.5–50.5% | 0% | 0% |  |
 
@@ -114,7 +116,9 @@ Last result: **63** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 65 | 61–70 | 60–72 | 59–73 | 57–74 |
+| N/A | [Poll Average](average.html) | 66 | 61–71 | 60–72 | 60–73 | 59–74 |
+| [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 64 | 61–67 | 60–69 | 60–69 | 59–71 |
+| [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 68 | 65–72 | 64–73 | 64–73 | 63–74 |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 61 | 59–67 | 59–68 | 59–69 | 56–69 |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 66 | 62–68 | 61–69 | 61–69 | 60–70 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 65 | 61–68 | 61–68 | 60–69 | 59–69 |
@@ -141,13 +145,13 @@ Last result: **63** seats (General Election of 5 May 2016)
 | [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes | 66 | 63–69 | 62–71 | 62–71 | 61–71 |
 | [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News | 72 | 70–73 | 70–74 | 70–75 | 69–76 |
 | [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico | 78 | 74–81 | 73–81 | 73–82 | 72–84 |
-| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 69 | 65–71 | 63–71 | 63–71 | 61–72 |
+| [2–7 September 2020](2020-09-07-Survation.html) | Survation | 67 | 63–70 | 63–71 | 62–71 | 60–72 |
 | [6–13 August 2020](2020-08-13-SavantaComRes.html) | Savanta ComRes | 67 | 64–69 | 63–71 | 62–71 | 61–72 |
-| [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 72 | 71–76 | 70–76 | 70–76 | 68–77 |
+| [6–10 August 2020](2020-08-10-YouGov.html) | YouGov <br> The Times | 72 | 70–74 | 69–75 | 68–76 | 66–77 |
 | [3 July 2020](2020-07-03-Panelbase.html) | Panelbase <br> The Sunday Times | 74 | 72–75 | 71–76 | 70–77 | 68–78 |
 | [1–5 June 2020](2020-06-05-Panelbase.html) | Panelbase <br> Scot Goes Pop | 72 | 69–73 | 68–75 | 67–75 | 65–76 |
-| [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland | 71 | 69–74 | 67–75 | 67–75 | 66–76 |
-| [24–27 April 2020](2020-04-27-YouGov.html) | YouGov | 68 | 65–71 | 65–72 | 64–73 | 63–74 |
+| [1–5 May 2020](2020-05-05-Panelbase.html) | Panelbase <br> Wings Over Scotland | 71 | 68–74 | 67–74 | 66–75 | 65–76 |
+| [24–27 April 2020](2020-04-27-YouGov.html) | YouGov | 67 | 65–71 | 65–72 | 64–73 | 63–74 |
 | [24–26 March 2020](2020-03-26-Panelbase.html) | Panelbase <br> The Sunday Times | 70 | 67–73 | 66–73 | 66–74 | 64–76 |
 | [28–31 January 2020](2020-01-31-Panelbase.html) | Panelbase <br> Scot Goes Pop | 67 | 64–70 | 63–71 | 62–72 | 61–73 |
 | [20–22 January 2020](2020-01-22-Survation.html) | Survation <br> Progress Scotland | 61 | 59–65 | 58–67 | 57–68 | 55–70 |
@@ -161,26 +165,26 @@ Last result: **63** seats (General Election of 5 May 2016)
 | [24–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> The Times | 62 | 60–66 | 59–67 | 59–68 | 57–69 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase | 61 | 58–63 | 57–64 | 55–65 | 54–66 |
 | [6 March 2019](2019-03-06-Panelbase.html) | Panelbase <br> Wings Over Scotland | 56 | 53–58 | 53–60 | 53–61 | 52–62 |
-| [1–4 March 2019](2019-03-04-Survation.html) | Survation <br> Scottish Daily Mail | 58 | 53–61 | 52–62 | 52–62 | 51–63 |
+| [1–4 March 2019](2019-03-04-Survation.html) | Survation <br> Scottish Daily Mail | 53 | 48–58 | 46–59 | 45–60 | 43–62 |
 | [5 December 2018](2018-12-05-Panelbase.html) | Panelbase <br> The Sunday Times | 57 | 54–60 | 54–61 | 53–62 | 51–63 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 57 | 53–60 | 52–61 | 51–61 | 48–62 |
-| [18–21 October 2018](2018-10-21-Survation.html) | Survation <br> Daily Record | 50 | 46–53 | 44–54 | 43–56 | 41–59 |
+| [18–21 October 2018](2018-10-21-Survation.html) | Survation <br> Daily Record | 47 | 42–53 | 42–55 | 41–56 | 39–58 |
 | [3–5 October 2018](2018-10-05-Survation.html) | Survation <br> SNP | 60 | 58–62 | 56–63 | 55–64 | 52–65 |
 | [4 October 2018](2018-10-04-Panelbase.html) | Panelbase <br> The Sunday Times | 55 | 52–59 | 51–60 | 49–60 | 46–61 |
-| [2 October 2018](2018-10-02-Survation.html) | Survation <br> The Sunday Post | 58 | 53–60 | 52–61 | 51–61 | 49–63 |
+| [2 October 2018](2018-10-02-Survation.html) | Survation <br> The Sunday Post | 49 | 43–57 | 42–59 | 41–59 | 38–61 |
 | [5–10 July 2018](2018-07-10-Survation.html) | Survation <br> Daily Record | 55 | 48–59 | 46–60 | 44–61 | 42–63 |
 | [21–27 June 2018](2018-06-27-Panelbase.html) | Panelbase <br> Wings Over Scotland | 54 | 50–58 | 48–59 | 47–60 | 45–61 |
 | [8–13 June 2018](2018-06-13-Panelbase.html) | Panelbase <br> The Sunday Times | 55 | 52–57 | 50–57 | 50–58 | 47–60 |
 | [1–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 53 | 46–55 | 44–56 | 43–58 | 42–61 |
 | [24–28 January 2018](2018-01-28-Survation.html) | Survation <br> Daily Record | 55 | 51–60 | 50–61 | 48–62 | 46–63 |
-| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 53 | 49–54 | 47–55 | 46–58 | 44–60 |
+| [12–16 January 2018](2018-01-16-YouGov.html) | YouGov <br> The Times | 49 | 43–53 | 42–55 | 42–56 | 40–59 |
 | [1–5 December 2017](2017-12-05-Survation.html) | Survation <br> The Sunday Post | 46 | 42–52 | 41–55 | 40–56 | 39–59 |
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 48 | 43–55 | 42–57 | 41–58 | 40–60 |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 54 | 50–59 | 48–60 | 48–61 | 46–63 |
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail | 53 | 50–59 | 49–59 | 48–60 | 46–61 |
 | [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 62 | 60–65 | 58–66 | 57–67 | 56–69 |
-| [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 63 | 61–66 | 59–66 | 58–66 | 56–68 |
-| [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 69 | 66–72 | 65–72 | 65–73 | 63–74 |
+| [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 63 | 59–65 | 59–66 | 58–66 | 55–67 |
+| [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 69 | 65–71 | 65–71 | 64–72 | 62–73 |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 70 | 66–71 | 65–72 | 65–73 | 64–73 |
 | [24–28 June 2016](2016-06-28-Survation.html) | Survation <br> Scottish Daily Mail | 66 | 62–69 | 61–69 | 61–70 | 60–70 |
 
@@ -192,28 +196,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.1% | 100% |  |
-| 55 | 0.2% | 99.9% |  |
-| 56 | 0.2% | 99.7% |  |
-| 57 | 0.2% | 99.6% |  |
-| 58 | 0.3% | 99.3% |  |
-| 59 | 3% | 99.0% |  |
-| 60 | 6% | 96% |  |
-| 61 | 8% | 90% |  |
-| 62 | 7% | 82% |  |
-| 63 | 10% | 75% | Last Result |
-| 64 | 10% | 65% |  |
-| 65 | 11% | 55% | Median, Majority |
-| 66 | 7% | 44% |  |
-| 67 | 11% | 36% |  |
-| 68 | 8% | 25% |  |
-| 69 | 5% | 17% |  |
-| 70 | 3% | 12% |  |
-| 71 | 4% | 9% |  |
-| 72 | 2% | 5% |  |
+| 55 | 0% | 100% |  |
+| 56 | 0% | 99.9% |  |
+| 57 | 0.1% | 99.9% |  |
+| 58 | 0.2% | 99.8% |  |
+| 59 | 2% | 99.7% |  |
+| 60 | 5% | 98% |  |
+| 61 | 7% | 94% |  |
+| 62 | 6% | 86% |  |
+| 63 | 8% | 80% | Last Result |
+| 64 | 9% | 72% |  |
+| 65 | 12% | 63% | Majority |
+| 66 | 8% | 52% | Median |
+| 67 | 13% | 44% |  |
+| 68 | 8% | 31% |  |
+| 69 | 7% | 23% |  |
+| 70 | 4% | 16% |  |
+| 71 | 6% | 12% |  |
+| 72 | 3% | 7% |  |
 | 73 | 2% | 3% |  |
-| 74 | 0.7% | 1.1% |  |
-| 75 | 0.2% | 0.3% |  |
+| 74 | 0.9% | 1.2% |  |
+| 75 | 0.2% | 0.4% |  |
 | 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 

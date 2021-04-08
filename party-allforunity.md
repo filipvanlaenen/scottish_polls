@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
+| [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 0.0% | N/A | N/A | N/A | N/A |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 0.0% | N/A | N/A | N/A | N/A |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 0.0% | N/A | N/A | N/A | N/A |
@@ -105,6 +107,8 @@ Last result: **0** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–3 | 0–3 | 0–5 |
+| [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
+| [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News |  |  |  |  |  |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0–1 | 0–3 | 0–3 | 0–5 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier |  |  |  |  |  |
