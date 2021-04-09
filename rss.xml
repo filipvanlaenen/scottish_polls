@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Thu, 08 Apr 2021 19:00:29 +0200</pubDate>
+    <pubDate>Fri, 09 Apr 2021 19:15:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Savanta ComRes for The Scotsman, 2–7 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-07-SavantaComRes.html#seats</link>
@@ -640,14 +640,54 @@
       <dc:date>2021-04-06T13:52:33.006442+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 20–26 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-11-26-IpsosMORI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 65–74 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 24–32 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–23 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 3–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-26-IpsosMORI-seats.png"
+        length="166328"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 20:37:36 +0200</pubDate>
+      <dc:date>2021-04-08T20:37:36.137732+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 20–26 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-11-26-IpsosMORI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-26-IpsosMORI-coalitions-seats.png"
+        length="275177"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 20:37:36 +0200</pubDate>
+      <dc:date>2021-04-08T20:37:36.137732+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MORI for STV News, 20–26 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2020-11-26-IpsosMORI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 43.9–50.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 19.5–24.6%&lt;/li&gt;&lt;li&gt;Scottish Labour: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Scottish Greens: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-26-IpsosMORI.png"
         length="201587"
         type="image/png"/>
-      <pubDate>Sat, 03 Apr 2021 20:55:20 +0200</pubDate>
-      <dc:date>2021-04-03T20:55:20.692393+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 20:37:36 +0200</pubDate>
+      <dc:date>2021-04-08T20:37:36.137732+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 5–11 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-11-11-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 65–73 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 21–28 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–26 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 4–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-11-Panelbase-seats.png"
+        length="175383"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 07:17:21 +0200</pubDate>
+      <dc:date>2021-04-09T07:17:21.159207+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 5–11 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-11-11-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-11-Panelbase-coalitions-seats.png"
+        length="259667"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 07:17:21 +0200</pubDate>
+      <dc:date>2021-04-09T07:17:21.159207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for Scot Goes Pop, 5–11 November 2020 – Voting Intentions</title>
@@ -656,8 +696,28 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-11-Panelbase.png"
         length="203490"
         type="image/png"/>
-      <pubDate>Sat, 03 Apr 2021 21:05:25 +0200</pubDate>
-      <dc:date>2021-04-03T21:05:25.574116+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 07:17:21 +0200</pubDate>
+      <dc:date>2021-04-09T07:17:21.159207+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 6–10 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-11-10-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 69–76 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 23–31 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 13–19 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 3–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4–8 seats&lt;/li&gt;&lt;li&gt;Scottish Socialist Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-10-YouGov-seats.png"
+        length="178418"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 17:01:10 +0200</pubDate>
+      <dc:date>2021-04-09T17:01:10.815218+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 6–10 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-11-10-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-10-YouGov-coalitions-seats.png"
+        length="246603"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 17:01:10 +0200</pubDate>
+      <dc:date>2021-04-09T17:01:10.815218+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 6–10 November 2020 – Voting Intentions</title>
@@ -666,8 +726,8 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-11-10-YouGov.png"
         length="201480"
         type="image/png"/>
-      <pubDate>Sat, 03 Apr 2021 21:16:43 +0200</pubDate>
-      <dc:date>2021-04-03T21:16:43.057326+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 17:01:10 +0200</pubDate>
+      <dc:date>2021-04-09T17:01:10.815218+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 3 November 2020 – Seat Projections for the Parties</title>
@@ -706,8 +766,8 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-10-09-SavantaComRes.png"
         length="203952"
         type="image/png"/>
-      <pubDate>Sat, 03 Apr 2021 21:38:38 +0200</pubDate>
-      <dc:date>2021-04-03T21:38:38.590326+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 19:15:24 +0200</pubDate>
+      <dc:date>2021-04-09T19:15:24.406475+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI for STV News, 2–9 October 2020 – Seat Projections for the Parties</title>
@@ -800,14 +860,34 @@
       <dc:date>2021-04-07T20:44:41.020964+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Savanta ComRes, 6–13 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-08-13-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 61–70 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 21–30 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–24 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 10–13 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-08-13-SavantaComRes-seats.png"
+        length="164662"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 17:51:03 +0200</pubDate>
+      <dc:date>2021-04-09T17:51:03.317352+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 6–13 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-08-13-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-08-13-SavantaComRes-coalitions-seats.png"
+        length="262540"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 17:51:03 +0200</pubDate>
+      <dc:date>2021-04-09T17:51:03.317352+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Savanta ComRes, 6–13 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2020-08-13-SavantaComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 39.5–45.6%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.4–23.5%&lt;/li&gt;&lt;li&gt;Scottish Labour: 14.7–19.3%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.2–11.9%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6.4–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-08-13-SavantaComRes.png"
         length="203266"
         type="image/png"/>
-      <pubDate>Sat, 03 Apr 2021 23:52:02 +0200</pubDate>
-      <dc:date>2021-04-03T23:52:02.150584+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 17:51:03 +0200</pubDate>
+      <dc:date>2021-04-09T17:51:03.317352+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 6–10 August 2020 – Seat Projections for the Parties</title>
@@ -840,14 +920,54 @@
       <dc:date>2021-04-07T21:15:47.792912+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 3 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-07-03-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 70–77 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 20–26 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–22 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 5–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-07-03-Panelbase-seats.png"
+        length="160547"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 22:21:42 +0200</pubDate>
+      <dc:date>2021-04-08T22:21:42.380093+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 3 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-07-03-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-07-03-Panelbase-coalitions-seats.png"
+        length="238094"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 22:21:42 +0200</pubDate>
+      <dc:date>2021-04-08T22:21:42.380093+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 3 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2020-07-03-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 47.4–53.5%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 16.0–20.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 13.0–17.4%&lt;/li&gt;&lt;li&gt;Scottish Greens: 6.6–9.9%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-07-03-Panelbase.png"
         length="196655"
         type="image/png"/>
-      <pubDate>Mon, 05 Apr 2021 09:41:04 +0200</pubDate>
-      <dc:date>2021-04-05T09:41:04.628114+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 22:21:42 +0200</pubDate>
+      <dc:date>2021-04-08T22:21:42.380093+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 1–5 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-06-05-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 69–75 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 19–27 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 16–23 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 3–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-06-05-Panelbase-seats.png"
+        length="168150"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 21:02:53 +0200</pubDate>
+      <dc:date>2021-04-08T21:02:53.227546+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 1–5 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-06-05-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-06-05-Panelbase-coalitions-seats.png"
+        length="254976"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 21:02:53 +0200</pubDate>
+      <dc:date>2021-04-08T21:02:53.227546+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for Scot Goes Pop, 1–5 June 2020 – Voting Intentions</title>
@@ -856,8 +976,8 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-06-05-Panelbase.png"
         length="198864"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 19:02:52 +0200</pubDate>
-      <dc:date>2021-04-04T19:02:52.548032+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 21:02:53 +0200</pubDate>
+      <dc:date>2021-04-08T21:02:53.227546+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for Wings Over Scotland, 1–5 May 2020 – Seat Projections for the Parties</title>
@@ -920,14 +1040,54 @@
       <dc:date>2021-04-08T07:43:48.248206+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 24–26 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 65–75 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 30–38 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 12–18 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 2–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase-seats.png"
+        length="167577"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 17:26:14 +0200</pubDate>
+      <dc:date>2021-04-09T17:26:14.233354+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 24–26 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase-coalitions-seats.png"
+        length="278930"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 17:26:14 +0200</pubDate>
+      <dc:date>2021-04-09T17:26:14.233354+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 24–26 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 44.9–51.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Scottish Labour: 11.1–15.2%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-03-26-Panelbase.png"
         length="198579"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 19:46:21 +0200</pubDate>
-      <dc:date>2021-04-04T19:46:21.970623+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 17:26:14 +0200</pubDate>
+      <dc:date>2021-04-09T17:26:14.233354+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 28–31 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-01-31-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 64–72 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 26–36 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 13–20 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 3–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-01-31-Panelbase-seats.png"
+        length="175797"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 18:41:52 +0200</pubDate>
+      <dc:date>2021-04-09T18:41:52.53375+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 28–31 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2020-01-31-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-01-31-Panelbase-coalitions-seats.png"
+        length="271396"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 18:41:52 +0200</pubDate>
+      <dc:date>2021-04-09T18:41:52.53375+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for Scot Goes Pop, 28–31 January 2020 – Voting Intentions</title>
@@ -936,8 +1096,8 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2020-01-31-Panelbase.png"
         length="202615"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 19:56:14 +0200</pubDate>
-      <dc:date>2021-04-04T19:56:14.939327+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 18:41:52 +0200</pubDate>
+      <dc:date>2021-04-09T18:41:52.53375+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Progress Scotland, 20–22 January 2020 – Seat Projections for the Parties</title>
@@ -970,14 +1130,34 @@
       <dc:date>2021-04-06T21:32:45.559152+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 3–6 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2019-12-06-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 54–63 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 30–37 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 19–26 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 2–8 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7–13 seats&lt;/li&gt;&lt;li&gt;Reform UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-12-06-Panelbase-seats.png"
+        length="182524"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 18:16:40 +0200</pubDate>
+      <dc:date>2021-04-09T18:16:40.436828+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 3–6 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2019-12-06-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-12-06-Panelbase-coalitions-seats.png"
+        length="282861"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 18:16:40 +0200</pubDate>
+      <dc:date>2021-04-09T18:16:40.436828+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 3–6 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2019-12-06-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 35.1–41.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.8–20.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Reform UK: 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-12-06-Panelbase.png"
         length="220937"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 20:19:47 +0200</pubDate>
-      <dc:date>2021-04-04T20:19:47.794738+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 18:16:40 +0200</pubDate>
+      <dc:date>2021-04-09T18:16:40.436828+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 3 December 2019 – Seat Projections for the Parties</title>
@@ -1010,14 +1190,34 @@
       <dc:date>2021-04-06T17:14:39.204538+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 20–22 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2019-11-22-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 55–65 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 29–37 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–25 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 2–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7–13 seats&lt;/li&gt;&lt;li&gt;Reform UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-11-22-Panelbase-seats.png"
+        length="186801"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 19:17:33 +0200</pubDate>
+      <dc:date>2021-04-08T19:17:33.91582+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 20–22 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2019-11-22-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-11-22-Panelbase-coalitions-seats.png"
+        length="294090"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 19:17:33 +0200</pubDate>
+      <dc:date>2021-04-08T19:17:33.91582+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 20–22 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2019-11-22-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 36.1–42.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 22.4–27.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 14.8–19.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7.4–11.0%&lt;/li&gt;&lt;li&gt;Reform UK: 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-11-22-Panelbase.png"
         length="216944"
         type="image/png"/>
-      <pubDate>Thu, 08 Apr 2021 19:00:29 +0200</pubDate>
-      <dc:date>2021-04-08T19:00:29.690989+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 19:17:33 +0200</pubDate>
+      <dc:date>2021-04-08T19:17:33.91582+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 9–11 October 2019 – Seat Projections for the Parties</title>
@@ -1200,14 +1400,34 @@
       <dc:date>2021-04-06T19:37:04.899587+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for Wings Over Scotland, 6 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2019-03-06-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 52–61 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 30–38 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 21–27 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 2–8 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7–13 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-03-06-Panelbase-seats.png"
+        length="186857"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 19:10:19 +0200</pubDate>
+      <dc:date>2021-04-09T19:10:19.169834+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Wings Over Scotland, 6 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2019-03-06-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-03-06-Panelbase-coalitions-seats.png"
+        length="278797"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 19:10:19 +0200</pubDate>
+      <dc:date>2021-04-09T19:10:19.169834+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for Wings Over Scotland, 6 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2019-03-06-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 33.3–39.3%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 23.5–29.0%&lt;/li&gt;&lt;li&gt;Scottish Labour: 16.8–21.7%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 7.5–11.0%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2019-03-06-Panelbase.png"
         length="229264"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 22:05:44 +0200</pubDate>
-      <dc:date>2021-04-04T22:05:44.2874+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 19:10:19 +0200</pubDate>
+      <dc:date>2021-04-09T19:10:19.169834+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Scottish Daily Mail, 1–4 March 2019 – Seat Projections for the Parties</title>
@@ -1240,14 +1460,34 @@
       <dc:date>2021-04-08T07:18:11.722159+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 5 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-12-05-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 51–62 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 30–38 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 24–33 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 2–8 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5–10 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-12-05-Panelbase-seats.png"
+        length="187353"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 19:44:59 +0200</pubDate>
+      <dc:date>2021-04-08T19:44:59.439226+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 5 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-12-05-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-12-05-Panelbase-coalitions-seats.png"
+        length="288816"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 19:44:59 +0200</pubDate>
+      <dc:date>2021-04-08T19:44:59.439226+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 5 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2018-12-05-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 35.0–41.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 23.4–28.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 19.6–24.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5.6–8.7%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-12-05-Panelbase.png"
         length="224858"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 22:21:55 +0200</pubDate>
-      <dc:date>2021-04-04T22:21:55.932124+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 19:44:59 +0200</pubDate>
+      <dc:date>2021-04-08T19:44:59.439226+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for Constitutional Commission, 2–7 November 2018 – Seat Projections for the Parties</title>
@@ -1460,14 +1700,54 @@
       <dc:date>2021-04-06T21:02:45.956638+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 8–13 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-06-13-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 47–60 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 29–37 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 25–35 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 3–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-06-13-Panelbase-seats.png"
+        length="193382"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 08:10:02 +0200</pubDate>
+      <dc:date>2021-04-09T08:10:02.418965+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 8–13 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-06-13-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-06-13-Panelbase-coalitions-seats.png"
+        length="303184"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 08:10:02 +0200</pubDate>
+      <dc:date>2021-04-09T08:10:02.418965+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 8–13 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2018-06-13-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 33.3–39.2%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Scottish Labour: 20.7–25.9%&lt;/li&gt;&lt;li&gt;Scottish Greens: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.8–7.7%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-06-13-Panelbase.png"
         length="225587"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 23:26:16 +0200</pubDate>
-      <dc:date>2021-04-04T23:26:16.389695+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 08:10:02 +0200</pubDate>
+      <dc:date>2021-04-09T08:10:02.418965+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 1–5 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-06-05-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 43–56 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 30–39 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 23–33 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 8–12 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5–12 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Scottish Socialist Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-06-05-YouGov-seats.png"
+        length="200913"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 07:42:27 +0200</pubDate>
+      <dc:date>2021-04-09T07:42:27.966927+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 1–5 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-06-05-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-06-05-YouGov-coalitions-seats.png"
+        length="302640"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 07:42:27 +0200</pubDate>
+      <dc:date>2021-04-09T07:42:27.966927+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 1–5 June 2018 – Voting Intentions</title>
@@ -1476,8 +1756,28 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-06-05-YouGov.png"
         length="242077"
         type="image/png"/>
-      <pubDate>Tue, 06 Apr 2021 23:16:06 +0200</pubDate>
-      <dc:date>2021-04-06T23:16:06.769576+02:00</dc:date>
+      <pubDate>Fri, 09 Apr 2021 07:42:27 +0200</pubDate>
+      <dc:date>2021-04-09T07:42:27.966927+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Daily Record, 24–28 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-01-28-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 42–60 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 25–34 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 25–36 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 8–12 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6–12 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-01-28-Survation-seats.png"
+        length="196923"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 20:13:59 +0200</pubDate>
+      <dc:date>2021-04-08T20:13:59.696371+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Daily Record, 24–28 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2018-01-28-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-01-28-Survation-coalitions-seats.png"
+        length="334931"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 20:13:59 +0200</pubDate>
+      <dc:date>2021-04-08T20:13:59.696371+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Record, 24–28 January 2018 – Voting Intentions</title>
@@ -1486,8 +1786,8 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2018-01-28-Survation.png"
         length="228338"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 23:43:55 +0200</pubDate>
-      <dc:date>2021-04-04T23:43:55.554892+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 20:13:59 +0200</pubDate>
+      <dc:date>2021-04-08T20:13:59.696371+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 12–16 January 2018 – Seat Projections for the Parties</title>
@@ -1610,14 +1910,34 @@
       <dc:date>2021-04-06T20:08:06.335887+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Survation for Scottish Daily Mail, 8–12 September 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2017-09-12-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 39–58 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 22–31 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 28–42 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 8–12 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 10–14 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2017-09-12-Survation-seats.png"
+        length="198766"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 22:53:51 +0200</pubDate>
+      <dc:date>2021-04-08T22:53:51.561543+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Scottish Daily Mail, 8–12 September 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2017-09-12-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2017-09-12-Survation-coalitions-seats.png"
+        length="334684"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 22:53:51 +0200</pubDate>
+      <dc:date>2021-04-08T22:53:51.561543+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Survation for Scottish Daily Mail, 8–12 September 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2017-09-12-Survation.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 28.4–34.1%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.8–23.8%&lt;/li&gt;&lt;li&gt;Scottish Labour: 22.6–28.0%&lt;/li&gt;&lt;li&gt;Scottish Greens: 7.4–11.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 8.3–12.1%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2017-09-12-Survation.png"
         length="232271"
         type="image/png"/>
-      <pubDate>Mon, 05 Apr 2021 10:13:46 +0200</pubDate>
-      <dc:date>2021-04-05T10:13:46.232974+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 22:53:51 +0200</pubDate>
+      <dc:date>2021-04-08T22:53:51.561543+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 9–14 March 2017 – Voting Intentions</title>
@@ -1630,14 +1950,34 @@
       <dc:date>2021-04-07T07:58:07.129236+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 24–29 November 2016 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2016-11-29-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 57–65 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 28–36 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 15–19 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 10–15 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–4 seats&lt;/li&gt;&lt;li&gt;Scottish Socialist Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2016-11-29-YouGov-seats.png"
+        length="192304"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 21:27:50 +0200</pubDate>
+      <dc:date>2021-04-08T21:27:50.631429+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 24–29 November 2016 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2016-11-29-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2016-11-29-YouGov-coalitions-seats.png"
+        length="252858"
+        type="image/png"/>
+      <pubDate>Thu, 08 Apr 2021 21:27:50 +0200</pubDate>
+      <dc:date>2021-04-08T21:27:50.631429+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 24–29 November 2016 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2016-11-29-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 36.5–42.2%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 21.7–26.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 12.2–16.3%&lt;/li&gt;&lt;li&gt;Scottish Greens: 9.4–13.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.8–7.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Scottish Socialist Party: 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2016-11-29-YouGov.png"
         length="243496"
         type="image/png"/>
-      <pubDate>Wed, 07 Apr 2021 23:01:31 +0200</pubDate>
-      <dc:date>2021-04-07T23:01:31.985795+02:00</dc:date>
+      <pubDate>Thu, 08 Apr 2021 21:27:50 +0200</pubDate>
+      <dc:date>2021-04-08T21:27:50.631429+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research, 4 October 2016 – Seat Projections for the Parties</title>
@@ -1729,6 +2069,6 @@
       <pubDate>Wed, 07 Apr 2021 19:23:24 +0200</pubDate>
       <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
     </item>
-    <dc:date>2021-04-08T19:00:29.690989+02:00</dc:date>
+    <dc:date>2021-04-09T19:15:24.406475+02:00</dc:date>
   </channel>
 </rss>
