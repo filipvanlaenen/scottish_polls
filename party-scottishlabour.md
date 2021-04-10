@@ -177,7 +177,7 @@ Last result: **24** seats (General Election of 5 May 2016)
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 34 | 30–37 | 29–38 | 28–39 | 26–42 |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 32 | 30–36 | 29–36 | 28–37 | 26–40 |
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail | 35 | 30–39 | 29–40 | 28–42 | 27–46 |
-| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 17 | 16–17 | 15–18 | 15–19 | 13–20 |
+| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 17 | 16–17 | 15–18 | 15–19 | 13–21 |
 | [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 17 | 16–17 | 16–19 | 15–19 | 14–21 |
 | [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 19 | 17–23 | 17–23 | 17–24 | 16–25 |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 17 | 17–19 | 17–19 | 16–21 | 16–23 |

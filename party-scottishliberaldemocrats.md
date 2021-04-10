@@ -135,7 +135,7 @@ Last result: **5** seats (General Election of 5 May 2016)
 | [5–11 November 2020](2020-11-11-Panelbase.html) | Panelbase <br> Scot Goes Pop | 5 | 5–6 | 4–6 | 3–7 | 3–8 |
 | [6–10 November 2020](2020-11-10-YouGov.html) | YouGov | 5 | 5–7 | 5–8 | 4–8 | 3–9 |
 | [3 November 2020](2020-11-03-Survation.html) | Survation | 6 | 5–8 | 5–9 | 5–9 | 4–11 |
-| [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
+| [9 October 2020](2020-10-09-SavantaComRes.html) | Savanta ComRes | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
 | [2–9 October 2020](2020-10-09-IpsosMORI.html) | Ipsos MORI <br> STV News | 9 | 6–10 | 6–11 | 5–11 | 5–12 |
 | [17–21 September 2020](2020-09-21-JLPartners.html) | JL Partners <br> Politico | 8 | 6–10 | 5–11 | 5–12 | 5–12 |
 | [2–7 September 2020](2020-09-07-Survation.html) | Survation | 8 | 6–10 | 6–11 | 5–11 | 5–11 |
@@ -175,7 +175,7 @@ Last result: **5** seats (General Election of 5 May 2016)
 | [27–30 November 2017](2017-11-30-Survation.html) | Survation <br> Daily Record | 9 | 6–12 | 6–12 | 6–12 | 6–13 |
 | [2–5 October 2017](2017-10-05-YouGov.html) | YouGov <br> The Times | 5 | 5–7 | 5–8 | 5–8 | 4–10 |
 | [8–12 September 2017](2017-09-12-Survation.html) | Survation <br> Scottish Daily Mail | 12 | 11–13 | 10–14 | 10–14 | 8–15 |
-| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 5 | 2–5 | 2–5 | 2–5 | 2–6 |
+| [9–14 March 2017](2017-03-14-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
 | [24–29 November 2016](2016-11-29-YouGov.html) | YouGov <br> The Times | 5 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [4 October 2016](2016-10-04-BMGResearch.html) | BMG Research | 6 | 5–8 | 5–9 | 5–9 | 4–11 |
 | [29–31 August 2016](2016-08-31-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–7 | 2–8 |
