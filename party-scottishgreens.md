@@ -113,7 +113,7 @@ Last result: **6** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 6–13 | 5–14 | 4–15 | 3–16 |
-| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 10 | 9–11 | 7–12 | 7–12 | 6–13 |
+| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 10 | 9–11 | 7–12 | 7–12 | 5–13 |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10 | 10–11 | 9–12 | 8–12 | 6–13 |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 6 | 4–10 | 3–10 | 3–10 | 3–10 |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
@@ -200,8 +200,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 90% |  |
 | 8 | 2% | 87% |  |
 | 9 | 4% | 85% |  |
-| 10 | 36% | 81% | Median |
-| 11 | 12% | 45% |  |
+| 10 | 35% | 81% | Median |
+| 11 | 13% | 46% |  |
 | 12 | 15% | 33% |  |
 | 13 | 10% | 18% |  |
 | 14 | 4% | 8% |  |
