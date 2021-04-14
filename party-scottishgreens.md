@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 6.3–12.1% | 5.8–12.7% | 5.4–13.2% | 4.9–14.0% |
+| N/A | [Poll Average](average.html) | 9.6% | 7.2–12.3% | 6.7–12.8% | 6.3–13.3% | 5.7–14.1% |
+| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.3–10.9% | 6.8–11.5% |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.6–14.9% |
@@ -88,19 +89,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 10% | 97% |  |
-| 6.5–7.5% | 15% | 87% | Last Result |
-| 7.5–8.5% | 18% | 72% |  |
-| 8.5–9.5% | 13% | 54% | Median |
-| 9.5–10.5% | 10% | 41% |  |
-| 10.5–11.5% | 13% | 31% |  |
-| 11.5–12.5% | 11% | 17% |  |
-| 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 1.1% | 1.3% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 4% | 99.7% |  |
+| 6.5–7.5% | 11% | 96% | Last Result |
+| 7.5–8.5% | 17% | 85% |  |
+| 8.5–9.5% | 18% | 68% |  |
+| 9.5–10.5% | 14% | 50% | Median |
+| 10.5–11.5% | 16% | 36% |  |
+| 11.5–12.5% | 13% | 20% |  |
+| 12.5–13.5% | 6% | 7% |  |
+| 13.5–14.5% | 1.3% | 1.5% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -112,7 +112,8 @@ Last result: **6** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 5–13 | 4–14 | 3–15 | 3–16 |
+| N/A | [Poll Average](average.html) | 10 | 6–13 | 5–14 | 4–15 | 3–16 |
+| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 10 | 9–11 | 7–12 | 7–12 | 6–13 |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 10 | 10–11 | 9–12 | 8–12 | 6–13 |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 6 | 4–10 | 3–10 | 3–10 | 3–10 |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
@@ -192,21 +193,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 4% | 99.7% |  |
-| 4 | 5% | 96% |  |
-| 5 | 9% | 90% |  |
-| 6 | 3% | 82% | Last Result |
-| 7 | 3% | 79% |  |
-| 8 | 3% | 76% |  |
-| 9 | 5% | 73% |  |
-| 10 | 31% | 68% | Median |
-| 11 | 9% | 37% |  |
-| 12 | 12% | 28% |  |
-| 13 | 9% | 16% |  |
-| 14 | 3% | 7% |  |
-| 15 | 3% | 3% |  |
-| 16 | 0.4% | 0.5% |  |
+| 3 | 0.8% | 100% |  |
+| 4 | 2% | 99.1% |  |
+| 5 | 5% | 97% |  |
+| 6 | 3% | 92% | Last Result |
+| 7 | 2% | 90% |  |
+| 8 | 2% | 87% |  |
+| 9 | 4% | 85% |  |
+| 10 | 36% | 81% | Median |
+| 11 | 12% | 45% |  |
+| 12 | 15% | 33% |  |
+| 13 | 10% | 18% |  |
+| 14 | 4% | 8% |  |
+| 15 | 3% | 4% |  |
+| 16 | 0.4% | 0.6% |  |
 | 17 | 0.1% | 0.2% |  |
 | 18 | 0% | 0.1% |  |
 | 19 | 0% | 0% |  |

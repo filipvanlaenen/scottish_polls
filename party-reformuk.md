@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.4–3.2% |
+| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 0.0% | N/A | N/A | N/A | N/A |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 0.0% | N/A | N/A | N/A | N/A |
@@ -105,6 +106,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland |  |  |  |  |  |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News |  |  |  |  |  |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News |  |  |  |  |  |
