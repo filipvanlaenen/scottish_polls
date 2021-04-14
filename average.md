@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | SNP | CON | LAB | GRN | LIB | ALBA | UKIP | REF | SSP | AFU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 5 May 2016 | General Election | 41.7% <br> 63 | 22.9% <br> 31 | 19.1% <br> 24 | 6.6% <br> 6 | 5.2% <br> 5 | 0.0% <br> 0 | 2.0% <br> 0 | 0.0% <br> 0 | 0.5% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 34–46% <br> 59–71 | 17–24% <br> 19–32 | 15–20% <br> 17–26 | 6–13% <br> 4–15 | 4–9% <br> 3–10 | 2–7% <br> 0–8 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 33–39% <br> 54–65 | 19–25% <br> 23–32 | 15–19% <br> 17–25 | 7–11% <br> 7–12 | 5–8% <br> 4–8 | 5–8% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 34–46% <br> 59–71 | 17–24% <br> 19–32 | 15–20% <br> 17–26 | 6–13% <br> 4–15 | 4–9% <br> 3–10 | 2–7% <br> 0–8 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 33–39% <br> 54–65 | 19–25% <br> 23–32 | 15–19% <br> 17–25 | 7–11% <br> 7–12 | 5–8% <br> 4–8 | 5–8% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 37–43% <br> 60–69 | 18–23% <br> 22–31 | 16–20% <br> 18–26 | 7–11% <br> 8–12 | 6–9% <br> 5–10 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 41–47% <br> 64–73 | 20–25% <br> 24–32 | 15–19% <br> 17–25 | 6–9% <br> 3–10 | 4–7% <br> 2–6 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 March–4 April 2021](2021-04-04-IpsosMORI.html) | Ipsos MORI <br> STV News | 35–41% <br> 59–69 | 19–24% <br> 22–31 | 16–20% <br> 18–25 | 10–14% <br> 11–16 | 5–8% <br> 4–8 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -54,7 +54,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#scottish-socialist-party">Scottish Socialist Party</a> | 0.5% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#alba-party">Alba Party</a> | 0.0% | 3.1% | 2.0–6.0% |1.7–6.6% | 1.5–7.0% | 1.3–7.6% |
 | <a href="#reform-uk">Reform UK</a> | 0.0% | 1.3% | 0.8–2.4% |0.7–2.6% | 0.6–2.8% | 0.4–3.2% |
-| <a href="#all-for-unity">All For Unity</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#all-for-unity">All For Unity</a> | 0.0% | 2.1% | 1.5–2.7% |1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 
 ### Scottish National Party
 
@@ -190,6 +190,19 @@ Only polls for which at least the sample size has been published are included in
 | 7.5–8.5% | 0.6% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
+### All For Unity
+
+*For a full overview of the results for this party, see the [All For Unity](party-allforunity.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 11% | 100% |  |
+| 1.5–2.5% | 74% | 89% | Median |
+| 2.5–3.5% | 15% | 16% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 0% | 0% |  |
+
 ### Reform UK
 
 *For a full overview of the results for this party, see the [Reform UK](party-reformuk.html) page.*
@@ -216,14 +229,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#scottish-national-party">Scottish National Party</a> | 63 | 64 | 60–69 |59–70 | 59–71 | 54–73 |
 | <a href="#scottish-conservative-&-unionist-party">Scottish Conservative & Unionist Party</a> | 31 | 26 | 22–30 |20–32 | 19–32 | 18–33 |
-| <a href="#scottish-labour">Scottish Labour</a> | 24 | 21 | 18–25 |17–25 | 17–26 | 17–27 |
+| <a href="#scottish-labour">Scottish Labour</a> | 24 | 21 | 17–25 |17–25 | 17–26 | 17–27 |
 | <a href="#scottish-greens">Scottish Greens</a> | 6 | 10 | 6–13 |5–14 | 4–15 | 3–16 |
 | <a href="#scottish-liberal-democrats">Scottish Liberal Democrats</a> | 5 | 6 | 4–8 |3–9 | 3–10 | 2–11 |
 | <a href="#uk-independence-party">UK Independence Party</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#scottish-socialist-party">Scottish Socialist Party</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#alba-party">Alba Party</a> | 0 | 0 | 0–7 |0–8 | 0–8 | 0–8 |
 | <a href="#reform-uk">Reform UK</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#all-for-unity">All For Unity</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#all-for-unity">All For Unity</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Scottish National Party
 
@@ -237,14 +250,14 @@ Only polls for which at least the sample size has been published are included in
 | 54 | 0.3% | 99.7% |  |
 | 55 | 0.3% | 99.4% |  |
 | 56 | 0.3% | 99.1% |  |
-| 57 | 0.4% | 98.7% |  |
+| 57 | 0.4% | 98.8% |  |
 | 58 | 0.7% | 98% |  |
 | 59 | 4% | 98% |  |
 | 60 | 8% | 94% |  |
-| 61 | 10% | 85% |  |
+| 61 | 11% | 86% |  |
 | 62 | 8% | 75% |  |
 | 63 | 9% | 67% | Last Result |
-| 64 | 9% | 58% | Median |
+| 64 | 9% | 59% | Median |
 | 65 | 11% | 49% | Majority |
 | 66 | 7% | 38% |  |
 | 67 | 10% | 31% |  |
@@ -274,7 +287,7 @@ Only polls for which at least the sample size has been published are included in
 | 23 | 5% | 88% |  |
 | 24 | 13% | 84% |  |
 | 25 | 13% | 71% |  |
-| 26 | 15% | 58% | Median |
+| 26 | 14% | 58% | Median |
 | 27 | 12% | 44% |  |
 | 28 | 8% | 32% |  |
 | 29 | 7% | 23% |  |
@@ -298,7 +311,7 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 10% | 99.7% |  |
 | 18 | 11% | 90% |  |
 | 19 | 11% | 79% |  |
-| 20 | 8% | 68% |  |
+| 20 | 8% | 67% |  |
 | 21 | 11% | 60% | Median |
 | 22 | 15% | 49% |  |
 | 23 | 11% | 34% |  |
@@ -325,8 +338,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 2% | 90% |  |
 | 8 | 2% | 87% |  |
 | 9 | 4% | 85% |  |
-| 10 | 36% | 81% | Median |
-| 11 | 12% | 45% |  |
+| 10 | 35% | 81% | Median |
+| 11 | 13% | 46% |  |
 | 12 | 15% | 33% |  |
 | 13 | 10% | 18% |  |
 | 14 | 4% | 8% |  |
@@ -346,10 +359,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
 | 3 | 3% | 98% |  |
-| 4 | 8% | 95% |  |
-| 5 | 33% | 87% | Last Result |
-| 6 | 23% | 54% | Median |
-| 7 | 7% | 31% |  |
+| 4 | 7% | 95% |  |
+| 5 | 36% | 87% | Last Result |
+| 6 | 20% | 52% | Median |
+| 7 | 8% | 31% |  |
 | 8 | 15% | 23% |  |
 | 9 | 4% | 8% |  |
 | 10 | 3% | 4% |  |
@@ -382,12 +395,12 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 81% | 100% | Last Result, Median |
-| 1 | 0.7% | 19% |  |
-| 2 | 0.8% | 18% |  |
-| 3 | 0.9% | 18% |  |
-| 4 | 1.1% | 17% |  |
-| 5 | 1.1% | 16% |  |
-| 6 | 3% | 14% |  |
+| 1 | 0.8% | 19% |  |
+| 2 | 0.7% | 18% |  |
+| 3 | 1.0% | 18% |  |
+| 4 | 0.8% | 17% |  |
+| 5 | 1.2% | 16% |  |
+| 6 | 3% | 15% |  |
 | 7 | 5% | 12% |  |
 | 8 | 7% | 7% |  |
 | 9 | 0% | 0% |  |
@@ -408,6 +421,10 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-allforunity.png "Seats Probability Mass Function")
 
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 
 ## Coalitions
 
@@ -419,7 +436,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Scottish National Party – Scottish Greens – Alba Party | 69 | 76 | 100% | 71–80 | 70–81 | 69–82 | 67–83 |
 | Scottish National Party – Scottish Greens | 69 | 75 | 99.4% | 70–80 | 69–81 | 68–82 | 64–83 |
-| Scottish National Party – Alba Party | 63 | 65 | 59% | 61–69 | 60–71 | 59–71 | 58–73 |
+| Scottish National Party – Alba Party | 63 | 65 | 60% | 61–69 | 60–71 | 60–71 | 59–73 |
 | Scottish National Party | 63 | 64 | 49% | 60–69 | 59–70 | 59–71 | 54–73 |
 | Scottish Conservative & Unionist Party – Scottish Labour – Scottish Liberal Democrats | 60 | 53 | 0% | 49–58 | 48–59 | 47–60 | 46–62 |
 | Scottish Conservative & Unionist Party – Scottish Labour | 55 | 47 | 0% | 43–52 | 42–53 | 41–54 | 40–56 |
@@ -434,9 +451,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 65 | 0% | 100% | Majority |
-| 66 | 0.1% | 99.9% |  |
+| 66 | 0.2% | 99.9% |  |
 | 67 | 0.3% | 99.8% |  |
-| 68 | 0.7% | 99.5% |  |
+| 68 | 0.6% | 99.5% |  |
 | 69 | 1.4% | 98.8% | Last Result |
 | 70 | 3% | 97% |  |
 | 71 | 5% | 94% |  |
@@ -449,9 +466,9 @@ Only polls for which at least the sample size has been published are included in
 | 78 | 8% | 31% |  |
 | 79 | 10% | 23% |  |
 | 80 | 6% | 12% |  |
-| 81 | 4% | 7% |  |
+| 81 | 3% | 7% |  |
 | 82 | 2% | 3% |  |
-| 83 | 0.8% | 1.2% |  |
+| 83 | 0.7% | 1.1% |  |
 | 84 | 0.3% | 0.4% |  |
 | 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0% |  |
@@ -465,17 +482,17 @@ Only polls for which at least the sample size has been published are included in
 | 62 | 0.1% | 100% |  |
 | 63 | 0.2% | 99.9% |  |
 | 64 | 0.3% | 99.7% |  |
-| 65 | 0.3% | 99.4% | Majority |
+| 65 | 0.4% | 99.4% | Majority |
 | 66 | 0.5% | 99.1% |  |
 | 67 | 0.8% | 98.6% |  |
 | 68 | 1.4% | 98% |  |
 | 69 | 3% | 96% | Last Result |
-| 70 | 6% | 93% |  |
-| 71 | 7% | 87% |  |
-| 72 | 7% | 80% |  |
-| 73 | 9% | 73% |  |
+| 70 | 6% | 94% |  |
+| 71 | 7% | 88% |  |
+| 72 | 7% | 81% |  |
+| 73 | 9% | 74% |  |
 | 74 | 11% | 64% | Median |
-| 75 | 11% | 53% |  |
+| 75 | 11% | 54% |  |
 | 76 | 9% | 43% |  |
 | 77 | 9% | 34% |  |
 | 78 | 6% | 25% |  |
@@ -494,26 +511,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0% | 100% |  |
-| 55 | 0.1% | 99.9% |  |
+| 55 | 0.1% | 100% |  |
 | 56 | 0.1% | 99.9% |  |
 | 57 | 0.1% | 99.8% |  |
 | 58 | 0.2% | 99.7% |  |
 | 59 | 2% | 99.5% |  |
-| 60 | 5% | 97% |  |
+| 60 | 5% | 98% |  |
 | 61 | 8% | 92% |  |
 | 62 | 7% | 84% |  |
 | 63 | 8% | 77% | Last Result |
 | 64 | 9% | 69% | Median |
-| 65 | 12% | 59% | Majority |
-| 66 | 8% | 47% |  |
+| 65 | 12% | 60% | Majority |
+| 66 | 8% | 48% |  |
 | 67 | 12% | 39% |  |
 | 68 | 9% | 27% |  |
 | 69 | 8% | 18% |  |
 | 70 | 4% | 10% |  |
 | 71 | 3% | 6% |  |
-| 72 | 1.1% | 2% |  |
-| 73 | 0.8% | 1.1% |  |
+| 72 | 1.2% | 2% |  |
+| 73 | 0.8% | 1.0% |  |
 | 74 | 0.2% | 0.2% |  |
 | 75 | 0% | 0% |  |
 
@@ -527,14 +543,14 @@ Only polls for which at least the sample size has been published are included in
 | 54 | 0.3% | 99.7% |  |
 | 55 | 0.3% | 99.4% |  |
 | 56 | 0.3% | 99.1% |  |
-| 57 | 0.4% | 98.7% |  |
+| 57 | 0.4% | 98.8% |  |
 | 58 | 0.7% | 98% |  |
 | 59 | 4% | 98% |  |
 | 60 | 8% | 94% |  |
-| 61 | 10% | 85% |  |
+| 61 | 11% | 86% |  |
 | 62 | 8% | 75% |  |
 | 63 | 9% | 67% | Last Result |
-| 64 | 9% | 58% | Median |
+| 64 | 9% | 59% | Median |
 | 65 | 11% | 49% | Majority |
 | 66 | 7% | 38% |  |
 | 67 | 10% | 31% |  |
@@ -555,9 +571,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 44 | 0.1% | 100% |  |
 | 45 | 0.3% | 99.9% |  |
-| 46 | 0.8% | 99.6% |  |
-| 47 | 2% | 98.8% |  |
-| 48 | 4% | 97% |  |
+| 46 | 0.7% | 99.6% |  |
+| 47 | 2% | 98.9% |  |
+| 48 | 3% | 97% |  |
 | 49 | 6% | 93% |  |
 | 50 | 10% | 88% |  |
 | 51 | 8% | 77% |  |
@@ -570,9 +586,9 @@ Only polls for which at least the sample size has been published are included in
 | 58 | 5% | 11% |  |
 | 59 | 3% | 6% |  |
 | 60 | 1.4% | 3% | Last Result |
-| 61 | 0.7% | 1.2% |  |
+| 61 | 0.6% | 1.2% |  |
 | 62 | 0.3% | 0.5% |  |
-| 63 | 0.1% | 0.2% |  |
+| 63 | 0.2% | 0.2% |  |
 | 64 | 0% | 0.1% |  |
 | 65 | 0% | 0% | Majority |
 
@@ -585,16 +601,16 @@ Only polls for which at least the sample size has been published are included in
 | 38 | 0% | 100% |  |
 | 39 | 0.2% | 99.9% |  |
 | 40 | 0.9% | 99.8% |  |
-| 41 | 1.4% | 98.9% |  |
+| 41 | 1.5% | 98.9% |  |
 | 42 | 3% | 97% |  |
 | 43 | 6% | 95% |  |
 | 44 | 10% | 89% |  |
-| 45 | 9% | 78% |  |
+| 45 | 8% | 78% |  |
 | 46 | 11% | 70% |  |
 | 47 | 11% | 59% | Median |
 | 48 | 13% | 48% |  |
-| 49 | 11% | 35% |  |
-| 50 | 8% | 24% |  |
+| 49 | 11% | 34% |  |
+| 50 | 8% | 23% |  |
 | 51 | 5% | 16% |  |
 | 52 | 4% | 10% |  |
 | 53 | 2% | 6% |  |
@@ -648,14 +664,14 @@ Only polls for which at least the sample size has been published are included in
 | 26 | 2% | 98% |  |
 | 27 | 3% | 95% |  |
 | 28 | 4% | 93% |  |
-| 29 | 8% | 88% |  |
+| 29 | 9% | 88% |  |
 | 30 | 10% | 80% |  |
 | 31 | 12% | 70% |  |
-| 32 | 12% | 58% | Median |
+| 32 | 12% | 57% | Median |
 | 33 | 11% | 45% |  |
-| 34 | 12% | 35% |  |
+| 34 | 12% | 34% |  |
 | 35 | 8% | 23% |  |
-| 36 | 6% | 15% | Last Result |
+| 36 | 6% | 14% | Last Result |
 | 37 | 5% | 9% |  |
 | 38 | 2% | 4% |  |
 | 39 | 1.1% | 2% |  |
@@ -672,14 +688,14 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.4% | 100% |  |
 | 20 | 0.5% | 99.6% |  |
-| 21 | 2% | 99.1% |  |
+| 21 | 1.5% | 99.1% |  |
 | 22 | 7% | 98% |  |
-| 23 | 8% | 91% |  |
+| 23 | 7% | 90% |  |
 | 24 | 9% | 83% |  |
 | 25 | 8% | 74% |  |
 | 26 | 8% | 66% |  |
 | 27 | 10% | 58% | Median |
-| 28 | 8% | 48% |  |
+| 28 | 9% | 47% |  |
 | 29 | 11% | 39% | Last Result |
 | 30 | 9% | 28% |  |
 | 31 | 9% | 19% |  |
