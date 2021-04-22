@@ -8,7 +8,67 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Wed, 14 Apr 2021 21:38:49 +0200</pubDate>
+    <pubDate>Thu, 22 Apr 2021 17:48:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 16–20 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-20-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 59–70 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 25–33 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–25 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 10–13 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 2–6 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0 seats&lt;/li&gt;&lt;li&gt;Reform UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-20-YouGov-seats.png"
+        length="183803"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 17:48:59 +0200</pubDate>
+      <dc:date>2021-04-22T17:48:59.548673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 16–20 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-20-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-20-YouGov-coalitions-seats.png"
+        length="270950"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 17:48:59 +0200</pubDate>
+      <dc:date>2021-04-22T17:48:59.548673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 16–20 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-20-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 37.1–42.6%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 20.1–24.9%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.3–19.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.6–12.1%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.0–6.5%&lt;/li&gt;&lt;li&gt;Alba Party: 1.4–3.0%&lt;/li&gt;&lt;li&gt;Reform UK: 0.6–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-20-YouGov.png"
+        length="226935"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 17:48:59 +0200</pubDate>
+      <dc:date>2021-04-22T17:48:59.548673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 16–20 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 57–67 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 27–36 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–26 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 4–10 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3–6 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes-seats.png"
+        length="187337"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 17:19:33 +0200</pubDate>
+      <dc:date>2021-04-22T17:19:33.972003+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 16–20 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes-coalitions-seats.png"
+        length="286125"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 17:19:33 +0200</pubDate>
+      <dc:date>2021-04-22T17:19:33.972003+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Scotsman, 16–20 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 35.8–41.8%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 20.9–26.2%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.2–19.9%&lt;/li&gt;&lt;li&gt;Scottish Greens: 5.7–9.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alba Party: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes.png"
+        length="219808"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 17:19:33 +0200</pubDate>
+      <dc:date>2021-04-22T17:19:33.972003+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Panelbase for Believe in Scotland, 9–12 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-12-Panelbase.html#seats</link>
@@ -218,6 +278,16 @@
         type="image/png"/>
       <pubDate>Sat, 03 Apr 2021 20:11:46 +0200</pubDate>
       <dc:date>2021-04-03T20:11:46.755984+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 19–22 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 42.4–48.6%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 21.2–26.5%&lt;/li&gt;&lt;li&gt;Scottish Labour: 12.8–17.2%&lt;/li&gt;&lt;li&gt;Scottish Greens: 6.4–9.7%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.png"
+        length="197773"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 16:52:12 +0200</pubDate>
+      <dc:date>2021-04-22T16:52:12.082191+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research for Herald Scotland, 16–19 March 2021 – Seat Projections for the Parties</title>
@@ -2139,6 +2209,6 @@
       <pubDate>Wed, 07 Apr 2021 19:23:24 +0200</pubDate>
       <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
     </item>
-    <dc:date>2021-04-14T21:38:49.457289+02:00</dc:date>
+    <dc:date>2021-04-22T17:48:59.548673+02:00</dc:date>
   </channel>
 </rss>
