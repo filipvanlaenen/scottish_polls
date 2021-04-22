@@ -10,7 +10,9 @@ Last result: **41.7%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.9% | 36.0–44.1% | 35.2–45.0% | 34.5–45.6% | 33.3–46.9% |
+| N/A | [Poll Average](average.html) | 39.2% | 36.0–43.9% | 35.2–44.9% | 34.5–45.6% | 33.3–46.9% |
+| [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 39.8% | 38.0–41.6% | 37.5–42.1% | 37.1–42.6% | 36.2–43.5% |
+| [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 38.8% | 36.8–40.8% | 36.3–41.3% | 35.8–41.8% | 34.9–42.8% |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 36.0% | 34.1–38.0% | 33.6–38.6% | 33.1–39.1% | 32.2–40.0% |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 39.6% | 37.7–41.6% | 37.1–42.2% | 36.6–42.7% | 35.7–43.7% |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 44.0% | 42.0–46.0% | 41.5–46.6% | 41.0–47.1% | 40.0–48.0% |
@@ -18,6 +20,7 @@ Last result: **41.7%** (General Election of 5 May 2016)
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.0% |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 42.5% | 40.5–44.5% | 39.9–45.0% | 39.5–45.5% | 38.5–46.5% |
+| [19–22 March 2021](2021-03-22-YouGov.html) | YouGov <br> The Times | 45.5% | 43.5–47.5% | 42.9–48.1% | 42.4–48.6% | 41.5–49.6% |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 42.0% | 40.1–44.0% | 39.5–44.6% | 39.0–45.1% | 38.1–46.0% |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 39.4% | 37.8–41.0% | 37.4–41.5% | 37.0–41.9% | 36.2–42.7% |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 42.4% | 40.5–44.4% | 40.0–44.9% | 39.5–45.4% | 38.6–46.3% |
@@ -94,16 +97,16 @@ The following table shows the probability mass function per percentage block of 
 | 32.5–33.5% | 0.6% | 99.9% |  |
 | 33.5–34.5% | 2% | 99.3% |  |
 | 34.5–35.5% | 4% | 97% |  |
-| 35.5–36.5% | 7% | 93% |  |
-| 36.5–37.5% | 10% | 86% |  |
-| 37.5–38.5% | 11% | 76% |  |
-| 38.5–39.5% | 11% | 64% |  |
-| 39.5–40.5% | 9% | 54% | Median |
-| 40.5–41.5% | 10% | 44% |  |
-| 41.5–42.5% | 10% | 35% | Last Result |
-| 42.5–43.5% | 10% | 24% |  |
-| 43.5–44.5% | 8% | 15% |  |
-| 44.5–45.5% | 4% | 7% |  |
+| 35.5–36.5% | 8% | 93% |  |
+| 36.5–37.5% | 12% | 85% |  |
+| 37.5–38.5% | 14% | 73% |  |
+| 38.5–39.5% | 14% | 59% | Median |
+| 39.5–40.5% | 11% | 45% |  |
+| 40.5–41.5% | 8% | 34% |  |
+| 41.5–42.5% | 7% | 26% | Last Result |
+| 42.5–43.5% | 7% | 19% |  |
+| 43.5–44.5% | 6% | 12% |  |
+| 44.5–45.5% | 4% | 6% |  |
 | 45.5–46.5% | 2% | 3% |  |
 | 46.5–47.5% | 0.6% | 0.8% |  |
 | 47.5–48.5% | 0.1% | 0.2% |  |
@@ -118,7 +121,9 @@ Last result: **63** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 64 | 60–69 | 59–70 | 59–71 | 54–73 |
+| N/A | [Poll Average](average.html) | 64 | 60–69 | 59–70 | 58–71 | 54–73 |
+| [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 63 | 60–67 | 59–69 | 59–70 | 57–71 |
+| [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 63 | 60–65 | 59–66 | 57–67 | 56–68 |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 61 | 58–63 | 55–64 | 54–65 | 53–67 |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 64 | 61–67 | 60–69 | 60–69 | 59–71 |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 68 | 65–72 | 64–73 | 64–73 | 63–74 |
@@ -126,6 +131,7 @@ Last result: **63** seats (General Election of 5 May 2016)
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 66 | 62–68 | 61–69 | 61–69 | 60–70 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 65 | 61–68 | 61–68 | 60–69 | 59–69 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 66 | 64–70 | 63–70 | 62–71 | 60–72 |
+| [19–22 March 2021](2021-03-22-YouGov.html) | YouGov <br> The Times | 67 | 66–71 | 66–72 | 65–72 | 62–73 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 65 | 62–69 | 61–69 | 61–70 | 60–70 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 63 | 60–65 | 60–67 | 59–68 | 58–69 |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 65 | 62–68 | 61–70 | 61–70 | 59–72 |
@@ -201,24 +207,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 53 | 0.3% | 100% |  |
 | 54 | 0.3% | 99.7% |  |
-| 55 | 0.3% | 99.4% |  |
-| 56 | 0.3% | 99.1% |  |
-| 57 | 0.4% | 98.8% |  |
-| 58 | 0.7% | 98% |  |
-| 59 | 4% | 98% |  |
-| 60 | 8% | 94% |  |
-| 61 | 11% | 86% |  |
-| 62 | 8% | 75% |  |
-| 63 | 9% | 67% | Last Result |
-| 64 | 9% | 59% | Median |
-| 65 | 11% | 49% | Majority |
-| 66 | 7% | 38% |  |
-| 67 | 10% | 31% |  |
-| 68 | 7% | 21% |  |
-| 69 | 6% | 14% |  |
+| 55 | 0.4% | 99.4% |  |
+| 56 | 0.4% | 99.0% |  |
+| 57 | 0.7% | 98.6% |  |
+| 58 | 1.0% | 98% |  |
+| 59 | 5% | 97% |  |
+| 60 | 10% | 92% |  |
+| 61 | 11% | 82% |  |
+| 62 | 9% | 71% |  |
+| 63 | 10% | 62% | Last Result |
+| 64 | 10% | 52% | Median |
+| 65 | 10% | 42% | Majority |
+| 66 | 6% | 32% |  |
+| 67 | 7% | 26% |  |
+| 68 | 6% | 19% |  |
+| 69 | 4% | 12% |  |
 | 70 | 3% | 8% |  |
 | 71 | 3% | 5% |  |
-| 72 | 0.9% | 2% |  |
+| 72 | 1.0% | 2% |  |
 | 73 | 0.7% | 0.9% |  |
 | 74 | 0.2% | 0.2% |  |
 | 75 | 0% | 0% |  |
