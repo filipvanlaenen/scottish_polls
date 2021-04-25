@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Scottish Parliament</description>
     <pubDate>Sat, 3 Apr 2021 13:49:46 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Survation for The Sunday Post, 20–22 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-22-Survation.html</link>
+      <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by Survation for The Sunday Post, 20–22 April 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-04-22-Survation.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-04-22-Survation.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-22-Survation.png" length="225437" type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 12:19:01 +0200</pubDate>
+      <dc:date>2021-04-25T12:19:01.096773+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Savanta ComRes for The Scotsman, 16–20 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Scottish Parliament<br/>65 seats needed for a majority<br/>Opinion poll by Savanta ComRes for The Scotsman, 16–20 April 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-04-20-SavantaComRes-seating-plan.png"/>]]></description>
@@ -220,14 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-26-FindOutNow.png" length="218377" type="image/png"/>
       <pubDate>Sat, 3 Apr 2021 20:11:46 +0200</pubDate>
       <dc:date>2021-04-03T20:11:46.755984+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for The Times, 19–22 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.html</link>
-      <description><![CDATA[Voting intentions for the Scottish Parliament<br/>Opinion poll by YouGov for The Times, 19–22 March 2021<br/>Details on https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.html<br/><img src="https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.png" length="197773" type="image/png"/>
-      <pubDate>Thu, 22 Apr 2021 16:52:12 +0200</pubDate>
-      <dc:date>2021-04-22T16:52:12.082191+02:00</dc:date>
     </item>
   </channel>
 </rss>
