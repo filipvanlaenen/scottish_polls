@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 6.9–12.3% | 6.4–12.8% | 6.1–13.3% | 5.6–14.1% |
+| N/A | [Poll Average](average.html) | 9.8% | 6.9–12.1% | 6.4–12.7% | 6.1–13.2% | 5.6–14.1% |
+| [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 10.2% | 9.2–11.4% | 8.9–11.8% | 8.6–12.1% | 8.2–12.7% |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -97,13 +98,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 6% | 99.6% |  |
 | 6.5–7.5% | 14% | 94% | Last Result |
 | 7.5–8.5% | 12% | 80% |  |
-| 8.5–9.5% | 11% | 68% |  |
-| 9.5–10.5% | 17% | 57% | Median |
-| 10.5–11.5% | 19% | 40% |  |
-| 11.5–12.5% | 14% | 21% |  |
-| 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 1.3% | 1.5% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 14% | 68% |  |
+| 9.5–10.5% | 19% | 54% | Median |
+| 10.5–11.5% | 18% | 35% |  |
+| 11.5–12.5% | 11% | 18% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 1.2% | 1.3% |  |
+| 14.5–15.5% | 0.1% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -115,7 +116,8 @@ Last result: **6** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 6–13 | 5–14 | 4–15 | 3–16 |
+| N/A | [Poll Average](average.html) | 10 | 6–13 | 5–14 | 4–15 | 3–16 |
+| [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 10 | 10–11 | 9–12 | 8–12 | 7–13 |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 7 | 5–10 | 4–10 | 4–10 | 3–11 |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 10 | 9–11 | 7–12 | 7–12 | 5–13 |
@@ -204,13 +206,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 5% | 97% |  |
 | 6 | 4% | 91% | Last Result |
 | 7 | 4% | 87% |  |
-| 8 | 2% | 83% |  |
-| 9 | 3% | 81% |  |
-| 10 | 24% | 77% |  |
-| 11 | 17% | 54% | Median |
-| 12 | 17% | 37% |  |
-| 13 | 11% | 20% |  |
-| 14 | 4% | 8% |  |
+| 8 | 3% | 83% |  |
+| 9 | 4% | 81% |  |
+| 10 | 30% | 77% | Median |
+| 11 | 17% | 47% |  |
+| 12 | 13% | 30% |  |
+| 13 | 9% | 16% |  |
+| 14 | 3% | 7% |  |
 | 15 | 3% | 4% |  |
 | 16 | 0.4% | 0.6% |  |
 | 17 | 0.1% | 0.2% |  |
