@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/scottish_polls</id>
   <title>All Registered Polls for the Scottish Parliament</title>
-  <updated>2021-04-25T12:43:03.638513+02:00</updated>
+  <updated>2021-04-25T23:17:04.393398+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 32.5–38.4%, 60–70 seats</li><li>Scottish Conservative &amp; Unionist Party: 17.8–22.7%, 19–26 seats</li><li>Scottish Labour: 19.8–24.8%, 23–28 seats</li><li>Scottish Greens: 8.4–12.1%, 8–12 seats</li><li>Scottish Liberal Democrats: 5.6–8.8%, 4–8 seats</li><li>Alba Party: 2.1–4.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/scottish_polls/2021-04-22-Survation.html</id>
@@ -86,6 +86,14 @@
     <title>Opinion Poll by Find Out Now for Daily Express, 23–26 March 2021</title>
     <updated>2021-04-03T20:11:46.755984+02:00</updated>
     <dc:date>2021-04-03T20:11:46.755984+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 42.4–48.6%, 64–73 seats</li><li>Scottish Conservative &amp; Unionist Party: 21.2–26.5%, 26–34 seats</li><li>Scottish Labour: 12.8–17.2%, 16–22 seats</li><li>Scottish Greens: 6.4–9.7%, 5–10 seats</li><li>Scottish Liberal Democrats: 3.8–6.5%, 2–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2021-03-22-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 19–22 March 2021</title>
+    <updated>2021-04-25T23:17:04.393398+02:00</updated>
+    <dc:date>2021-04-25T23:17:04.393398+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 39.0–45.1%, 61–70 seats</li><li>Scottish Conservative &amp; Unionist Party: 19.6–24.7%, 23–32 seats</li><li>Scottish Labour: 14.9–19.5%, 17–24 seats</li><li>Scottish Greens: 6.5–9.9%, 4–10 seats</li><li>Scottish Liberal Democrats: 6.5–9.9%, 6–11 seats</li><li>Reform UK: 0.5–1.8%, 0 seats</li></ul></div></content>
@@ -599,5 +607,5 @@
     <updated>2021-04-07T19:23:24.361654+02:00</updated>
     <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
   </entry>
-  <dc:date>2021-04-25T12:43:03.638513+02:00</dc:date>
+  <dc:date>2021-04-25T23:17:04.393398+02:00</dc:date>
 </feed>
