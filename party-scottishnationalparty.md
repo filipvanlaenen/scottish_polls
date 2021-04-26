@@ -134,7 +134,7 @@ Last result: **63** seats (General Election of 5 May 2016)
 | [30 March–1 April 2021](2021-04-01-Panelbase.html) | Panelbase <br> The Sunday Times | 66 | 62–68 | 61–69 | 61–69 | 60–70 |
 | [29–30 March 2021](2021-03-30-Survation.html) | Survation <br> The Courier | 65 | 61–68 | 61–68 | 60–69 | 59–69 |
 | [23–26 March 2021](2021-03-26-FindOutNow.html) | Find Out Now <br> Daily Express | 66 | 64–70 | 63–70 | 62–71 | 60–72 |
-| [19–22 March 2021](2021-03-22-YouGov.html) | YouGov <br> The Times | 67 | 66–71 | 66–72 | 65–72 | 62–73 |
+| [19–22 March 2021](2021-03-22-YouGov.html) | YouGov <br> The Times | 67 | 65–71 | 65–72 | 64–73 | 64–74 |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> Herald Scotland | 65 | 62–69 | 61–69 | 61–70 | 60–70 |
 | [11–18 March 2021](2021-03-18-Survation.html) | Survation <br> The Courier | 63 | 60–65 | 60–67 | 59–68 | 58–69 |
 | [11–16 March 2021](2021-03-16-Opinium.html) | Opinium <br> Sky News | 65 | 62–68 | 61–70 | 61–70 | 59–72 |
