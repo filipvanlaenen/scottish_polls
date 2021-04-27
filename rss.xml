@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Sun, 25 Apr 2021 23:17:04 +0200</pubDate>
+    <pubDate>Tue, 27 Apr 2021 17:51:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 21–26 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 55–65 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 22–30 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 18–26 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 9–13 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4–8 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0–8 seats&lt;/li&gt;&lt;li&gt;All For Unity: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase-seats.png"
+        length="199179"
+        type="image/png"/>
+      <pubDate>Tue, 27 Apr 2021 17:51:34 +0200</pubDate>
+      <dc:date>2021-04-27T17:51:34.565091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 21–26 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase-coalitions-seats.png"
+        length="273472"
+        type="image/png"/>
+      <pubDate>Tue, 27 Apr 2021 17:51:34 +0200</pubDate>
+      <dc:date>2021-04-27T17:51:34.565091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for Scot Goes Pop, 21–26 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 33.2–38.9%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.7–23.6%&lt;/li&gt;&lt;li&gt;Scottish Labour: 15.9–20.5%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.4–12.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 4.8–7.6%&lt;/li&gt;&lt;li&gt;Alba Party: 4.8–7.6%&lt;/li&gt;&lt;li&gt;All For Unity: 1.4–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase.png"
+        length="239129"
+        type="image/png"/>
+      <pubDate>Tue, 27 Apr 2021 17:51:34 +0200</pubDate>
+      <dc:date>2021-04-27T17:51:34.565091+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation for The Sunday Post, 20–22 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-22-Survation.html#seats</link>
@@ -2259,6 +2289,6 @@
       <pubDate>Wed, 07 Apr 2021 19:23:24 +0200</pubDate>
       <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
     </item>
-    <dc:date>2021-04-25T23:17:04.393398+02:00</dc:date>
+    <dc:date>2021-04-27T17:51:34.565091+02:00</dc:date>
   </channel>
 </rss>
