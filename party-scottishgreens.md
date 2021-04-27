@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 6.9–12.1% | 6.4–12.7% | 6.1–13.2% | 5.6–14.1% |
+| N/A | [Poll Average](average.html) | 9.8% | 6.8–12.0% | 6.4–12.7% | 6.1–13.2% | 5.5–14.1% |
+| [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.6% |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 10.2% | 9.2–11.4% | 8.9–11.8% | 8.6–12.1% | 8.2–12.7% |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
@@ -94,17 +95,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.4% | 100% |  |
-| 5.5–6.5% | 6% | 99.6% |  |
-| 6.5–7.5% | 14% | 94% | Last Result |
-| 7.5–8.5% | 12% | 80% |  |
-| 8.5–9.5% | 14% | 68% |  |
-| 9.5–10.5% | 19% | 54% | Median |
-| 10.5–11.5% | 18% | 35% |  |
-| 11.5–12.5% | 11% | 18% |  |
-| 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 1.2% | 1.3% |  |
-| 14.5–15.5% | 0.1% | 0.2% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 7% | 99.5% |  |
+| 6.5–7.5% | 15% | 93% | Last Result |
+| 7.5–8.5% | 11% | 77% |  |
+| 8.5–9.5% | 12% | 67% |  |
+| 9.5–10.5% | 22% | 55% | Median |
+| 10.5–11.5% | 18% | 33% |  |
+| 11.5–12.5% | 10% | 15% |  |
+| 12.5–13.5% | 4% | 6% |  |
+| 13.5–14.5% | 1.2% | 1.4% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -116,7 +117,8 @@ Last result: **6** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 6–13 | 5–14 | 4–15 | 3–16 |
+| N/A | [Poll Average](average.html) | 10 | 5–13 | 5–14 | 4–15 | 3–16 |
+| [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 11 | 10–12 | 10–13 | 9–13 | 7–14 |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 10 | 10–11 | 9–12 | 8–12 | 7–13 |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 7 | 5–10 | 4–10 | 4–10 | 3–11 |
@@ -201,17 +203,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.1% | 100% |  |
-| 4 | 2% | 98.9% |  |
-| 5 | 5% | 97% |  |
-| 6 | 4% | 91% | Last Result |
-| 7 | 4% | 87% |  |
-| 8 | 3% | 83% |  |
-| 9 | 4% | 81% |  |
-| 10 | 30% | 76% | Median |
-| 11 | 17% | 47% |  |
-| 12 | 13% | 30% |  |
-| 13 | 9% | 16% |  |
+| 3 | 1.3% | 100% |  |
+| 4 | 3% | 98.7% |  |
+| 5 | 6% | 96% |  |
+| 6 | 5% | 90% | Last Result |
+| 7 | 4% | 85% |  |
+| 8 | 3% | 81% |  |
+| 9 | 4% | 79% |  |
+| 10 | 31% | 75% | Median |
+| 11 | 16% | 44% |  |
+| 12 | 14% | 28% |  |
+| 13 | 8% | 14% |  |
 | 14 | 3% | 7% |  |
 | 15 | 3% | 4% |  |
 | 16 | 0.4% | 0.6% |  |
