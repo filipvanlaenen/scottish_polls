@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/scottish_polls</id>
   <title>All Registered Polls for the Scottish Parliament</title>
-  <updated>2021-04-25T23:17:04.393398+02:00</updated>
+  <updated>2021-04-27T17:51:34.565091+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 33.2–38.9%, 55–65 seats</li><li>Scottish Conservative &amp; Unionist Party: 18.7–23.6%, 22–30 seats</li><li>Scottish Labour: 15.9–20.5%, 18–26 seats</li><li>Scottish Greens: 8.4–12.0%, 9–13 seats</li><li>Scottish Liberal Democrats: 4.8–7.6%, 4–8 seats</li><li>Alba Party: 4.8–7.6%, 0–8 seats</li><li>All For Unity: 1.4–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase for Scot Goes Pop, 21–26 April 2021</title>
+    <updated>2021-04-27T17:51:34.565091+02:00</updated>
+    <dc:date>2021-04-27T17:51:34.565091+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 32.5–38.4%, 60–70 seats</li><li>Scottish Conservative &amp; Unionist Party: 17.8–22.7%, 19–26 seats</li><li>Scottish Labour: 19.8–24.8%, 23–28 seats</li><li>Scottish Greens: 8.4–12.1%, 8–12 seats</li><li>Scottish Liberal Democrats: 5.6–8.8%, 4–8 seats</li><li>Alba Party: 2.1–4.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/scottish_polls/2021-04-22-Survation.html</id>
@@ -607,5 +615,5 @@
     <updated>2021-04-07T19:23:24.361654+02:00</updated>
     <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
   </entry>
-  <dc:date>2021-04-25T23:17:04.393398+02:00</dc:date>
+  <dc:date>2021-04-27T17:51:34.565091+02:00</dc:date>
 </feed>
