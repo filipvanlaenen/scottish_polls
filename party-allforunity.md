@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 5 May 2016)
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
+| [7–19 April 2021](2021-04-19-LordAshcroft.html) | Lord Ashcroft | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 0.0% | N/A | N/A | N/A | N/A |
@@ -115,6 +116,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post |  |  |  |  |  |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
+| [7–19 April 2021](2021-04-19-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 0 | 0 | 0 | 0 | 0 |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News |  |  |  |  |  |

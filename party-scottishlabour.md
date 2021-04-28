@@ -10,11 +10,12 @@ Last result: **19.1%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.9% | 16.2–21.9% | 15.7–22.9% | 15.4–23.6% | 14.6–24.7% |
+| N/A | [Poll Average](average.html) | 17.6% | 15.8–21.6% | 15.4–22.7% | 15.0–23.4% | 14.4–24.6% |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 18.0% | 16.6–19.6% | 16.2–20.1% | 15.9–20.5% | 15.2–21.2% |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 22.2% | 20.6–23.9% | 20.1–24.4% | 19.8–24.8% | 19.0–25.7% |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 17.4% | 16.0–18.8% | 15.6–19.3% | 15.3–19.6% | 14.7–20.3% |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 17.4% | 15.9–19.0% | 15.5–19.5% | 15.2–19.9% | 14.5–20.7% |
+| [7–19 April 2021](2021-04-19-LordAshcroft.html) | Lord Ashcroft | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.7% | 14.0–18.2% |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 17.0% | 15.5–18.6% | 15.1–19.0% | 14.8–19.4% | 14.1–20.2% |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 17.8% | 16.3–19.4% | 15.9–19.9% | 15.5–20.3% | 14.8–21.1% |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.4% | 14.2–20.2% |
@@ -95,18 +96,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.4% | 100% |  |
-| 14.5–15.5% | 3% | 99.6% |  |
-| 15.5–16.5% | 13% | 96% |  |
-| 16.5–17.5% | 24% | 84% |  |
-| 17.5–18.5% | 25% | 60% | Median |
-| 18.5–19.5% | 14% | 35% | Last Result |
-| 19.5–20.5% | 6% | 22% |  |
-| 20.5–21.5% | 4% | 16% |  |
-| 21.5–22.5% | 5% | 12% |  |
-| 22.5–23.5% | 4% | 7% |  |
-| 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.5% | 0.6% |  |
+| 13.5–14.5% | 0.8% | 100% |  |
+| 14.5–15.5% | 6% | 99.2% |  |
+| 15.5–16.5% | 17% | 93% |  |
+| 16.5–17.5% | 24% | 76% |  |
+| 17.5–18.5% | 22% | 52% | Median |
+| 18.5–19.5% | 12% | 30% | Last Result |
+| 19.5–20.5% | 5% | 18% |  |
+| 20.5–21.5% | 4% | 14% |  |
+| 21.5–22.5% | 4% | 10% |  |
+| 22.5–23.5% | 3% | 6% |  |
+| 23.5–24.5% | 2% | 2% |  |
+| 24.5–25.5% | 0.5% | 0.5% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -124,6 +125,7 @@ Last result: **24** seats (General Election of 5 May 2016)
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 25 | 24–27 | 23–28 | 23–28 | 21–29 |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 21 | 18–24 | 17–25 | 17–25 | 17–26 |
 | [16–20 April 2021](2021-04-20-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 22 | 19–25 | 17–26 | 17–26 | 17–27 |
+| [7–19 April 2021](2021-04-19-LordAshcroft.html) | Lord Ashcroft | 18 | 17–21 | 17–22 | 17–22 | 17–23 |
 | [9–12 April 2021](2021-04-12-Panelbase.html) | Panelbase <br> Believe in Scotland | 19 | 17–23 | 17–24 | 17–25 | 16–26 |
 | [2–7 April 2021](2021-04-07-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 22 | 19–25 | 18–26 | 18–26 | 17–27 |
 | [1–6 April 2021](2021-04-06-Opinium.html) | Opinium <br> Sky News | 22 | 17–24 | 17–24 | 17–25 | 17–27 |
@@ -205,19 +207,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 5% | 100% |  |
-| 18 | 5% | 95% |  |
-| 19 | 7% | 90% |  |
-| 20 | 6% | 82% |  |
-| 21 | 11% | 76% |  |
-| 22 | 16% | 65% | Median |
-| 23 | 12% | 49% |  |
-| 24 | 16% | 37% | Last Result |
-| 25 | 15% | 22% |  |
-| 26 | 4% | 7% |  |
+| 17 | 7% | 100% |  |
+| 18 | 9% | 93% |  |
+| 19 | 7% | 83% |  |
+| 20 | 7% | 76% |  |
+| 21 | 12% | 69% |  |
+| 22 | 15% | 57% | Median |
+| 23 | 10% | 42% |  |
+| 24 | 13% | 32% | Last Result |
+| 25 | 13% | 19% |  |
+| 26 | 4% | 6% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.8% | 1.2% |  |
-| 29 | 0.3% | 0.4% |  |
+| 28 | 0.7% | 1.0% |  |
+| 29 | 0.3% | 0.3% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
