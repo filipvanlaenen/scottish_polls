@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Tue, 27 Apr 2021 17:51:34 +0200</pubDate>
+    <pubDate>Wed, 28 Apr 2021 17:08:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by Panelbase for Scot Goes Pop, 21–26 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-26-Panelbase.html#seats</link>
@@ -128,6 +128,36 @@
         type="image/png"/>
       <pubDate>Thu, 22 Apr 2021 17:19:33 +0200</pubDate>
       <dc:date>2021-04-22T17:19:33.972003+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Lord Ashcroft, 7–19 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-19-LordAshcroft.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 63–69 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 26–32 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 17–22 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 10–11 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5–8 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0 seats&lt;/li&gt;&lt;li&gt;Reform UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-19-LordAshcroft-seats.png"
+        length="163277"
+        type="image/png"/>
+      <pubDate>Wed, 28 Apr 2021 17:08:32 +0200</pubDate>
+      <dc:date>2021-04-28T17:08:32.705937+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Lord Ashcroft, 7–19 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-19-LordAshcroft.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-19-LordAshcroft-coalitions-seats.png"
+        length="227024"
+        type="image/png"/>
+      <pubDate>Wed, 28 Apr 2021 17:08:32 +0200</pubDate>
+      <dc:date>2021-04-28T17:08:32.705937+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Lord Ashcroft, 7–19 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-04-19-LordAshcroft.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 39.9–44.2%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 20.3–23.9%&lt;/li&gt;&lt;li&gt;Scottish Labour: 14.5–17.7%&lt;/li&gt;&lt;li&gt;Scottish Greens: 7.8–10.4%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Alba Party: 1.4–2.7%&lt;/li&gt;&lt;li&gt;Reform UK: 1.4–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-04-19-LordAshcroft.png"
+        length="215887"
+        type="image/png"/>
+      <pubDate>Wed, 28 Apr 2021 17:08:32 +0200</pubDate>
+      <dc:date>2021-04-28T17:08:32.705937+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for Believe in Scotland, 9–12 April 2021 – Seat Projections for the Parties</title>
@@ -2289,6 +2319,6 @@
       <pubDate>Wed, 07 Apr 2021 19:23:24 +0200</pubDate>
       <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
     </item>
-    <dc:date>2021-04-27T17:51:34.565091+02:00</dc:date>
+    <dc:date>2021-04-28T17:08:32.705937+02:00</dc:date>
   </channel>
 </rss>
