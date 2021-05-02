@@ -10,8 +10,9 @@ Last result: **22.9%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 19.8–23.4% | 19.2–23.9% | 18.8–24.3% | 17.9–25.2% |
+| N/A | [Poll Average](average.html) | 21.7% | 19.9–23.4% | 19.3–24.0% | 18.8–24.4% | 17.9–25.2% |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 22.0% | 20.4–23.7% | 20.0–24.1% | 19.6–24.5% | 18.9–25.4% |
+| [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 21.6% | 20.0–23.3% | 19.5–23.8% | 19.1–24.2% | 18.4–25.1% |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 21.0% | 19.5–22.7% | 19.1–23.2% | 18.7–23.6% | 18.0–24.4% |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 20.2% | 18.6–21.8% | 18.2–22.3% | 17.8–22.7% | 17.1–23.5% |
@@ -99,15 +100,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 2% | 99.8% |  |
-| 18.5–19.5% | 6% | 98% |  |
-| 19.5–20.5% | 14% | 92% |  |
-| 20.5–21.5% | 25% | 79% |  |
-| 21.5–22.5% | 28% | 54% | Median |
-| 22.5–23.5% | 18% | 26% | Last Result |
-| 23.5–24.5% | 7% | 8% |  |
-| 24.5–25.5% | 1.5% | 2% |  |
-| 25.5–26.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 1.4% | 99.8% |  |
+| 18.5–19.5% | 5% | 98% |  |
+| 19.5–20.5% | 13% | 93% |  |
+| 20.5–21.5% | 24% | 80% |  |
+| 21.5–22.5% | 28% | 55% | Median |
+| 22.5–23.5% | 18% | 27% | Last Result |
+| 23.5–24.5% | 7% | 9% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.2% | 0.3% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -119,8 +120,9 @@ Last result: **31** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 22–31 | 21–32 | 20–33 | 19–34 |
+| N/A | [Poll Average](average.html) | 27 | 23–31 | 21–32 | 20–33 | 19–34 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 29 | 26–32 | 25–33 | 25–33 | 23–34 |
+| [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 28 | 25–32 | 24–33 | 24–33 | 22–34 |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 29 | 26–32 | 25–33 | 24–33 | 23–35 |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 25 | 23–29 | 23–30 | 22–30 | 21–32 |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 21 | 20–24 | 19–25 | 19–26 | 18–27 |
@@ -208,24 +210,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.2% | 100% |  |
-| 19 | 1.2% | 99.8% |  |
-| 20 | 3% | 98.6% |  |
-| 21 | 3% | 95% |  |
-| 22 | 2% | 92% |  |
-| 23 | 2% | 90% |  |
-| 24 | 7% | 87% |  |
-| 25 | 7% | 80% |  |
-| 26 | 12% | 73% |  |
-| 27 | 14% | 61% | Median |
-| 28 | 11% | 47% |  |
-| 29 | 8% | 36% |  |
-| 30 | 9% | 29% |  |
-| 31 | 10% | 19% | Last Result |
+| 18 | 0.1% | 100% |  |
+| 19 | 1.0% | 99.8% |  |
+| 20 | 3% | 98.8% |  |
+| 21 | 3% | 96% |  |
+| 22 | 2% | 93% |  |
+| 23 | 2% | 91% |  |
+| 24 | 6% | 89% |  |
+| 25 | 8% | 82% |  |
+| 26 | 13% | 74% |  |
+| 27 | 13% | 61% | Median |
+| 28 | 11% | 48% |  |
+| 29 | 8% | 37% |  |
+| 30 | 9% | 28% |  |
+| 31 | 9% | 19% | Last Result |
 | 32 | 6% | 10% |  |
 | 33 | 3% | 4% |  |
-| 34 | 0.4% | 0.6% |  |
-| 35 | 0.1% | 0.2% |  |
+| 34 | 0.5% | 0.8% |  |
+| 35 | 0.2% | 0.2% |  |
 | 36 | 0% | 0% |  |
 
 

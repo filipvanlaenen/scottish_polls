@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 5 May 2016)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.2–3.4% |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0.0% | N/A | N/A | N/A | N/A |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 2.0% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 0.0% | N/A | N/A | N/A | N/A |
@@ -115,6 +116,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
+| [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald |  |  |  |  |  |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman |  |  |  |  |  |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 0 | 0 | 0 | 0 | 0 |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post |  |  |  |  |  |
