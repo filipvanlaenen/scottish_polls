@@ -5,8 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | SNP | CON | LAB | GRN | LIB | ALBA | UKIP | REF | SSP | AFU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 5 May 2016 | General Election | 41.7% <br> 63 | 22.9% <br> 31 | 19.1% <br> 24 | 6.6% <br> 6 | 5.2% <br> 5 | 0.0% <br> 0 | 2.0% <br> 0 | 0.0% <br> 0 | 0.5% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 33–46% <br> 58–71 | 19–24% <br> 20–33 | 15–23% <br> 17–27 | 6–13% <br> 5–15 | 4–8% <br> 2–8 | 1–5% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 33–45% <br> 57–71 | 19–24% <br> 20–33 | 15–23% <br> 17–27 | 6–13% <br> 5–15 | 4–9% <br> 3–10 | 2–5% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 36–42% <br> 60–69 | 20–25% <br> 25–33 | 14–18% <br> 17–24 | 7–10% <br> 5–11 | 6–9% <br> 5–10 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
+| [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 34–40% <br> 55–68 | 20–25% <br> 24–33 | 15–19% <br> 17–25 | 7–11% <br> 8–12 | 6–10% <br> 6–12 | 3–5% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 32–38% <br> 54–64 | 19–24% <br> 24–33 | 16–21% <br> 21–29 | 8–12% <br> 10–14 | 4–6% <br> 3–6 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 33–38% <br> 60–70 | 18–23% <br> 19–26 | 20–25% <br> 23–28 | 8–12% <br> 8–12 | 6–9% <br> 4–8 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 37–43% <br> 59–70 | 20–25% <br> 25–33 | 15–20% <br> 17–25 | 9–12% <br> 10–13 | 4–6% <br> 2–6 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
