@@ -10,10 +10,13 @@ Last result: **5.2%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 4.6–8.0% | 4.3–8.5% | 4.1–8.9% | 3.7–9.7% |
+| N/A | [Poll Average](average.html) | 6.5% | 4.8–8.1% | 4.4–8.5% | 4.2–8.9% | 3.7–9.7% |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.2–9.3% |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| [23–26 April 2021](2021-04-26-Survation.html) | Survation <br> GMB | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 6.0% | 5.2–7.1% | 5.0–7.4% | 4.8–7.6% | 4.4–8.2% |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 5.1% | 4.3–6.0% | 4.1–6.2% | 4.0–6.5% | 3.6–6.9% |
@@ -99,12 +102,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 9% | 99.7% |  |
-| 4.5–5.5% | 24% | 91% | Last Result |
-| 5.5–6.5% | 23% | 68% | Median |
-| 6.5–7.5% | 26% | 45% |  |
-| 7.5–8.5% | 14% | 19% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 6% | 99.8% |  |
+| 4.5–5.5% | 19% | 93% | Last Result |
+| 5.5–6.5% | 26% | 74% |  |
+| 6.5–7.5% | 28% | 48% | Median |
+| 7.5–8.5% | 15% | 20% |  |
 | 8.5–9.5% | 4% | 5% |  |
 | 9.5–10.5% | 0.6% | 0.7% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -119,10 +122,13 @@ Last result: **5** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–8 | 4–9 | 3–10 | 2–11 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–9 | 2–10 | 2–11 |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 4 | 2–4 | 2–5 | 2–6 | 2–6 |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 5 | 4–6 | 3–7 | 2–7 | 2–8 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 6 | 5–8 | 5–9 | 5–10 | 5–11 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 8 | 6–10 | 6–11 | 6–12 | 5–13 |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 5 | 4–5 | 3–6 | 3–6 | 2–7 |
+| [23–26 April 2021](2021-04-26-Survation.html) | Survation <br> GMB | 6 | 5–8 | 5–9 | 5–10 | 4–10 |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 5 | 4–6 | 4–7 | 4–8 | 4–9 |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 2–6 |
@@ -209,13 +215,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% |  |
-| 3 | 3% | 98% |  |
-| 4 | 11% | 95% |  |
-| 5 | 35% | 84% | Last Result, Median |
-| 6 | 22% | 49% |  |
-| 7 | 9% | 26% |  |
-| 8 | 11% | 18% |  |
+| 2 | 4% | 100% |  |
+| 3 | 4% | 96% |  |
+| 4 | 13% | 93% |  |
+| 5 | 24% | 80% | Last Result |
+| 6 | 27% | 55% | Median |
+| 7 | 8% | 28% |  |
+| 8 | 13% | 20% |  |
 | 9 | 3% | 7% |  |
 | 10 | 3% | 4% |  |
 | 11 | 0.6% | 1.1% |  |

@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.7–4.3% | 1.6–4.6% | 1.5–4.9% | 1.2–5.4% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.8–4.3% | 1.7–4.6% | 1.5–4.9% | 1.3–5.4% |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.3–4.9% | 3.2–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [23–26 April 2021](2021-04-26-Survation.html) | Survation <br> GMB | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 6.0% | 5.2–7.1% | 5.0–7.4% | 4.8–7.6% | 4.4–8.2% |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.0% | 1.2–3.4% |
@@ -99,10 +102,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 43% | 96% |  |
-| 2.5–3.5% | 28% | 52% | Median |
-| 3.5–4.5% | 19% | 25% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 35% | 97% |  |
+| 2.5–3.5% | 34% | 62% | Median |
+| 3.5–4.5% | 22% | 27% |  |
 | 4.5–5.5% | 5% | 6% |  |
 | 5.5–6.5% | 0.3% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -117,9 +120,12 @@ Last result: **0** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–4 |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 0 | 0 | 0 | 0 | 0 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0–2 | 0–3 | 0–4 | 0–6 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 0 | 0–1 | 0–2 | 0–3 | 0–6 |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 0 | 0 | 0 | 0 | 0 |
+| [23–26 April 2021](2021-04-26-Survation.html) | Survation <br> GMB | 0 | 0 | 0 | 0 | 0 |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 7 | 2–8 | 0–8 | 0–8 | 0–8 |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 0 | 0 | 0 | 0 | 0 |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
