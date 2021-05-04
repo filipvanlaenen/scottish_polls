@@ -123,9 +123,9 @@ Last result: **31** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 25–32 | 24–32 | 23–33 | 22–34 |
-| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 26 | 25–29 | 24–31 | 24–32 | 22–33 |
-| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 30 | 26–32 | 25–33 | 25–33 | 23–35 |
+| N/A | [Poll Average](average.html) | 28 | 25–32 | 24–33 | 24–33 | 22–34 |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 27 | 25–31 | 24–32 | 24–32 | 22–34 |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 30 | 26–33 | 25–33 | 25–33 | 24–35 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 29 | 26–32 | 25–33 | 25–33 | 23–34 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 28 | 25–32 | 24–33 | 24–33 | 22–34 |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 29 | 26–32 | 25–33 | 24–33 | 23–35 |
@@ -218,19 +218,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.3% | 100% |  |
 | 22 | 0.7% | 99.7% |  |
-| 23 | 1.4% | 98.9% |  |
-| 24 | 5% | 97% |  |
-| 25 | 12% | 92% |  |
-| 26 | 13% | 81% |  |
-| 27 | 15% | 68% |  |
-| 28 | 14% | 53% | Median |
-| 29 | 9% | 39% |  |
-| 30 | 10% | 30% |  |
-| 31 | 9% | 20% | Last Result |
-| 32 | 6% | 11% |  |
+| 23 | 1.4% | 99.0% |  |
+| 24 | 5% | 98% |  |
+| 25 | 10% | 92% |  |
+| 26 | 13% | 82% |  |
+| 27 | 14% | 69% |  |
+| 28 | 14% | 55% | Median |
+| 29 | 10% | 42% |  |
+| 30 | 11% | 32% |  |
+| 31 | 9% | 21% | Last Result |
+| 32 | 7% | 12% |  |
 | 33 | 4% | 5% |  |
-| 34 | 0.7% | 1.0% |  |
-| 35 | 0.2% | 0.3% |  |
+| 34 | 0.8% | 1.1% |  |
+| 35 | 0.3% | 0.3% |  |
 | 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
 

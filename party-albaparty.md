@@ -120,7 +120,7 @@ Last result: **0** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–4 |
-| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–1 |
 | [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 0 | 0 | 0 | 0 | 0 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0–2 | 0–3 | 0–4 | 0–6 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 0 | 0–1 | 0–2 | 0–3 | 0–6 |

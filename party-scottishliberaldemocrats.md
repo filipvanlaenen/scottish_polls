@@ -122,9 +122,9 @@ Last result: **5** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–9 | 2–10 | 2–11 |
-| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 4 | 2–4 | 2–5 | 2–6 | 2–6 |
-| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 5 | 4–6 | 4–7 | 4–8 | 2–8 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–9 | 3–10 | 2–11 |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 2–6 | 2–6 |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 5 | 5–6 | 4–7 | 4–8 | 2–8 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 6 | 5–8 | 5–9 | 5–10 | 5–11 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 8 | 6–10 | 6–11 | 6–12 | 5–13 |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 5 | 4–5 | 3–6 | 3–6 | 2–7 |
@@ -215,11 +215,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 3% | 96% |  |
-| 4 | 11% | 93% |  |
-| 5 | 27% | 82% | Last Result |
-| 6 | 26% | 55% | Median |
+| 2 | 2% | 100% |  |
+| 3 | 2% | 98% |  |
+| 4 | 9% | 96% |  |
+| 5 | 32% | 87% | Last Result |
+| 6 | 26% | 56% | Median |
 | 7 | 8% | 30% |  |
 | 8 | 14% | 22% |  |
 | 9 | 3% | 8% |  |

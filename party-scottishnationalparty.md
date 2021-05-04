@@ -128,9 +128,9 @@ Last result: **63** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 63 | 59–68 | 58–69 | 57–69 | 54–70 |
-| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 68 | 66–69 | 64–69 | 64–69 | 62–69 |
-| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 65 | 62–68 | 61–69 | 60–71 | 59–72 |
+| N/A | [Poll Average](average.html) | 63 | 59–67 | 58–68 | 56–69 | 54–70 |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 64 | 60–69 | 60–69 | 59–69 | 55–69 |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 65 | 61–68 | 61–69 | 60–70 | 59–71 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 64 | 61–67 | 60–68 | 60–69 | 58–70 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 61 | 59–65 | 57–68 | 55–68 | 53–69 |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 60 | 56–62 | 55–63 | 54–64 | 52–66 |
@@ -226,23 +226,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 0.3% | 99.9% |  |
 | 54 | 0.7% | 99.6% |  |
 | 55 | 0.8% | 98.9% |  |
-| 56 | 0.6% | 98% |  |
-| 57 | 1.0% | 98% |  |
+| 56 | 0.7% | 98% |  |
+| 57 | 1.0% | 97% |  |
 | 58 | 2% | 96% |  |
 | 59 | 9% | 95% |  |
-| 60 | 13% | 86% |  |
-| 61 | 11% | 73% |  |
-| 62 | 7% | 62% |  |
-| 63 | 8% | 55% | Last Result, Median |
-| 64 | 7% | 46% |  |
-| 65 | 13% | 39% | Majority |
-| 66 | 5% | 26% |  |
-| 67 | 6% | 21% |  |
-| 68 | 8% | 15% |  |
-| 69 | 7% | 7% |  |
-| 70 | 0.4% | 0.8% |  |
-| 71 | 0.3% | 0.4% |  |
-| 72 | 0.1% | 0.1% |  |
+| 60 | 14% | 85% |  |
+| 61 | 13% | 71% |  |
+| 62 | 7% | 58% |  |
+| 63 | 10% | 51% | Last Result, Median |
+| 64 | 8% | 41% |  |
+| 65 | 14% | 33% | Majority |
+| 66 | 4% | 19% |  |
+| 67 | 5% | 15% |  |
+| 68 | 5% | 10% |  |
+| 69 | 4% | 5% |  |
+| 70 | 0.4% | 0.7% |  |
+| 71 | 0.2% | 0.2% |  |
+| 72 | 0% | 0.1% |  |
 | 73 | 0% | 0% |  |
 
 
