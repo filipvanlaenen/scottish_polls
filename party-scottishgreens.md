@@ -124,13 +124,13 @@ Last result: **6** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10–13 | 7–14 | 6–15 | 4–17 |
+| N/A | [Poll Average](average.html) | 10 | 10–13 | 8–14 | 6–15 | 5–17 |
 | [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 13 | 13–15 | 12–17 | 11–18 | 11–19 |
-| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 10 | 5–10 | 5–10 | 4–10 | 3–11 |
+| [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 10 | 6–10 | 5–10 | 5–11 | 4–11 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 10 | 7–10 | 6–10 | 5–11 | 4–12 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 10 | 10–11 | 9–12 | 8–12 | 6–13 |
 | [23–27 April 2021](2021-04-27-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 11 | 10–12 | 10–13 | 10–14 | 9–15 |
-| [23–26 April 2021](2021-04-26-Survation.html) | Survation <br> GMB | 11 | 10–12 | 10–13 | 10–13 | 8–14 |
+| [23–26 April 2021](2021-04-26-Survation.html) | Survation <br> GMB | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [21–26 April 2021](2021-04-26-Panelbase.html) | Panelbase <br> Scot Goes Pop | 11 | 10–12 | 10–13 | 9–13 | 7–14 |
 | [20–22 April 2021](2021-04-22-Survation.html) | Survation <br> The Sunday Post | 10 | 10–11 | 9–12 | 8–12 | 7–13 |
 | [16–20 April 2021](2021-04-20-YouGov.html) | YouGov <br> The Times | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
@@ -218,17 +218,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 0.5% | 99.9% |  |
-| 5 | 1.4% | 99.3% |  |
+| 4 | 0.4% | 99.9% |  |
+| 5 | 1.3% | 99.6% |  |
 | 6 | 2% | 98% | Last Result |
-| 7 | 1.4% | 96% |  |
-| 8 | 1.2% | 95% |  |
-| 9 | 3% | 93% |  |
-| 10 | 47% | 91% | Median |
-| 11 | 12% | 43% |  |
-| 12 | 10% | 32% |  |
-| 13 | 14% | 22% |  |
-| 14 | 4% | 9% |  |
+| 7 | 1.3% | 97% |  |
+| 8 | 1.1% | 95% |  |
+| 9 | 3% | 94% |  |
+| 10 | 47% | 92% | Median |
+| 11 | 10% | 45% |  |
+| 12 | 12% | 35% |  |
+| 13 | 14% | 23% |  |
+| 14 | 5% | 9% |  |
 | 15 | 3% | 4% |  |
 | 16 | 0.5% | 1.3% |  |
 | 17 | 0.4% | 0.8% |  |
