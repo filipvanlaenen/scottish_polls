@@ -124,7 +124,7 @@ Last result: **24** seats (General Election of 5 May 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–25 | 17–25 | 17–26 | 16–28 |
-| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 18 | 17–21 | 16–22 | 16–23 | 15–24 |
+| [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 19 | 17–22 | 17–24 | 16–24 | 15–25 |
 | [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 21 | 17–24 | 17–24 | 17–25 | 17–26 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 19 | 17–22 | 17–23 | 17–24 | 16–25 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 21 | 18–24 | 17–25 | 17–25 | 16–26 |
@@ -216,16 +216,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.2% | 100% |  |
-| 16 | 0.9% | 99.8% |  |
-| 17 | 14% | 98.9% |  |
-| 18 | 12% | 84% |  |
-| 19 | 8% | 72% |  |
-| 20 | 7% | 64% |  |
-| 21 | 13% | 57% | Median |
-| 22 | 10% | 44% |  |
-| 23 | 9% | 34% |  |
-| 24 | 12% | 25% | Last Result |
+| 15 | 0.1% | 100% |  |
+| 16 | 0.6% | 99.9% |  |
+| 17 | 13% | 99.3% |  |
+| 18 | 12% | 86% |  |
+| 19 | 8% | 74% |  |
+| 20 | 7% | 66% |  |
+| 21 | 14% | 59% | Median |
+| 22 | 11% | 45% |  |
+| 23 | 9% | 35% |  |
+| 24 | 12% | 26% | Last Result |
 | 25 | 10% | 14% |  |
 | 26 | 3% | 4% |  |
 | 27 | 0.5% | 1.2% |  |
