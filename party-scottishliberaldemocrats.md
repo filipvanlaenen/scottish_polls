@@ -10,8 +10,9 @@ Last result: **5.2%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.8–8.1% | 4.4–8.5% | 4.2–8.9% | 3.7–9.7% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.1–8.1% | 4.7–8.5% | 4.4–8.9% | 3.9–9.7% |
 | [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| [30 April–4 May 2021](2021-05-04-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.2–9.3% |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -102,11 +103,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 6% | 99.8% |  |
-| 4.5–5.5% | 19% | 93% | Last Result |
-| 5.5–6.5% | 26% | 74% |  |
-| 6.5–7.5% | 28% | 48% | Median |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 16% | 97% | Last Result |
+| 5.5–6.5% | 30% | 81% |  |
+| 6.5–7.5% | 31% | 51% | Median |
 | 7.5–8.5% | 15% | 20% |  |
 | 8.5–9.5% | 4% | 5% |  |
 | 9.5–10.5% | 0.6% | 0.7% |  |
@@ -124,6 +125,7 @@ Last result: **5** seats (General Election of 5 May 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 4–9 | 4–10 | 2–11 |
 | [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–6 | 2–6 | 2–7 |
+| [30 April–4 May 2021](2021-05-04-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 6 | 5–7 | 5–8 | 5–9 | 4–10 |
 | [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 5 | 5–6 | 4–7 | 4–8 | 2–8 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 6 | 5–8 | 5–9 | 5–10 | 5–11 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 8 | 6–10 | 6–11 | 6–12 | 5–13 |
@@ -215,16 +217,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.1% | 100% |  |
-| 3 | 1.2% | 98.9% |  |
-| 4 | 7% | 98% |  |
-| 5 | 35% | 91% | Last Result |
-| 6 | 26% | 56% | Median |
-| 7 | 8% | 30% |  |
-| 8 | 14% | 22% |  |
-| 9 | 3% | 8% |  |
+| 2 | 0.8% | 100% |  |
+| 3 | 0.9% | 99.2% |  |
+| 4 | 4% | 98% |  |
+| 5 | 32% | 94% | Last Result |
+| 6 | 30% | 62% | Median |
+| 7 | 9% | 31% |  |
+| 8 | 14% | 23% |  |
+| 9 | 4% | 9% |  |
 | 10 | 4% | 5% |  |
-| 11 | 0.7% | 1.1% |  |
+| 11 | 0.7% | 1.2% |  |
 | 12 | 0.3% | 0.5% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |

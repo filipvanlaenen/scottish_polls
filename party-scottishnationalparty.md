@@ -10,8 +10,9 @@ Last result: **41.7%** (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.4% | 35.4–42.0% | 34.5–42.7% | 33.9–43.3% | 32.6–44.2% |
+| N/A | [Poll Average](average.html) | 38.3% | 34.7–42.0% | 33.6–42.7% | 32.7–43.3% | 31.4–44.2% |
 | [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
+| [30 April–4 May 2021](2021-05-04-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.0% | 37.1–45.0% |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 39.0% | 37.1–40.9% | 36.6–41.4% | 36.1–41.9% | 35.2–42.8% |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
@@ -101,15 +102,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.1% | 100% |  |
-| 31.5–32.5% | 0.4% | 99.9% |  |
-| 32.5–33.5% | 1.3% | 99.6% |  |
-| 33.5–34.5% | 3% | 98% |  |
-| 34.5–35.5% | 6% | 95% |  |
-| 35.5–36.5% | 11% | 89% |  |
-| 36.5–37.5% | 15% | 78% |  |
-| 37.5–38.5% | 16% | 63% | Median |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.5% | 99.9% |  |
+| 31.5–32.5% | 1.5% | 99.4% |  |
+| 32.5–33.5% | 3% | 98% |  |
+| 33.5–34.5% | 4% | 95% |  |
+| 34.5–35.5% | 6% | 91% |  |
+| 35.5–36.5% | 9% | 85% |  |
+| 36.5–37.5% | 14% | 76% |  |
+| 37.5–38.5% | 15% | 62% | Median |
 | 38.5–39.5% | 14% | 47% |  |
 | 39.5–40.5% | 10% | 33% |  |
 | 40.5–41.5% | 9% | 23% |  |
@@ -128,8 +130,9 @@ Last result: **63** seats (General Election of 5 May 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 62 | 59–67 | 58–68 | 56–69 | 54–70 |
+| N/A | [Poll Average](average.html) | 62 | 58–67 | 55–68 | 54–69 | 52–70 |
 | [2–4 May 2021](2021-05-04-YouGov.html) | YouGov <br> The Times | 62 | 59–68 | 59–69 | 57–69 | 55–69 |
+| [30 April–4 May 2021](2021-05-04-SavantaComRes.html) | Savanta ComRes <br> The Scotsman | 57 | 53–60 | 52–61 | 51–61 | 48–63 |
 | [3 May 2021](2021-05-03-Opinium.html) | Opinium <br> Sky News | 65 | 61–68 | 61–69 | 60–70 | 59–71 |
 | [28–30 April 2021](2021-04-30-Panelbase.html) | Panelbase <br> The Sunday Times | 64 | 61–67 | 60–68 | 60–69 | 58–70 |
 | [27–30 April 2021](2021-04-30-BMGResearch.html) | BMG Research <br> The Herald | 61 | 59–65 | 57–68 | 55–68 | 53–69 |
@@ -221,20 +224,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 51 | 0% | 100% |  |
-| 52 | 0.1% | 99.9% |  |
-| 53 | 0.3% | 99.9% |  |
-| 54 | 0.7% | 99.6% |  |
-| 55 | 0.9% | 98.8% |  |
-| 56 | 0.7% | 98% |  |
-| 57 | 1.1% | 97% |  |
-| 58 | 2% | 96% |  |
-| 59 | 10% | 94% |  |
-| 60 | 15% | 84% |  |
-| 61 | 13% | 69% |  |
-| 62 | 8% | 56% | Median |
-| 63 | 10% | 48% | Last Result |
-| 64 | 8% | 38% |  |
+| 48 | 0% | 100% |  |
+| 49 | 0.1% | 99.9% |  |
+| 50 | 0.1% | 99.9% |  |
+| 51 | 0.2% | 99.8% |  |
+| 52 | 0.5% | 99.5% |  |
+| 53 | 1.3% | 99.1% |  |
+| 54 | 2% | 98% |  |
+| 55 | 2% | 96% |  |
+| 56 | 1.5% | 94% |  |
+| 57 | 1.5% | 93% |  |
+| 58 | 2% | 91% |  |
+| 59 | 9% | 89% |  |
+| 60 | 14% | 80% |  |
+| 61 | 12% | 67% |  |
+| 62 | 7% | 54% | Median |
+| 63 | 10% | 47% | Last Result |
+| 64 | 8% | 37% |  |
 | 65 | 14% | 29% | Majority |
 | 66 | 4% | 16% |  |
 | 67 | 5% | 12% |  |
