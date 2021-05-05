@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Scottish Parliament</title>
     <link>https://filipvanlaenen.github.io/scottish_polls</link>
     <description>All Registered Polls for the Scottish Parliament</description>
-    <pubDate>Wed, 05 May 2021 07:36:42 +0200</pubDate>
+    <pubDate>Wed, 05 May 2021 17:47:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 2–4 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/scottish_polls/2021-05-04-YouGov.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Tue, 04 May 2021 22:59:57 +0200</pubDate>
       <dc:date>2021-05-04T22:59:57.415586+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 4 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-05-04-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 54–67 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 21–31 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 20–28 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 10–14 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5–10 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-05-04-Survation-seats.png"
+        length="178908"
+        type="image/png"/>
+      <pubDate>Wed, 05 May 2021 17:47:01 +0200</pubDate>
+      <dc:date>2021-05-05T17:47:01.307089+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 4 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-05-04-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-05-04-Survation-coalitions-seats.png"
+        length="286067"
+        type="image/png"/>
+      <pubDate>Wed, 05 May 2021 17:47:01 +0200</pubDate>
+      <dc:date>2021-05-05T17:47:01.307089+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for The Courier, 4 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-05-04-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 33.1–39.0%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 18.6–23.7%&lt;/li&gt;&lt;li&gt;Scottish Labour: 16.7–21.6%&lt;/li&gt;&lt;li&gt;Scottish Greens: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Alba Party: 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-05-04-Survation.png"
+        length="220380"
+        type="image/png"/>
+      <pubDate>Wed, 05 May 2021 17:47:01 +0200</pubDate>
+      <dc:date>2021-05-05T17:47:01.307089+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes for The Scotsman, 30 April–4 May 2021 – Seat Projections for the Parties</title>
@@ -98,6 +128,36 @@
         type="image/png"/>
       <pubDate>Tue, 04 May 2021 21:23:56 +0200</pubDate>
       <dc:date>2021-05-04T21:23:56.358934+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 3 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-05-03-IpsosMORI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 59–68 seats&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 25–33 seats&lt;/li&gt;&lt;li&gt;Scottish Labour: 18–25 seats&lt;/li&gt;&lt;li&gt;Scottish Greens: 11–15 seats&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 2–5 seats&lt;/li&gt;&lt;li&gt;Alba Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-05-03-IpsosMORI-seats.png"
+        length="174196"
+        type="image/png"/>
+      <pubDate>Wed, 05 May 2021 17:16:25 +0200</pubDate>
+      <dc:date>2021-05-05T17:16:25.347066+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 3 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-05-03-IpsosMORI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-05-03-IpsosMORI-coalitions-seats.png"
+        length="268063"
+        type="image/png"/>
+      <pubDate>Wed, 05 May 2021 17:16:25 +0200</pubDate>
+      <dc:date>2021-05-05T17:16:25.347066+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for STV News, 3 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/scottish_polls/2021-05-03-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Scottish National Party: 36.6–41.5%&lt;/li&gt;&lt;li&gt;Scottish Conservative &amp;amp; Unionist Party: 20.9–25.2%&lt;/li&gt;&lt;li&gt;Scottish Labour: 16.1–20.0%&lt;/li&gt;&lt;li&gt;Scottish Greens: 10.4–13.7%&lt;/li&gt;&lt;li&gt;Scottish Liberal Democrats: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Alba Party: 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/scottish_polls/2021-05-03-IpsosMORI.png"
+        length="211695"
+        type="image/png"/>
+      <pubDate>Wed, 05 May 2021 17:16:25 +0200</pubDate>
+      <dc:date>2021-05-05T17:16:25.347066+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 28–30 April 2021 – Seat Projections for the Parties</title>
@@ -2529,6 +2589,6 @@
       <pubDate>Wed, 07 Apr 2021 19:23:24 +0200</pubDate>
       <dc:date>2021-04-07T19:23:24.361654+02:00</dc:date>
     </item>
-    <dc:date>2021-05-05T07:36:42.089278+02:00</dc:date>
+    <dc:date>2021-05-05T17:47:01.307089+02:00</dc:date>
   </channel>
 </rss>
